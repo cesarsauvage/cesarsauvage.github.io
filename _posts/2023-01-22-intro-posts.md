@@ -1,0 +1,12 @@
+---
+title: "Post: Standard"
+excerpt_separator: "<!--more-->"
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
+I'm interested in air-sea interactions and how the ocean surface influence the atmospheric circulation, i.e.  through surface current and eddies, surface waves or sea surface temperature front. My focus is on regional scales and/or forecast of extreme events. Most of my work involve the use of regional coupled ocean-atmosphere-wave modeling and thus how can we improve the representation of the Earth system in these models.
