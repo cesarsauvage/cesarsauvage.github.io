@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : César Sauvage"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Cesar_S.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm interested in air-sea interactions and how the ocean surface influence the atmospheric circulation, i.e.  through surface current and eddies, surface waves or sea surface temperature front. My focus is on regional scales and/or forecast of extreme events. Most of my work involve the use of regional coupled ocean-atmosphere-wave modeling and thus how can we improve the representation of the Earth system in these models."
   location         : "Woods Hole Oceanographic Instituion"
   email            :
