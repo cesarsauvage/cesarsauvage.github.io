@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "César Sauvage"
   avatar           : "/assets/images/Cesar_S.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "Postdoctor Investigator at WHOI"
   location         : "Woods Hole, MA"
-  email            :
+  email            : "csauvage@whoi.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
