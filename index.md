@@ -39,3 +39,20 @@ Past:
 <ul>
  	<li><strong>MISTRALS - HYMEX (2010-2020)</strong>, Hydrological Cycle in Mediterranean Experiments. Drobinski et al., 2014.</li>
 </ul>
+<h3>Honor</h3>
+<ul>
+ 	<li><strong>Physical Oceanography Dissertation Symposium XI</strong>, Kaua'i, Hawai'i, USA, Oct. 2021.
+Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events: better modeling and impacts of river runoff and sea state</em>. Talk.</li>
+</ul>
+&nbsp;
+<h3>Teaching experience</h3>
+<ul>
+ 	<li><strong>'Introduction to Ocean Surface Waves'</strong><em>,</em> Guest lecture for the MIT/WHOI Joint Program, Nov. 2021.</li>
+</ul>
+&nbsp;
+<h3>Community Activities</h3>
+<ul>
+ 	<li>Reviewer for Journal of Geophysical Research ; Atmospheric Chemistry and Physics ;</li>
+ 	<li>Co-organizer of the Physical Oceanography Department Seminar at WHOI (2021-2022)</li>
+ 	<li>Member of Physical Oceanography Department Website Committee at WHOI (2022-now)</li>
+</ul>
