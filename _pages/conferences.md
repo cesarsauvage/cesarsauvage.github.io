@@ -1,6 +1,7 @@
 ---
 title : Conferences & Seminars
 layout : single
+classes : wide 
 permalink : /conferences/
 ---
 
