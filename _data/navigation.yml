@@ -1,7 +1,13 @@
 # main links
 main:
+  - title: "Research"
+    url: /Research/
   - title: "Publications"
     url: /Publications/
+  - title: "Conferences & Seminars"
+    url: /Publications/
+  - title: "CV"
+    url: /CV/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
