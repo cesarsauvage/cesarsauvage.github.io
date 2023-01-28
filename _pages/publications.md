@@ -1,6 +1,7 @@
 ---
 title: Publications
 layout: single
+classes : wide
 permalink: /publications/
 ---
 
