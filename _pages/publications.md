@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Publications
 layout: home
 permalink: /publications/
 ---
