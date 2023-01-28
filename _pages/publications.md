@@ -1,5 +1,7 @@
 ---
-permalink: _pages/publications.md
+title: Portfolio
+layout: home
+permalink: /publications/
 ---
 
 hello
