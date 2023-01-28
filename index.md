@@ -8,3 +8,34 @@ classes : wide
 <p style="text-align: justify;">I'm interested in air-sea interactions and how the ocean surface influence the atmospheric circulation, i.e.  
   through surface current and eddies, surface waves or sea surface temperature front. My focus is on regional scales and/or forecast of extreme events. 
   Most of my work involve the use of regional coupled ocean-atmosphere-wave modeling and thus how can we improve the representation of the Earth system in these models.</p>
+  
+  <h3>Education</h3>
+<ul>
+ 	<li><strong>2019</strong>, Ph.D. at CNRM (National Centre for Meteorological Research), Paul Sabatier University,Toulouse, France.
+<ul>
+ 	<li>Dissertation : <span class=" aw5Odc"><a class="XqQF9c" href="https://hal-meteofrance.archives-ouvertes.fr/tel-02439736/" target="_blank" rel="noopener"><em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events : better modeling and impacts of river runoff and sea state.</em></a></span><em> (full text only available in French)</em></li>
+</ul>
+</li>
+ 	<li><strong>2012-2015</strong>, Engineering university - Water engineering, Polytech’Nice-Sophia Antipolis, France.</li>
+ 	<li><strong>2014</strong>, Semester in South Korea, Incheon National University.</li>
+</ul>
+&nbsp;
+<h3>Positions held</h3>
+<ul>
+ 	<li><strong>2020 - now</strong>, Postodoctoral Investigator at WHOI; <em>Advisors : Hyodae Seo and Carol Anne Clayson</em></li>
+ 	<li><strong>2016 - 2019</strong>, Ph.D. student, CNRM, Toulouse, France; <em>Advisors :</em><em> Cindy Lebeaupin Brossier, Marie-Noelle Bouin and Véronique Ducrocq</em></li>
+ 	<li><strong>2015</strong> (Apr. - Sept.), Internship, Mediterranean Institute of Oceanography, Toulon, France; <em>Advisors : Anne Molcard and Yann Ourmières.</em></li>
+</ul>
+&nbsp;
+<h3>Projects</h3>
+Current:
+<ul>
+ 	<li><strong>NSF PO (2022-2026): </strong>Improving understanding of coupled impacts of oceans and waves on air-sea fluxes in the US Northeast Coast. PIs: Seo, Sauvage, Edson and Clayson.</li>
+ 	<li><strong>N</strong><strong>ASA MAP (2021-2024): </strong>Improving coupled atmosphere-ocean processes in NU-WRF for the simulation of coast-threatening extratropical cyclones in the northeastern US. PI: Seo, Edson, Clayson (all at WHOI), Braun &amp; Shi (NASA GSFC).</li>
+ 	<li><strong>DOE WFIP3 (2021-2026)</strong>, Improving High Resolution Offshore Wind Resource Assessments and Forecasts using Observations in the MA/RI Lease Areas. Kirincich et al.</li>
+ 	<li><strong>NOAA CVP (2019-2022)</strong>, Coupled Ocean-atmosphere interaction mediated by ocean mesoscale eddies in the Northwestern Tropical Atlantic Ocean. PI : Seo and Clayson.</li>
+</ul>
+Past:
+<ul>
+ 	<li><strong>MISTRALS - HYMEX (2010-2020)</strong>, Hydrological Cycle in Mediterranean Experiments. Drobinski et al., 2014.</li>
+</ul>
