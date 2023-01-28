@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Research"
-    url: /Research/
+    url: /research/
   - title: "Publications"
-    url: /Publications/
+    url: /publications/
   - title: "Conferences & Seminars"
-    url: /Conferences/
+    url: /conferences/
   - title: "CV"
     url: /CV/
   #- title: "Quick-Start Guide"
