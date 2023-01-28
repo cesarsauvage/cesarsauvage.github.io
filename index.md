@@ -2,6 +2,8 @@
 layout: single
 author_profile: true
 classes : wide
+header:
+  image: /assets/images/Untitled_2.png
 ---
 
 <h3 style="text-align: left;">Research Interests</h3>
