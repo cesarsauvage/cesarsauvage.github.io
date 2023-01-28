@@ -1,11 +1,8 @@
 ---
-title : Conferences
+title : Conferences & Seminars
 layout : single
 permalink : /conferences/
 ---
-
-<h1>Conferences &amp; Seminars</h1>
-&nbsp;
 
 <strong>To come: </strong>
 <ul>
