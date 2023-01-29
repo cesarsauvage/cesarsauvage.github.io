@@ -2,6 +2,11 @@
 main:
   - title: "Research"
     url: /research/
+    children:
+      - title: "Extreme Events"
+        url: /research/extreme
+      - title: "Surface Fluxes"
+        url: /research/flux
   - title: "Publications"
     url: /publications/
   - title: "Conferences & Seminars"
