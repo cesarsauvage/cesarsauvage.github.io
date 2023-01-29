@@ -2,7 +2,7 @@
 title: Research
 layout: single
 classes : wide
-permalink: /research/
+permalink: /research/extreme/
 sidebar:
   nav: "research"
 # excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
