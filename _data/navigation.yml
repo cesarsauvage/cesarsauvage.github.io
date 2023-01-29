@@ -2,17 +2,22 @@
 main:
   - title: "Research"
     url: /research/
-    children:
-      - title: "Extreme Events"
-        url: /research/extreme
-      - title: "Surface Fluxes"
-        url: /research/flux
   - title: "Publications"
     url: /publications/
   - title: "Conferences & Seminars"
     url: /conferences/
   - title: "CV"
     url: /CV/
+
+research:
+  - title: "Research"
+    url: /research/
+    children:
+      - title: "Extreme Events"
+        url: /research/extreme
+      - title: "Surface Fluxes"
+        url: /research/flux
+
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
