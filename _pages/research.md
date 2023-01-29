@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: single
+layout: splash
 classes : wide
 permalink: /research/
 sidebar:
