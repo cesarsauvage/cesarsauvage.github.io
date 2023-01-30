@@ -13,6 +13,7 @@ permalink: /publications/
 
 
 <strong>Peer-Reviewed</strong>
+
 <strong>2021</strong>
 <ul>
  	<li><strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., and Bouin, M.-N.: Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event, Atmos. Chem. Phys., 21, 11857–11887, DOI: <a href="https://acp.copernicus.org/articles/21/11857/2021/">10.5194/acp-21-11857-2021</a>, 2021.</li>
