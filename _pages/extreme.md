@@ -24,7 +24,7 @@ header:
 <li> differences in the low-level dynamics that influence the positioning of the convergence (directly, as in this case, or indirectly as it modifies the propagation of cold pools over the sea, as in Bouin et al., 2017) and, consequently, the location of the heaviest precipitation.<\li>
   
   
-<video autoplay>
+<video width="640" height="480" autoplay>
   <source src="/assets/videos/anime_vent_vagues.mp4" type="video/mp4">
 </video>
   
