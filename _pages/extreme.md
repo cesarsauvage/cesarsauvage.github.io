@@ -25,7 +25,7 @@ header:
 <li> a slowdown of the low-level wind due to higher surface roughness, which increases the momentum flux (even in a moderate-wind context as in the studied case of Thévenot et al., 2016);</li>
 <li> differences in the low-level dynamics that influence the positioning of the convergence (directly, as in this case, or indirectly as it modifies the propagation of cold pools over the sea, as in Bouin et al., 2017) and, consequently, the location of the heaviest precipitation.</li>
   
-
+<center>
 <video width="960" height="720" autoplay controls>
   <source src="/assets/videos/anime_vent_vagues.mp4" type="video/mp4">
 </video>
