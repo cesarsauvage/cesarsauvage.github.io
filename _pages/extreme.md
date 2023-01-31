@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Extreme Events
 layout: single
 classes : wide
 permalink: /research/extreme/
