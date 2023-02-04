@@ -13,7 +13,7 @@ header:
 #    - label: "More Info"
 #      url: "https://unsplash.com"
 ---
-Mediterranean Heavy Precipitation Events (HPE)
+
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/med_hpe_ducrocq2016.png" alt="">
 <figcaption>from: Ducrocq et al. 2016</figcaption>
