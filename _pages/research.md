@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: single
+layout: splash
 classes : wide
 permalink: /research/
 sidebar:
@@ -12,6 +12,13 @@ header:
 #  actions:
 #    - label: "More Info"
 #      url: "https://unsplash.com"
+feature_row_left:
+  - image_path: /assets/images/hpe.png
+    title: "Extreme Events"
+    excerpt: "to come.."
+    url: /research/extreme
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
+{% include feature_row id="feature_row_left" type="left" %}
 
-To come...
