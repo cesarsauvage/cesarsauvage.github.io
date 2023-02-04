@@ -2,6 +2,7 @@
 title: Research
 layout: splash
 classes : wide
+author_profile : true
 permalink: /research/
 sidebar:
   nav: "research"
