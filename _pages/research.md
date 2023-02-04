@@ -13,8 +13,8 @@ header:
 #    - label: "More Info"
 #      url: "https://unsplash.com"
 feature_row_left:
-  - image_path: /assets/images/hpe.png
-    title: "Extreme Events"
+  - image_path: /assets/images/med_hpe_ducrocq2016.png
+    title: "Mediterranean Extreme Events"
     excerpt: "to come.."
     url: /research/extreme
     btn_label: "Read More"
