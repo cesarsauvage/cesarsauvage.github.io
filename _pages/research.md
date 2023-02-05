@@ -20,13 +20,14 @@ feature_row_left:
     url: /research/hpe
     btn_label: "Read More"
     btn_class: "btn--primary"
-    feature_row_right:
+feature_row_right:
   - image_path: /assets/images/swell_atomic.png
-    title: "Surface FLuxes"
+    title: "Surface Fluxes"
     excerpt: "to come.."
     url: /research/flux
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+{% include feature_row id="feature_row_left" type="left" %}
 {% include feature_row id="feature_row_right" type="right" %}
 
