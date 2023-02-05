@@ -14,7 +14,7 @@ research:
     url: /research/
     children:
       - title: "Extreme Events"
-        url: /research/extreme
+        url: /research/hpe
       - title: "Surface Fluxes"
         url: /research/flux
 
