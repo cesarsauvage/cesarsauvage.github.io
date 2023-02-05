@@ -48,7 +48,7 @@ Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmos
 &nbsp;
 <h3>Community Activities</h3>
 <ul>
- 	<li>Reviewer for Journal of Geophysical Research: Ocean ; Atmospheric Chemistry and Physics ;</li>
+ 	<li>Reviewer for Journal of Geophysical Research (JGR): Ocean ; Atmospheric Chemistry and Physics (ACP) ; Geoscientific Model Development (GMD) ;</li>
  	<li>Co-organizer of the Physical Oceanography Department Seminar at WHOI (2021-2022)</li>
  	<li>Member of Physical Oceanography Department Website Committee at WHOI (2022-now)</li>
 </ul>
