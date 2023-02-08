@@ -8,7 +8,7 @@ permalink : /conferences/
 <strong>To come: </strong>
 <ul>
  	<li><strong>4th Workshop on Waves and Wave-Coupled Processes </strong>, Uppsala, Sweden, Feb. 2023.
-<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Impacts of Waves and Sea States on Air-Sea Momentum Flux in the Northwest Tropical Atlantic Ocean.</li>
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson:Improvements of parametrized air-sea momentum flux using coupled wave modeling in the Northwest Tropical Atlantic Ocean.</li>
 </ul>
 &nbsp;
 
