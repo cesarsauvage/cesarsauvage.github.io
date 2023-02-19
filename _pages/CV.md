@@ -46,7 +46,7 @@ Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmos
  	<li><strong>'Introduction to Ocean Surface Waves'</strong><em>,</em> Guest lecture for the MIT/WHOI Joint Program, Nov. 2021.</li>
 </ul>
 &nbsp;
-<h3>Community Activities</h3>
+<h3>Service</h3>
 <ul>
  	<li>Reviewer for Journal of Geophysical Research (JGR): Oceans | Atmospheres ; Atmospheric Chemistry and Physics (ACP) ; Geoscientific Model Development (GMD) ;</li>
  	<li>Co-organizer of the Physical Oceanography Department Seminar at WHOI (2021-2022)</li>
