@@ -7,13 +7,15 @@ permalink : /conferences/
 
 <strong>To come: </strong>
 <ul>
- 	<li><strong>4th Workshop on Waves and Wave-Coupled Processes </strong>, Uppsala, Sweden, Feb. 2023.
-<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson:Improvements of parametrized air-sea momentum flux using coupled wave modeling in the Northwest Tropical Atlantic Ocean.</li>
+ 	<li><strong>US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop</strong>, Boulder,CO, USA, March 2023.
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson:Improving wave-based air-sea momentum flux parameterization in mixed seas. Poster.</li>
 </ul>
 &nbsp;
 
 <strong>2023</strong>
 <ul>
+  	<li><strong>The 4th Workshop on Waves and Wave-Coupled Processes</strong>, Uppsala, Sweden, Feb. 2023.
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson:Improvements of parametrized air-sea momentum flux using coupled wave modeling in the Northwest Tropical Atlantic Ocean.</li>
  	<li><strong>AMS 2023: 14th Conference on Weather, Climate, and the New Energy Economy </strong>, Denver, CO, USA, Jan. 2023.
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Impacts of Surface Waves on Air-Sea Flux and Marine Boundary Layer Processes in the North Atlantic Oceans.</li>
  	<li>Edson J.B., D. Vandemark, M. Emond, C-A. Clayson, H. Seo, and <u>C. Sauvage</u>: Oceanic Data for Atmospheric Research: Improvements to the COARE Bulk Flux Algorithm using OOI Surface Flux Data. (23rd Conference on Air-Sea Interaction, co-author)</li>
