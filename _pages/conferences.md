@@ -29,7 +29,7 @@ permalink : /conferences/
  	<li><strong>AGU 2022 </strong>, Chicago, IL, USA, Dec. 2022.</li>
 <ul><li><u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Impacts of Waves and Sea States on Air-Sea Momentum Flux in the Northwest Tropical Atlantic Ocean: Parameterization and Wave Coupled Climate Modeling.</li>
  	<li>Edson J.B., D. C. Vandemark, H. Seo, M. Emond, <u>C. Sauvage</u> and C-A. Clayson: Improvements to the COARE Bulk Flux Algorithm using OOI Surface Flux Data. (Poster, co-author)</li>
- 	<li>DeSilva A.M., K. L. Daly, G. Voulgaris, J. B. Edson, A. J. Plueddemann, <u>C. Sauvage</u>, A. Nath, K. G. Bemis, E. Biondi, A. S. Bower, M. Denolle, J. Fang and A. Z. Wang: Ocean Observatories Initiative Facility Board (OOIFB) Town Hall. (Lightening talk, co-author)</li></li></ul>
+ 	<li>DeSilva A.M., K. L. Daly, G. Voulgaris, J. B. Edson, A. J. Plueddemann, <u>C. Sauvage</u>, A. Nath, K. G. Bemis, E. Biondi, A. S. Bower, M. Denolle, J. Fang and A. Z. Wang: Ocean Observatories Initiative Facility Board (OOIFB) Town Hall. (Lightening talk, co-author)</li></ul>
  	<li><strong>Whither the Gulf Stream Workshop: Present Understanding and Future Opportunities for Elucidating the Role of the Gulf Stream in Weather and Climate</strong>, Woods Hole, MA, USA, June 2022.</li> <br> 
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Impacts of surface waves on air-sea flux and marine boundary layer processes in the North Atlantic Oceans. <a href="https://usclivar.org/sites/default/files/2022/posters/Sauvage_Cesar_Poster.pdf">Poster</a>.</li>
  	<li><strong>US CLIVAR Air-Sea Interaction Working Group</strong>, Virtual, March 2022.</li> <br> 
