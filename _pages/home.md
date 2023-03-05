@@ -1,4 +1,5 @@
 ---
+<meta name="google-site-verification" content="jI7yNFG3eKF2CyWe32JsROMA0G0m38nSc3GlGkvlibU" />
 layout: single
 classes : wide
 permalink: /
