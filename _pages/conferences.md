@@ -58,7 +58,7 @@ Seo H., <u> C. Sauvage</u>, J.B. Edson and C-A. Clayson: Surface wave impacts on
 <ul>
  	<li><strong>AGU Fall Meeting</strong>, Virtual, December 2020. <br> 
 <u>Sauvage C.</u>, H. Seo and C-A. Clayson: <em>Modeling of ocean mesoscale variability and coupled ocean-atmosphere interaction in the Northwest Tropical Atlantic Ocean</em>.</li>
- 	<li><strong>Physical Oceanography Seminar</strong>, Woods Hole, MA, USA, September 2020. <br> 
+ 	<li><strong> WHOI Physical Oceanography Seminar</strong>, Woods Hole, MA, USA, September 2020. <br> 
 <u>Sauvage C.</u>, C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events: better modeling and impacts of river runoff and sea state</em>.</li>
 </ul>
 &nbsp;
