@@ -6,9 +6,10 @@ permalink: /publications/
 ---
 
 
-<strong>Submitted</strong>
+<! -- <strong>Submitted</strong>-->
+<strong>Accepted</strong>
 <ul>
- 	<li><strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B.: Impacts of waves and sea states on air-sea momentum flux in the Northwest Tropical Atlantic Ocean: parameterization and wave coupled climate modeling, Journal of Geophysical Research: Oceans, Submitted 2022, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href="https://doi.org/10.1002/essoar.10512415.1">doi.org/10.1002/essoar.10512415.1</a></span></li>
+ 	<li><strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B.: Improving wave-based air-sea momentum flux parameterization in mixed seas, Journal of Geophysical Research: Oceans, Accepted 2023, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href="https://doi.org/10.1002/essoar.10512415.1">doi.org/10.1002/essoar.10512415.1</a></span></li>
 </ul>
 
 
