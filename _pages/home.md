@@ -1,9 +1,11 @@
 ---
-<meta name="google-site-verification" content="jI7yNFG3eKF2CyWe32JsROMA0G0m38nSc3GlGkvlibU" />
 layout: single
 classes : wide
 permalink: /
 ---
+<head>
+  <meta name="google-site-verification" content="jI7yNFG3eKF2CyWe32JsROMA0G0m38nSc3GlGkvlibU" />
+ </head>
 
 <h3 style="text-align: left;">Research Interests</h3>
 <p style="text-align: justify;">I'm interested in air-sea interactions and how the ocean surface influence the atmospheric circulation, i.e.  
