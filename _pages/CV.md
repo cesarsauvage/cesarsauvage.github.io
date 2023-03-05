@@ -37,7 +37,7 @@ Past:
 </ul>
 <h3>Award</h3>
 <ul>
-  <li>Travel award received as a early career scientist to attend the <em>US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop</em>, Boulder,CO, USA, Mar. 2023.</li>
+  <li>Travel grant received as a early career scientist to attend the <em>US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop</em>, Boulder,CO, USA, Mar. 2023.</li>
 </ul>
   <h3>Honor</h3>
 <ul>
