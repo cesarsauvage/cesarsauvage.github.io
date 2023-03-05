@@ -37,6 +37,7 @@ Past:
 </ul>
 <h3>Honor</h3>
 <ul>
+  <li>Travel grant received as a early career scientist to attend the <em>US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop</em>, Boulder,CO, USA, Mar. 2023.</li>
  	<li><strong>Physical Oceanography Dissertation Symposium XI</strong>, Kaua'i, Hawai'i, USA, Oct. 2021.
 Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events: better modeling and impacts of river runoff and sea state</em>. Talk.</li>
 </ul>
