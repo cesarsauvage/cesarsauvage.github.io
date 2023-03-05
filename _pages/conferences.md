@@ -9,7 +9,7 @@ permalink : /conferences/
 <ul>
  	<li><strong>US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop</strong>, Boulder,CO, USA, March 2023.
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson:Improving wave-based air-sea momentum flux parameterization in mixed seas. Poster.</li>
- <li><strong> Hyodae SEo, <u>C. Sauvage </u>, C. Renkl, C-A. Clayson and J. B. Edson:On the misaligned wind waves behind the atmospheric cold fronts. Poster.</li>
+ <li> Hyodae Seo, <u>C. Sauvage </u>, C. Renkl, C-A. Clayson and J. B. Edson:On the misaligned wind waves behind the atmospheric cold fronts. Poster.</li>
 </ul>
 &nbsp;
 
