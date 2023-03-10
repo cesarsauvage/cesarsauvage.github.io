@@ -16,7 +16,7 @@ permalink: /publications/
 </ul>
 
 
-<strong>Peer-Reviewed</strong>
+<strong>Published (Peer-Reviewed)</strong>
 
 <strong>2021</strong>
 <ul>
