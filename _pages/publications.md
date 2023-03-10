@@ -5,8 +5,11 @@ classes : wide
 permalink: /publications/
 ---
 
-
-<!-- <strong>Submitted</strong> -->
+<!-- -->
+<strong>Submitted</strong> 
+<ul>
+ 	<li>Bouin M-N, C. Lebeaupin Brossier, S. Malardel, A. Voldoire, and <strong>C, Sauvage</strong>: The wave-age dependent stress parameterization (WASP) for momentum and heat  turbulent fluxes at sea in SURFEX v8.1.,Geoscientific Model Development, Submitted 2023</li>
+</ul>
 <strong>Accepted</strong>
 <ul>
  	<li><strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B.: Improving wave-based air-sea momentum flux parameterization in mixed seas, Journal of Geophysical Research: Oceans, Accepted 2023, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href="https://doi.org/10.1002/essoar.10512415.1">doi.org/10.1002/essoar.10512415.1</a></span></li>
