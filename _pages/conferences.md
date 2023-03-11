@@ -21,8 +21,8 @@ permalink : /conferences/
 <strong>2023</strong>
 <ul>
   	<li><strong>US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop</strong>, Boulder,CO, USA, March 2023.</li>
-<ul><li><u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas. Poster.</li>
- <li>Seo H., <u>C. Sauvage </u>, C. Renkl, C-A. Clayson and J. B. Edson: On the misaligned wind waves behind the atmospheric cold fronts. Poster.</li></ul>
+<ul><li><u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.  <a href="https://usclivar.org/sites/default/files/2023/posters/SAUVAGE-CESAR-MESO-POSTER-CP.pdf">Poster</a>.</li>
+ <li>Seo H., <u>C. Sauvage </u>, C. Renkl, C-A. Clayson and J. B. Edson: On the misaligned wind waves behind the atmospheric cold fronts.  <a href="https://usclivar.org/sites/default/files/2023/posters/SEO-HYODAE-MESO-POSTER-CP.pdf">Poster</a>.</li></ul>
   	<li><strong>The 4th Workshop on Waves and Wave-Coupled Processes</strong>, Uppsala, Sweden, Feb. 2023.<br> 
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson:Improvements of parametrized air-sea momentum flux using coupled wave modeling in the Northwest Tropical Atlantic Ocean.</li>
  	<li><strong>AMS 2023: 14th Conference on Weather, Climate, and the New Energy Economy </strong>, Denver, CO, USA, Jan. 2023.</li>
