@@ -16,7 +16,7 @@ header:
 feature_row_left:
   - image_path: /assets/images/med_hpe_ducrocq2016.png
     title: "Mediterranean Extreme Events"
-    excerpt: "to come.."
+    excerpt: ""
     url: /research/hpe
     btn_label: "Read More"
     btn_class: "btn--primary"
