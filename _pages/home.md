@@ -2,6 +2,8 @@
 layout: single
 classes : wide
 permalink: /
+header:
+  overlay_image: /assets/images/Untitled_2.png
 ---
 
 <h3 style="text-align: left;">Research Interests</h3>
