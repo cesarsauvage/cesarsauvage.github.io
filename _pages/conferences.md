@@ -3,6 +3,8 @@ title : Conferences & Seminars
 layout : single
 classes : wide 
 permalink : /conferences/
+header:
+  overlay_image: /assets/images/wave1.png
 ---
 
 <strong>To come: </strong>
