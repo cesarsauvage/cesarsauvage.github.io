@@ -191,7 +191,8 @@
     transition: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      /* color: $masthead-link-color-hover; */
+      color: white;
     }
 
     &.site-logo {
