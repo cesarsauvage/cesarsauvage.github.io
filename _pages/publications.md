@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: <div align="center">Publications</div>
 layout: single
 classes : wide
 permalink: /publications/
