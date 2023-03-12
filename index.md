@@ -1,5 +1,5 @@
 ---
-title: Understanding Air-Sea Interactions
+title: <div align="center">Understanding Air-Sea Interactions</div>
 layout: single
 author_profile: true
 classes : wide
