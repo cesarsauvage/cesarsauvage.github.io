@@ -1,5 +1,5 @@
 ---
-title: CV
+title: <div align="center">CV</div>
 layout: single
 classes : wide
 permalink: /CV/
