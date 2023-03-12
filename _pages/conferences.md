@@ -1,5 +1,5 @@
 ---
-title : Conferences & Seminars
+title : <div align="center">Conferences & Seminars</div>
 layout : single
 classes : wide 
 permalink : /conferences/
