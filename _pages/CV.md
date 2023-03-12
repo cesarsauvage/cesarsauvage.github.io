@@ -4,7 +4,7 @@ layout: single
 classes : wide
 permalink: /CV/
 header:
-  overlay_image: /assets/images/wave1.png
+  overlay_image: /assets/images/Untitled_2.png
 ---
 
   <h3>Education</h3>
