@@ -1,5 +1,5 @@
 ---
-title: Research
+title: <div align="center">Research</div>
 layout: splash
 classes : wide
 author_profile : true
