@@ -184,7 +184,8 @@
   a {
     display: block;
     margin: 0 1rem;
-    color: $masthead-link-color;
+    /* color: $masthead-link-color; */
+    color: white;
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
