@@ -20,7 +20,7 @@ header:
 
 <strong>2023</strong>
 <ul>
- 	<li><strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B.: Improving wave-based air-sea momentum flux parameterization in mixed seas, Journal of Geophysical Research: Oceans, Accepted 2023, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href=" https://doi.org/10.1029/2022JC019277">10.1029/2022JC019277</a></span></li>
+ 	<li><strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B.: Improving wave-based air-sea momentum flux parameterization in mixed seas, Journal of Geophysical Research: Oceans, 128, e2022JC019277, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href=" https://doi.org/10.1029/2022JC019277">10.1029/2022JC019277</a></span>, 2023</li>
 </ul>
 
 <strong>2021</strong>
