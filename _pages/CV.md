@@ -55,6 +55,7 @@ Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmos
 <h3>Service</h3>
 <ul>
   <li>Session chair : <em>"Waves in the large-scale air-sea system"</em> at The 4th workshop on Waves and Wave-Coupled Processes, Uppsala, Sweden, February 2023</li>
+  <li>Session chair : <em>"Regional / Shelf Scale"</em> at the Physical Oceanography Dissertation Symposium XI, Kaua'i, Hawai'i, USA, Oct. 2021</li>
  	<li>Reviewer for Journal of Geophysical Research (JGR): Oceans | Atmospheres ; Atmospheric Chemistry and Physics (ACP) ; Geoscientific Model Development (GMD) ;</li>
  	<li>Co-organizer of the Physical Oceanography Department Seminar at WHOI (2021-2022)</li>
  	<li>Member of Physical Oceanography Department Website Committee at WHOI (2022-now)</li>
