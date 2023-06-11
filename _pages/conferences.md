@@ -9,7 +9,7 @@ header:
 
 ** Invited Talk
 
-<strong>To come: </strong>
+<strong>To come: ~ </strong>
 <ul>
  
 </ul>
