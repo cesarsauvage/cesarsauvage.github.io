@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/Untitled_2.png
 ---
 
-**: Invited Talk
+** Invited Talk
 
 <strong>To come: </strong>
 <ul>
