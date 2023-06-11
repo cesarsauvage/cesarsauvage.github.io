@@ -1,5 +1,5 @@
 ---
-title: Understanding Air-Sea Interactions
+
 layout: single
 classes : wide
 permalink: /
