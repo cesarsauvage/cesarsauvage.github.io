@@ -47,7 +47,7 @@ Past:
 Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events: better modeling and impacts of river runoff and sea state</em>. Talk.</li>
 </ul>
 &nbsp;
-<h3>Teaching experience</h3>
+<h3>Teaching & Outreach</h3>
 <ul>
   <li><strong>'Ocean-Atmosphere Interactions Impact on Global Climate'</strong>, Guest lecture in Earth and Science class at Glenville State University, Apr. 2023.</li>
  	<li><strong>'Introduction to Ocean Surface Waves'</strong>, Guest lecture for the MIT/WHOI Joint Program, Nov. 2021.</li>
