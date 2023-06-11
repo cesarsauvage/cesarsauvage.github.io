@@ -49,7 +49,8 @@ Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmos
 &nbsp;
 <h3>Teaching experience</h3>
 <ul>
- 	<li><strong>'Introduction to Ocean Surface Waves'</strong><em>,</em> Guest lecture for the MIT/WHOI Joint Program, Nov. 2021.</li>
+  <li><strong>'Ocean-Atmosphere Interactions Impact on Global Climate'</strong>, Guest lecture in Earth and Science class at Glenville State University, Apr. 2023.</li>
+ 	<li><strong>'Introduction to Ocean Surface Waves'</strong>, Guest lecture for the MIT/WHOI Joint Program, Nov. 2021.</li>
 </ul>
 &nbsp;
 <h3>Service</h3>
