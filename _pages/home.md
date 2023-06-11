@@ -1,5 +1,5 @@
 ---
-titel:
+title:
 layout: single
 classes : wide
 permalink: /
