@@ -7,14 +7,10 @@ header:
   overlay_image: /assets/images/Untitled_2.png
 ---
 
+**: Invited Talk
+
 <strong>To come: </strong>
 <ul>
-  	<li><strong>Graduate School of Oceanography, Physical Oceanography Seminar </strong>, Rhode Island, RI, USA, April 2023.<br> 
-<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
-   	<li><strong>WHOI Physical Oceanography Seminar </strong>, Woods Hole, MA, USA, April 2023.<br> 
-<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
- 	<li><strong>The 29th WISE meeting</strong>, New Jersey, NY, USA, May 2023.<br> 
-<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
  
 </ul>
 
@@ -22,6 +18,18 @@ header:
 
 <strong>2023</strong>
 <ul>
+  	<li><strong>**ODYSEA: winds and currents seminar series</strong>, Virtual, May 2023.<br> 
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
+  
+   	<li><strong>The 29th WISE meeting</strong>, New Jersey, NY, USA, May 2023.<br> 
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
+  
+  <li><strong>WHOI Physical Oceanography Seminar </strong>, Woods Hole, MA, USA, April 2023.<br> 
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
+  
+    	<li><strong>**Graduate School of Oceanography, Physical Oceanography Seminar </strong>, Rhode Island, RI, USA, April 2023.<br> 
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
+  
   	<li><strong>US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop</strong>, Boulder,CO, USA, March 2023.</li>
 <ul><li><u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.  <a href="https://usclivar.org/sites/default/files/2023/posters/SAUVAGE-CESAR-MESO-POSTER-CP.pdf">Poster</a>.</li>
  <li>Seo H., <u>C. Sauvage </u>, C. Renkl, C-A. Clayson and J. B. Edson: On the misaligned wind waves behind the atmospheric cold fronts.  <a href="https://usclivar.org/sites/default/files/2023/posters/SEO-HYODAE-MESO-POSTER-CP.pdf">Poster</a>.</li></ul>
