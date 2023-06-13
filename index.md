@@ -12,7 +12,7 @@ header:
 
 <h3 style="text-align: left;">Recent Talks: <a href="https://cesarsauvage.github.io/conferences/">(see full list)</a> </h3>
 <ul>
-  	<li><strong>**ODYSEA: winds and currents seminar series</strong>, Virtual, May 2023.<br> 
+  	<li><strong>ODYSEA: winds and currents seminar series</strong>, Virtual, May 2023.<br> 
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
   
    	<li><strong>The 29th WISE meeting</strong>, New Jersey, NY, USA, May 2023.<br> 
