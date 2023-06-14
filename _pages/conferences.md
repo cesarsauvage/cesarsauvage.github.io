@@ -1,6 +1,6 @@
 ---
 title : <div align="center">Conferences & Seminars</div>
-layout : single
+layout : splash
 classes : wide 
 author_profile : false
 permalink : /conferences/
