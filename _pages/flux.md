@@ -1,7 +1,8 @@
 ---
 title: Research
-layout: single
+layout: splash
 classes : wide
+author_profile : false
 permalink: /research/flux/
 sidebar:
   nav: "research"
