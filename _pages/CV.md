@@ -1,8 +1,8 @@
 ---
 title: <div align="center">CV</div>
 layout: splash
-author_profile : false
 classes : wide
+author_profile : false
 permalink: /CV/
 header:
   overlay_image: /assets/images/Untitled_2.png
