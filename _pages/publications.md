@@ -1,6 +1,7 @@
 ---
 title: <div align="center">Publications</div>
-layout: single
+layout: splash
+author_profile : false
 classes : wide
 permalink: /publications/
 header:
