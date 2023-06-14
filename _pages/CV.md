@@ -7,6 +7,14 @@ header:
   overlay_image: /assets/images/Untitled_2.png
 ---
 
+<h3>Positions held</h3>
+<ul>
+ 	<li><strong>2020 - now</strong>, Postodoctoral Investigator at WHOI; <em>Advisors : Hyodae Seo and Carol Anne Clayson</em></li>
+ 	<li><strong>2016 - 2019</strong>, Ph.D. student, CNRM, Toulouse, France; <em>Advisors :</em><em> Cindy Lebeaupin Brossier, Marie-Noëlle Bouin and Véronique Ducrocq</em></li>
+ 	<li><strong>2015</strong> (Apr. - Sept.), Guest Student, Mediterranean Institute of Oceanography, Toulon, France; <em>Advisors : Anne Molcard and Yann Ourmières.</em></li>
+</ul>
+&nbsp;
+
   <h3>Education</h3>
 <ul>
  	<li><strong>2019</strong>, Ph.D. at CNRM (National Centre for Meteorological Research), Paul Sabatier University,Toulouse, France.
@@ -16,13 +24,6 @@ header:
 </li>
  	<li><strong>2012-2015</strong>, Engineering university - Water engineering, Polytech’Nice-Sophia Antipolis, France.</li>
  	<li><strong>2014</strong>, Semester in South Korea, Incheon National University.</li>
-</ul>
-&nbsp;
-<h3>Positions held</h3>
-<ul>
- 	<li><strong>2020 - now</strong>, Postodoctoral Investigator at WHOI; <em>Advisors : Hyodae Seo and Carol Anne Clayson</em></li>
- 	<li><strong>2016 - 2019</strong>, Ph.D. student, CNRM, Toulouse, France; <em>Advisors :</em><em> Cindy Lebeaupin Brossier, Marie-Noelle Bouin and Véronique Ducrocq</em></li>
- 	<li><strong>2015</strong> (Apr. - Sept.), Internship, Mediterranean Institute of Oceanography, Toulon, France; <em>Advisors : Anne Molcard and Yann Ourmières.</em></li>
 </ul>
 &nbsp;
 <h3>Projects</h3>
