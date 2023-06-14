@@ -1,6 +1,7 @@
 ---
 title: <div align="center">CV</div>
-layout: single
+layout: splash
+author_profile : false
 classes : wide
 permalink: /CV/
 header:
