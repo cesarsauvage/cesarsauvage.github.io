@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "César Sauvage"
   avatar           : "/assets/images/Cesar_S.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctor Investigator <br>Physical Oceanography Dpt. <br>Woods Hole Oceanographic Inst."
+  bio              : "Postdoctoral Investigator <br>Physical Oceanography Dpt. <br>Woods Hole Oceanographic Inst."
   location         : "Woods Hole, MA"
   email            : "csauvage@whoi.edu"
   links:
