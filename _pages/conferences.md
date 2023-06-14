@@ -2,6 +2,7 @@
 title : <div align="center">Conferences & Seminars</div>
 layout : single
 classes : wide 
+author_profile : true
 permalink : /conferences/
 header:
   overlay_image: /assets/images/Untitled_2.png
