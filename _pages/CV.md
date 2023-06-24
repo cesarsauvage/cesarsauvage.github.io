@@ -10,7 +10,7 @@ header:
 
 <h3>Positions held</h3>
 <ul>
-  <li><strong>2023 - now</strong>, Research Associate III at WHOI</li> 
+  <li><strong>2023 - now</strong>, Research Associate III at WHOI; <em>Supervisor : Hyodae Seo</em></li> 
  	<li><strong>2020 - 2023</strong>, Postodoctoral Investigator at WHOI; <em>Advisors : Hyodae Seo and Carol Anne Clayson</em></li>
  	<li><strong>2016 - 2019</strong>, Ph.D. student, CNRM, Toulouse, France; <em>Advisors :</em><em> Cindy Lebeaupin Brossier, Marie-Noëlle Bouin and Véronique Ducrocq</em></li>
  	<li><strong>2015</strong> (Apr. - Sept.), Guest Student, Mediterranean Institute of Oceanography, Toulon, France; <em>Advisors : Anne Molcard and Yann Ourmières.</em></li>
