@@ -111,7 +111,7 @@ author:
   email            : "csauvage@whoi.edu"
   links:
     - label: "Google Scholar"
-      icon: "fad fa-fw fa-graduatation-cap"
+      icon: "fad fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=blLcOHQAAAAJ&hl=fr"
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
@@ -140,6 +140,15 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+.social-icons {
+  .fa-researchgate {
+    color: #33FFBE;
+  }
+    .fa-orcid {
+    color: #A7F223;
+  }
+}
 
 # Site Footer
 footer:
