@@ -141,14 +141,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-.social-icons {
-  .fa-researchgate {
-    color: #33FFBE;
-  }
-    .fa-orcid {
-    color: #A7F223;
-  }
-}
+
 
 # Site Footer
 footer:
