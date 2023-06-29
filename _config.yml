@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Cesar-Sauvage"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/c%C3%A9sar-sauvage-b4b94a83/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
