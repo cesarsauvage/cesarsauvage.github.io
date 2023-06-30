@@ -31,7 +31,7 @@ header:
 <h3>Projects</h3>
 Current:
 <ul>
- 	<li><strong>NSF PO (2022-2026): </strong>Improving understanding of coupled impacts of oceans and waves on air-sea fluxes in the US Northeast Coast. PIs: Seo, Sauvage, Edson and Clayson.</li>
+ 	<li><strong>NSF PO (2022-2026): </strong>Improving understanding of coupled impacts of oceans and waves on air-sea fluxes in the US Northeast Coast. PIs: Seo, <strong>Sauvage</strong>, Edson and Clayson.</li>
  	<li><strong>N</strong><strong>ASA MAP (2021-2024): </strong>Improving coupled atmosphere-ocean processes in NU-WRF for the simulation of coast-threatening extratropical cyclones in the northeastern US. PI: Seo, Edson, Clayson (all at WHOI), Braun &amp; Shi (NASA GSFC).</li>
  	<li><strong>DOE WFIP3 (2021-2026)</strong>, Improving High Resolution Offshore Wind Resource Assessments and Forecasts using Observations in the MA/RI Lease Areas. Kirincich et al.</li>
  	<li><strong>NOAA CVP (2019-2022)</strong>, Coupled Ocean-atmosphere interaction mediated by ocean mesoscale eddies in the Northwestern Tropical Atlantic Ocean. PI : Seo and Clayson.</li>
