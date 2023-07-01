@@ -8,7 +8,7 @@ header:
 ---
 
 <center>
-<video width="480" height="360" autoplay loop >
+<video width="720" height="540" autoplay loop >
   <source src="/assets/videos/wind_wave.mp4" type="video/mp4">
 </video>
 </center>
