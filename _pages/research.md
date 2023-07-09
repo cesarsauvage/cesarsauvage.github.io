@@ -1,5 +1,5 @@
 ---
-title: <div align="center">Research</div>
+title: <div align="center">Understanding Wind and Waves Interactions</div>
 layout: splash
 classes : wide
 author_profile : true
