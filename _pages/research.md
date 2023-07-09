@@ -9,7 +9,7 @@ sidebar:
   nav: "research"
 header:
   overlay_image: /assets/images/Untitled_2.png
-  feature_row_left1:
+feature_row_left1:
   - image_path: /assets/videos/wind_waves_v2.gif
     title: "Wave Climate"
     excerpt: ""
