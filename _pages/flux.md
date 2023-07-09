@@ -7,6 +7,7 @@ permalink: /research/flux/
 header:
   overlay_image: /assets/images/Untitled_2.png
 sidebar:
+  title: "Research"
   nav: "research"
 ---
 
