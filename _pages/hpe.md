@@ -4,15 +4,10 @@ layout: splash
 classes : wide
 author_profile : false
 permalink: /research/hpe/
-sidebar:
-  nav: "research"
-# excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
   overlay_image: /assets/images/Untitled_2.png
-#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-#  actions:
-#    - label: "More Info"
-#      url: "https://unsplash.com"
+sidebar:
+  nav: "research"
 ---
 
 <center>
