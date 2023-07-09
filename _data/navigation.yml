@@ -10,13 +10,18 @@ main:
     url: /CV/
 
 research:
-  - title: "Research"
-    url: /research/
-    children:
-      - title: "Extreme Events"
-        url: /research/hpe
-      - title: "Surface Fluxes"
-        url: /research/flux
+  - title: "Wave Climate"
+    url: /research/wave_climate
+  - title: "Meditterranean Events"
+    url: /research/hpe
+  - title: "Swell Dominated Region"
+    url: /research/flux
+
+#    children:
+#      - title: "Extreme Events"
+#        url: /research/hpe
+#      - title: "Surface Fluxes"
+#        url: /research/flux
 
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
