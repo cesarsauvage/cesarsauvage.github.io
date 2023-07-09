@@ -1,6 +1,6 @@
 ---
 title: <div align="center">Understanding Wind and Waves Interactions</div>
-layout: splash
+layout: single
 classes : wide
 author_profile : false
 permalink: /research/
@@ -31,8 +31,6 @@ feature_row_left3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
-<img src="/assets/videos/wind_waves_v2.gif">
 
 {% include feature_row id="feature_row_left1" type="left" %}
 {% include feature_row id="feature_row_left2" type="left" %}
