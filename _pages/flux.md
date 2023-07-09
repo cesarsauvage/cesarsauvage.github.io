@@ -10,5 +10,4 @@ sidebar:
   title: "Research"
   nav: "research"
 ---
-
 To come...
