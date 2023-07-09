@@ -29,7 +29,7 @@ feature_row_right:
     btn_class: "btn--primary"
 ---
  <center>
-<img src="/assets/videos/wind_wave_v2.gif" style="width:48px;height:48px;">
+<img src="/assets/videos/wind_wave_v2.gif">
 </center>
 
 {% include feature_row id="feature_row_left" type="left" %}
