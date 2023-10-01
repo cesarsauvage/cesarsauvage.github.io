@@ -7,6 +7,41 @@ permalink: /publications/
 header:
   overlay_image: /assets/images/Untitled_2.png
 ---
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+  
+  .text {
+  font-size: 20px;
+  padding-left: 20px;
+	  
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
 
 <!-- -->
 <h2><strong>Submitted</strong> </h2>
@@ -21,17 +56,22 @@ header:
 <h2><strong>Published (Peer-Reviewed)</strong></h2>
 
 <strong>2023</strong>
-<ul>
-	 <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="380" height="270" align="left"> <br>
-<br>
-<br><li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
-    <strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B., Journal of Geophysical Research: Oceans, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href=" https://doi.org/10.1029/2022JC019277">10.1029/2022JC019277</a></span>, 2023</li>
-</ul>
+<body>
+	<div class="container" >
+		<div class="image" >
+             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="380" height="270" align="left">
+        	</div>
+        	<div class="text" >
+           <ul> <br><br><br> <li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
+    <strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B., Journal of Geophysical Research: Oceans, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href=" https://doi.org/10.1029/2022JC019277">10.1029/2022JC019277</a></span>, 2023</li></ul>
+        	</div>
+	</div>
+</body>
 
 <br>
 <br>
 <br>
-<strong>2021</strong>
+<strong> 2021</strong>
 <ul>
   <li> <h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
  	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., and Bouin, M.-N., Atmos. Chem. Phys., DOI: <a href="https://acp.copernicus.org/articles/21/11857/2021/">10.5194/acp-21-11857-2021</a>, 2021.</li>
@@ -54,3 +94,4 @@ header:
  	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Bouin, M-N., and Ducrocq, V., AMS 21st Conference on Air-Sea Interaction, <a href="https://hal.archives-ouvertes.fr/meteo-02401988">Link</a></li>
 </ul>
 &nbsp;
+</body>
