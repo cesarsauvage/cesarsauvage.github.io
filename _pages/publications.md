@@ -56,16 +56,17 @@ header:
 <h2><strong>Published (Peer-Reviewed)</strong></h2>
 
 <strong>2023</strong>
-<body>
+
+<div class="row">
 	<div class="column" >
-		
              <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="760" height="540" align="left">
         </div>
         <div class="column" >
-           <ul> <br><br><br> <li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
+           <ul> <li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
     <strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B., Journal of Geophysical Research: Oceans, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href=" https://doi.org/10.1029/2022JC019277">10.1029/2022JC019277</a></span>, 2023</li></ul>
         </div>
-</body>
+</div>
+
 
 <br>
 <br>
