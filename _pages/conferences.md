@@ -19,6 +19,9 @@ header:
 
 <strong>2023</strong>
 <ul>
+  <li><strong> Workshop on "Atmosphere-ocean coupling at (sub)mesoscales"</strong>,  Leiden, the Netherlands, Sept. 2023.<br> 
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas. Poster.</li>
+  
   	<li><strong>**ODYSEA: winds and currents seminar series</strong>, Virtual, May 2023.<br> 
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
   
