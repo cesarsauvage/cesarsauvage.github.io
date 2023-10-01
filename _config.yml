@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=blLcOHQAAAAJ&hl=fr"
     - label: "Orcid"
-      icon: "fab fa-orcid"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/my-orcid?orcid=0000-0002-0574-5795"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
