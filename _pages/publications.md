@@ -59,7 +59,7 @@ header:
 <body>
 	<div class="container" >
 		<div class="image" >
-             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="380" height="270" align="left">
+             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="760" height="540" align="left">
         	</div>
         	<div class="text" >
            <ul> <br><br><br> <li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
