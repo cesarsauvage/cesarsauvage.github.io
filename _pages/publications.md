@@ -59,7 +59,7 @@ header:
 
 <div class="row">
 	<div class="column" >
-             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="760" height="540" align="left">
+             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="760" height="540">
         </div>
         <div class="column" >
            <ul> <li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
@@ -67,10 +67,6 @@ header:
         </div>
 </div>
 
-
-<br>
-<br>
-<br>
 <strong> 2021</strong>
 <ul>
   <li> <h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
