@@ -22,10 +22,15 @@ header:
 
 <strong>2023</strong>
 <ul>
- 	<li> <h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
+	 <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="380" height="270" align="left"> <br>
+<br>
+<br><li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
     <strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B., Journal of Geophysical Research: Oceans, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href=" https://doi.org/10.1029/2022JC019277">10.1029/2022JC019277</a></span>, 2023</li>
 </ul>
 
+<br>
+<br>
+<br>
 <strong>2021</strong>
 <ul>
   <li> <h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
