@@ -17,7 +17,6 @@ header:
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
   .container {
   display: flex;
