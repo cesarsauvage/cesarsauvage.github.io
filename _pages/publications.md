@@ -70,7 +70,7 @@ header:
 
 <div class="row">
 	<div class="column" >
-             <img  src="/assets/images/acp-21-11857-2021-avatar-web.png" alt="" width="656" height="224">
+             <img  src="/assets/images/acp-21-11857-2021-avatar-web.png" alt="" width="556" height="364">
         </div>
         <div class="column" >
            <ul> <li><h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
