@@ -34,6 +34,11 @@ header:
   clear: both;
 }
 
+ img {  
+ max-width: 100%;  
+ height: auto;  
+ }  
+
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
@@ -58,7 +63,7 @@ header:
 
 <div class="row">
 	<div class="column" >
-             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="456" height="324">
+             <img  src="/assets/images/paper_atomic_rhb_coare.png">  <!-- alt="" width="456" height="324"> -->
         </div>
         <div class="column" >
            <ul> <li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
@@ -70,7 +75,7 @@ header:
 
 <div class="row">
 	<div class="column" >
-             <img  src="/assets/images/acp-21-11857-2021-avatar-web.png" alt="" width="556" height="464">
+             <img  src="/assets/images/acp-21-11857-2021-avatar-web.png">  <!-- alt="" width="556" height="464">-->
         </div>
         <div class="column" >
            <ul> <li><h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
@@ -81,7 +86,7 @@ header:
 
 <div class="row">
 	<div class="column" >
-             <img  src="/assets/images/acp-20-1675-2020-avatar-web.png" alt="" width="456" height="324">
+             <img  src="/assets/images/acp-20-1675-2020-avatar-web.png">  <!-- alt="" width="456" height="324">-->
         </div>
         <div class="column" >
            <ul> <li><h3>Characterization of the air-sea exchanges during a Mediterranean heavy precipitation event using realistic sea state modelling.</h3>
