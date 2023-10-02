@@ -22,11 +22,11 @@ header:
   display: flex;
   align-items: center;
   justify-content: center
-  
+  }
   .text {
   font-size: 20px;
   padding-left: 20px;
-	  
+  }  
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -58,7 +58,7 @@ header:
 
 <div class="row">
 	<div class="column" >
-             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="760" height="540">
+             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="608" height="432">
         </div>
         <div class="column" >
            <ul> <li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
