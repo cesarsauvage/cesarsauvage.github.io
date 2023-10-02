@@ -58,7 +58,7 @@ header:
 
 <div class="row">
 	<div class="column" >
-             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="608" height="432">
+             <img  src="/assets/images/paper_atomic_rhb_coare.png" alt="" width="456" height="324">
         </div>
         <div class="column" >
            <ul> <li><h3>Improving wave-based air-sea momentum flux parameterization in mixed seas.</h3>
@@ -66,12 +66,17 @@ header:
         </div>
 </div>
 
-<strong> 2021</strong>
-<ul>
-  <li> <h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
- 	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., and Bouin, M.-N., Atmos. Chem. Phys., DOI: <a href="https://acp.copernicus.org/articles/21/11857/2021/">10.5194/acp-21-11857-2021</a>, 2021.</li>
-</ul>
+<strong> 2021</strong>  
 
+<div class="row">
+	<div class="column" >
+             <img  src="/assets/images/AOWC_WASP_env2_18_B_20161013_24.png" alt="" width="456" height="324">
+        </div>
+        <div class="column" >
+           <ul> <li><h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
+ 	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., and Bouin, M.-N., Atmos. Chem. Phys., DOI: <a href="https://acp.copernicus.org/articles/21/11857/2021/">10.5194/acp-21-11857-2021</a>, 2021.</li></ul>
+        </div>
+</div>
 <strong>2020</strong>
 <ul>
    <li> <h3>Characterization of the air-sea exchanges during a Mediterranean heavy precipitation event using realistic sea state modelling.</h3>
