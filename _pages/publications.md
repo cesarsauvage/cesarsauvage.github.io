@@ -70,7 +70,7 @@ header:
 
 <div class="row">
 	<div class="column" >
-             <img  src="/assets/images/AOWC_WASP_env2_18_B_20161013_24.png" alt="" width="456" height="324">
+             <img  src="/assets/images/acp-21-11857-2021-avatar-web.png" alt="" width="656" height="224">
         </div>
         <div class="column" >
            <ul> <li><h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
@@ -78,10 +78,16 @@ header:
         </div>
 </div>
 <strong>2020</strong>
-<ul>
-   <li> <h3>Characterization of the air-sea exchanges during a Mediterranean heavy precipitation event using realistic sea state modelling.</h3>
- 	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Bouin, M-N., and Ducrocq, V., Atmos. Chem. Phys., DOI : <a href="https://www.atmos-chem-phys.net/20/1675/2020/">10.5194/acp-20-1675-2020</a>, 2020.</li>
-</ul>
+
+<div class="row">
+	<div class="column" >
+             <img  src="/assets/images/acp-20-1675-2020-avatar-web.png" alt="" width="456" height="324">
+        </div>
+        <div class="column" >
+           <ul> <li><h3>Characterization of the air-sea exchanges during a Mediterranean heavy precipitation event using realistic sea state modelling.</h3>
+ 	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Bouin, M-N., and Ducrocq, V., Atmos. Chem. Phys., DOI : <a href="https://www.atmos-chem-phys.net/20/1675/2020/">10.5194/acp-20-1675-2020</a>, 2020.</li></ul>
+        </div>
+</div>
 
 <strong>2018</strong>
 <ul>
