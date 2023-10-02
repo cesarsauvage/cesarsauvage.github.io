@@ -66,11 +66,6 @@ header:
         </div>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
 <strong> 2021</strong>
 <ul>
   <li> <h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
