@@ -95,14 +95,28 @@ header:
 </div>
 
 <strong>2018</strong>
-<ul>
-   <li> <h3>Impact of the representation of the freshwater river input in the Western Mediterranean Sea.</h3>
- <strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Ducrocq, V., Bouin, M-N., Vincendon, B., Verdecchia, M., Taupier-Letage, I. and Orain, F., Ocean Modelling, DOI : <a href="https://doi.org/10.1016/j.ocemod.2018.09.005">10.1016/j.ocemod.2018.09.005</a>.</li>
-</ul>
+
+<div class="row">
+	<div class="column" >
+             <img  src="/assets/images/rhone_plume_phd.png">  <!-- alt="" width="456" height="324">-->
+        </div>
+        <div class="column" >
+           <ul> <li> <h3>Impact of the representation of the freshwater river input in the Western Mediterranean Sea.</h3>
+ <strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Ducrocq, V., Bouin, M-N., Vincendon, B., Verdecchia, M., Taupier-Letage, I. and Orain, F., Ocean Modelling, DOI : <a href="https://doi.org/10.1016/j.ocemod.2018.09.005">10.1016/j.ocemod.2018.09.005</a>, 2018</li></ul>
+        </div>
+</div>
+
 <h2><strong>Conference paper:</strong></h2>
-<ul>
-   <li> <h3>Role of the sea state on the air-sea exchanges during a Mediterranean heavy precipitation event in a kilometer-scale forecast system.</h3>
- 	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Bouin, M-N., and Ducrocq, V., AMS 21st Conference on Air-Sea Interaction, <a href="https://hal.archives-ouvertes.fr/meteo-02401988">Link</a></li>
-</ul>
+
+<div class="row">
+	<div class="column" >
+             <img  src="/assets/images/flux_test_phd.png">  <!-- alt="" width="456" height="324">-->
+        </div>
+        <div class="column" >
+           <ul> <li>  <h3>Role of the sea state on the air-sea exchanges during a Mediterranean heavy precipitation event in a kilometer-scale forecast system.</h3>
+ 	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Bouin, M-N., and Ducrocq, V., AMS 21st Conference on Air-Sea Interaction, <a href="https://hal.archives-ouvertes.fr/meteo-02401988">Link</a></li></ul>
+        </div>
+</div>
+
 &nbsp;
-</body>
+
