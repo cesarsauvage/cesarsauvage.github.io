@@ -80,7 +80,7 @@ header:
 
 <div class="row">
 	<div class="column_left" >
-             <img  src="/assets/images/acp-21-11857-2021-avatar-web.png">  <!-- alt="" width="556" height="464">-->
+             <img  src="/assets/images/AOWC_WASP_env2_18_B_20161013_24.png">  <!-- alt="" width="556" height="464">-->
         </div>
         <div class="column_right" >
            <ul> <li><h3>Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event.</h3>
@@ -103,7 +103,7 @@ header:
 
 <div class="row">
 	<div class="column_left" >
-             <img  src="/assets/images/rhone_plume_phd.png">  <!-- alt="" width="456" height="324">-->
+             <img  src="/assets/images/rhone_plume_phd_v1.png">  <!-- alt="" width="456" height="324">-->
         </div>
         <div class="column_right" >
            <ul> <li> <h3>Impact of the representation of the freshwater river input in the Western Mediterranean Sea.</h3>
@@ -115,7 +115,7 @@ header:
 
 <div class="row">
 	<div class="column_left" >
-             <img  src="/assets/images/flux_test_phd_v1.png">  <!-- alt="" width="456" height="324">-->
+             <img  src="/assets/images/flux_test_phd.png">  <!-- alt="" width="456" height="324">-->
         </div>
         <div class="column_right" >
            <ul> <li>  <h3>Role of the sea state on the air-sea exchanges during a Mediterranean heavy precipitation event in a kilometer-scale forecast system.</h3>
