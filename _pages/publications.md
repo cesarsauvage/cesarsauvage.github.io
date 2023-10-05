@@ -115,7 +115,7 @@ header:
 
 <div class="row">
 	<div class="column_left" >
-             <img  src="/assets/images/flux_test_phd.png">  <!-- alt="" width="456" height="324">-->
+             <img  src="/assets/images/flux_test_phd_v1.png">  <!-- alt="" width="456" height="324">-->
         </div>
         <div class="column_right" >
            <ul> <li>  <h3>Role of the sea state on the air-sea exchanges during a Mediterranean heavy precipitation event in a kilometer-scale forecast system.</h3>
