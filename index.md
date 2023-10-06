@@ -25,7 +25,7 @@ header:
   
    	<li><strong>The 29th WISE meeting</strong>, New Jersey, NY, USA, May 2023.<br> 
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
-  
+  </ul>
  
  <h3 style="text-align: left;">Recent Publications:  <a href="https://cesarsauvage.github.io/publications/">(see full list)</a> </h3>
   <strong>Submitted</strong> 
