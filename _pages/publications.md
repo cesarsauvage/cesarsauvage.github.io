@@ -53,13 +53,13 @@ header:
 </style>
 
 <!-- -->
-<h2><strong>Submitted</strong> </h2>
+<!-- <h2><strong>Submitted</strong> </h2>-->
+
+<h2><strong>Accepted</strong>  </h2>
 <ul>
   	<li> <h3>The wave-age dependent stress parameterization (WASP) for momentum and heat  turbulent fluxes at sea in SURFEX v8.1.</h3>
- 	Bouin M-N, C. Lebeaupin Brossier, S. Malardel, A. Voldoire, and <strong>C. Sauvage</strong>, Geoscientific Model Development, Submitted 2023</li>
+ 	Bouin M-N, C. Lebeaupin Brossier, S. Malardel, A. Voldoire, and <strong>C. Sauvage</strong>, Geoscientific Model Development, Accepted 2023</li>
 </ul>
-<!-- <strong>Accepted</strong>  -->
-
 
 
 <h2><strong>Published (Peer-Reviewed)</strong></h2>
