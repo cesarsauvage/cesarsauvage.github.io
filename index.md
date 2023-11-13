@@ -26,12 +26,12 @@ header:
   </ul>
  
  <h3 style="text-align: left;">Recent Publications:  <a href="https://cesarsauvage.github.io/publications/">(see full list)</a> </h3>
-  <strong>Submitted</strong> 
-<ul>
- 	<li>Bouin M-N, C. Lebeaupin Brossier, S. Malardel, A. Voldoire, and <strong>C. Sauvage</strong>: The wave-age dependent stress parameterization (WASP) for momentum and heat  turbulent fluxes at sea in SURFEX v8.1.,Geoscientific Model Development, Submitted 2023</li>
-</ul>
+<!--   <strong>Submitted</strong> -->
 
-<!-- <strong>Accepted</strong>  -->
+<strong>Accepted</strong>  
+<ul>
+ 	<li>Bouin M-N, C. Lebeaupin Brossier, S. Malardel, A. Voldoire, and <strong>C. Sauvage</strong>: The wave-age dependent stress parameterization (WASP) for momentum and heat  turbulent fluxes at sea in SURFEX v8.1.,Geoscientific Model Development, Accepted 2023</li>
+</ul>
 
 <strong>Published (Peer-Reviewed)</strong>
 
