@@ -8,22 +8,52 @@ header:
   overlay_image: /assets/images/Untitled_2.png
 ---
 
-<style type="text/css">
-#wrap {
-   width:100%;
-   margin:0 auto;
+<style>
+* {
+  box-sizing: border-box;
 }
-#left_col {
-   float:left;
-   width:30%;
+
+/* Create two equal columns that floats next to each other */
+.left_col {
+  float: left;
+  width: 30%;
+  padding: 10px;
 }
-#right_col {
-   float:right;
-   width:70%;
+.right_col {
+  float: right;
+  width: 70%;
+  padding: 10px;
+}
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+  }
+  .text {
+  font-size: 20px;
+  padding-left: 20px;
+  }  
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ img {  
+ max-width: 100%;  
+ height: auto;  
+ }  
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
 </style>
 
-  <div id="wrap">
+  <div id="row">
     <div id="left_col">
               ...
     </div>
@@ -35,7 +65,7 @@ header:
 <br>
 <br>
 
-  <div id="wrap">
+  <div id="row">
     <div id="left_col">
               <img src="/assets/images/swell_atomic.png" style="height:70%; width:70%">
     </div>
@@ -47,7 +77,7 @@ header:
 <br>
 <br>
 
-  <div id="wrap">
+  <div id="row">
     <div id="left_col">
               <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:70%; width:70%">
     </div>
