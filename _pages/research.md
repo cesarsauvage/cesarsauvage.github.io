@@ -25,11 +25,11 @@ header:
 
   <div id="wrap">
     <div id="left_col">
-              <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:100%; width:100%">
+              ...
     </div>
     <div id="right_col">
-      <h3> <a href="https://cesarsauvage.github.io/research/hpe/"> Mediterranean Heavy Precipitation Event </a> </h3>
-<p>The western Mediterranean region is regularly affected by heavy precipitation events that are characterized by a large amount of rainfall over a small area in a very short time; these events can lead to flash flooding, causing severe damage and, in some cases, casualties. Mediterranean HPEs are known to be violent events and are quite often associated with strong wind conditions and, thus, a very rough sea state. The studied event is characterized by a very strong (>20 m s−1) easterly to south-easterly wind at low level that generated very rough seas (significant wave height of up to 6 m) along the French Riviera and the Gulf of Lion. </p>
+      <h3>  Wind-waves coupling response during atmospheric cold fronts  </h3>
+<p>Atmospheric cold fronts have elongated along-frontal scales of many 1000s km, but much shorter cross-frontal scales of only 10-100s km. They are accompanied by gale-force surface winds (15-30 m/s) and mark abrupt shifts in the direction between the pre-frontal and post-frontal winds. At the sea surface, the strong winds generate short-length scale coupled wind-waves of 0.1-10s cm, while the veering of the wind leads to a large area of growing wind-waves that become misaligned with local winds due to the rapid translation of the fronts. </p>
     </div>
 </div>
 <br>
@@ -46,3 +46,17 @@ header:
 </div>
 <br>
 <br>
+
+  <div id="wrap">
+    <div id="left_col">
+              <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:100%; width:100%">
+    </div>
+    <div id="right_col">
+      <h3> <a href="https://cesarsauvage.github.io/research/hpe/"> Mediterranean Heavy Precipitation Event </a> </h3>
+<p>The western Mediterranean region is regularly affected by heavy precipitation events that are characterized by a large amount of rainfall over a small area in a very short time; these events can lead to flash flooding, causing severe damage and, in some cases, casualties. Mediterranean HPEs are known to be violent events and are quite often associated with strong wind conditions and, thus, a very rough sea state. The studied event is characterized by a very strong (>20 m s−1) easterly to south-easterly wind at low level that generated very rough seas (significant wave height of up to 6 m) along the French Riviera and the Gulf of Lion. </p>
+    </div>
+</div>
+<br>
+<br>
+
+
