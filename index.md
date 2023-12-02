@@ -5,7 +5,6 @@ classes : wide
 permalink: /
 header:
   overlay_image: /assets/images/Untitled_2.png
-  overlay_image: /assets/images/Cesar_S.png
 ---
 <h3 style="text-align: left;">Research Interests</h3>
 <p style="text-align: justify;">I am currently a Research Associate III at Woods Hole Oceanographic Institution (WHOI) working with <a href="https://hseo.whoi.edu/">Dr. Hyodae Seo</a> and <a href="http://cclayson.whoi.edu/">Dr. Carol Anne Clayson</a>, with an interest in contributing to a deeper understanding of the air-sea interactions and how the ocean can modulate the global and regional climate. In order to tackle these topics, I use coupled Earth system models (i.e. <a href="https://hseo.whoi.edu/scoar-model/">SCOAR</a> Regional Coupled Model) involving interactions between the atmosphere, the ocean and the ocean surface waves. Along with numerical simulations, extensive use of available observation dataset made in the marine boundary layer is needed to assess the current modeling capability and how it can be improved. A better understanding and representation of the air-sea interaction in numerical models can have crucial implications in weather forecast but also in assessing offshore wind energy. </p>
