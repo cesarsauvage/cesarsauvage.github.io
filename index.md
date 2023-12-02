@@ -1,14 +1,11 @@
 ---
-title:  <br>  <br>  <br>  <br>
+title:  
 layout: single
 classes : wide
 permalink: /
 header:
   overlay_image: /assets/images/Untitled_2.png
 ---
-<center>
-<img src="/assets/videos/wind_waves_v2.gif" alt="" width="720" height="540">
-</center>
 
 <h3 style="text-align: left;">Research Interests</h3>
 <p style="text-align: justify;">I am currently a Research Associate III at Woods Hole Oceanographic Institution (WHOI) working with <a href="https://hseo.whoi.edu/">Dr. Hyodae Seo</a> and <a href="http://cclayson.whoi.edu/">Dr. Carol Anne Clayson</a>, with an interest in contributing to a deeper understanding of the air-sea interactions and how the ocean can modulate the global and regional climate. In order to tackle these topics, I use coupled Earth system models (i.e. <a href="https://hseo.whoi.edu/scoar-model/">SCOAR</a> Regional Coupled Model) involving interactions between the atmosphere, the ocean and the ocean surface waves. Along with numerical simulations, extensive use of available observation dataset made in the marine boundary layer is needed to assess the current modeling capability and how it can be improved. A better understanding and representation of the air-sea interaction in numerical models can have crucial implications in weather forecast but also in assessing offshore wind energy. </p>
@@ -39,3 +36,7 @@ header:
 <ul>
  	<li><strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B.: Improving wave-based air-sea momentum flux parameterization in mixed seas, Journal of Geophysical Research: Oceans, 128, e2022JC019277, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href=" https://doi.org/10.1029/2022JC019277">10.1029/2022JC019277</a></span>, 2023</li>
 </ul>
+
+<center>
+<img src="/assets/videos/wind_waves_v2.gif" alt="" style="height:100%; width:100%">
+</center>
