@@ -1,6 +1,6 @@
 ---
 title: <div align="center">Understanding Wind and Waves Interactions</div>
-layout: single
+layout: splash 
 classes : wide
 author_profile : false
 permalink: /research/
@@ -37,7 +37,7 @@ header:
 
   <div id="wrap">
     <div id="left_col">
-              <img src="/assets/images/swell_atomic.png" style="height:100%; width:100%">
+              <img src="/assets/images/swell_atomic.png" style="height:70%; width:70%">
     </div>
     <div id="right_col">
       <h3> <a href="https://cesarsauvage.github.io/research/flux/"> Mixed Sea conditions in the Northwestern Tropical Atlantic </a> </h3>
@@ -49,7 +49,7 @@ header:
 
   <div id="wrap">
     <div id="left_col">
-              <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:100%; width:100%">
+              <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:70%; width:70%">
     </div>
     <div id="right_col">
       <h3> <a href="https://cesarsauvage.github.io/research/hpe/"> Mediterranean Heavy Precipitation Event </a> </h3>
