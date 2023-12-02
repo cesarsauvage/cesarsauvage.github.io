@@ -9,16 +9,16 @@ header:
 ---
 <style type="text/css">
 #wrap {
-   width:600px;
+   width:100%;
    margin:0 auto;
 }
 #left_col {
    float:left;
-   width:300px;
+   width:70%;
 }
 #right_col {
    float:right;
-   width:300px;
+   width:30%;
 }
 </style>
 
