@@ -1,6 +1,6 @@
 ---
 title: <div align="center">Mediterranean Heavy Precipitation Events (HPE)</div>
-layout: splash
+layout: splash 
 classes : wide
 author_profile : false
 permalink: /research/hpe/
