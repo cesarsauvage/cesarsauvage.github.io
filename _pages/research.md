@@ -67,7 +67,7 @@ header:
 
   <div id="row">
     <div id="left_col">
-              <img src="/assets/images/swell_atomic.png" style="height:70%; width:70%">
+              <img src="/assets/images/swell_atomic.png" style="height:30%; width:30%">
     </div>
     <div id="right_col">
       <h3> <a href="https://cesarsauvage.github.io/research/flux/"> Mixed Sea conditions in the Northwestern Tropical Atlantic </a> </h3>
@@ -79,7 +79,7 @@ header:
 
   <div id="row">
     <div id="left_col">
-              <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:70%; width:70%">
+              <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:30%; width:30%">
     </div>
     <div id="right_col">
       <h3> <a href="https://cesarsauvage.github.io/research/hpe/"> Mediterranean Heavy Precipitation Event </a> </h3>
