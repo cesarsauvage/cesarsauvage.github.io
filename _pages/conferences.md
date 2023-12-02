@@ -42,13 +42,13 @@ header:
     </div>
     <div id="right_col">
           <center>
-              <img src="/assets/images/nawea_102023.jpg" style="height:30%; width:30%">
+              <img src="/assets/images/nawea_102023.jpg" style="height:100%; width:100%">
               <figcaption>NAWEA/WindTech 2023 Conference, poster session. </figcaption>
           </center>
     </div>
 </div>
-
-
+<br>
+<br>
   <li><strong> Workshop on "Atmosphere-ocean coupling at (sub)mesoscales"</strong>,  Leiden, the Netherlands, Sept. 2023.<br> 
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas. Poster.</li>
   
