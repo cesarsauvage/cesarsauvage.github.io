@@ -1,6 +1,6 @@
 ---
 title: <div align="center">Mixed Sea conditions in the Northwestern Tropical Atlantic</div>
-layout: splash
+layout: splash 
 classes : wide
 author_profile : false
 permalink: /research/flux/
