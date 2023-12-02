@@ -25,13 +25,11 @@ header:
 
   <div id="wrap">
     <div id="left_col">
-          <center>
               <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:100%; width:100%">
-          </center>
     </div>
     <div id="right_col">
-      <h3> <a href="https://cesarsauvage.github.io/hpe"> Mediterranean Heavy Precipitation Event </a> </h3>
-<p>The western Mediterranean region is regularly affected by heavy precipitation events that are characterized by a large amount of rainfall over a small area in a very short time; these events can lead to flash flooding, causing severe damage and, in some cases, casualties. Mediterranean HPEs are known to be violent events and are quite often associated with strong wind conditions and, thus, a very rough sea state. We investigated the role of the representation of the sea state during the HPE that occurred between the 12 and 14 October 2016 south of France. It led to large amounts of rainfall (up to 300 mm in 24 h) over the Hérault region (southern France). The study case was characterized by a very strong (>20 m s−1) easterly to south-easterly wind at low level that generated very rough seas (significant wave height of up to 6 m) along the French Riviera and the Gulf of Lion. </p>
+      <h3> <a href="https://cesarsauvage.github.io/research/hpe/"> Mediterranean Heavy Precipitation Event </a> </h3>
+<p>The western Mediterranean region is regularly affected by heavy precipitation events that are characterized by a large amount of rainfall over a small area in a very short time; these events can lead to flash flooding, causing severe damage and, in some cases, casualties. Mediterranean HPEs are known to be violent events and are quite often associated with strong wind conditions and, thus, a very rough sea state. The studied event is characterized by a very strong (>20 m s−1) easterly to south-easterly wind at low level that generated very rough seas (significant wave height of up to 6 m) along the French Riviera and the Gulf of Lion. </p>
     </div>
 </div>
 <br>
@@ -39,12 +37,10 @@ header:
 
   <div id="wrap">
     <div id="left_col">
-          <center>
               <img src="/assets/images/swell_atomic.png" style="height:100%; width:100%">
-          </center>
     </div>
     <div id="right_col">
-      <h3> <a href="https://cesarsauvage.github.io/flux"> Mixed Sea conditions in the Northwestern Tropical Atlantic </a> </h3>
+      <h3> <a href="https://cesarsauvage.github.io/research/flux/"> Mixed Sea conditions in the Northwestern Tropical Atlantic </a> </h3>
 <p>In winter, the Northwest Tropical Atlantic Ocean can be characterized by various wave age-based interactions among ocean current, surface wind and surface waves, which are critical for accurately describing surface wind stress. In this work, coupled wave-ocean-atmosphere model simulations are conducted using two different wave roughness parameterizations within COARE3.5, including one that relies solely on wind speed and another that uses wave age and wave slope as inputs.  </p>
     </div>
 </div>
