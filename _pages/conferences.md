@@ -43,7 +43,7 @@ header:
     <div id="right_col">
           <center>
               <img src="/assets/images/nawea_102023.jpg" style="height:100%; width:100%">
-              <figcaption>NAWEA/WindTech 2023 Conference, poster session. </figcaption>
+              <figcaption>NAWEA/WindTech 2023 Conference. </figcaption>
           </center>
     </div>
 </div>
