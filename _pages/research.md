@@ -4,34 +4,49 @@ layout: single
 classes : wide
 author_profile : false
 permalink: /research/
-sidebar:
-  title: "Research"
-  nav: "research"
 header:
   overlay_image: /assets/images/Untitled_2.png
-feature_row_left1:
-  - image_path: /assets/videos/wind_waves_v2.gif
-    title: "Wave Climate"
-    excerpt: ""
-    url: /research/wave_climate
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row_left2:
-  - image_path: /assets/images/swell_atomic.png
-    title: "Surface Fluxes"
-    excerpt: "to come.."
-    url: /research/flux
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row_left3:
-  - image_path: /assets/images/med_hpe_ducrocq2016.png
-    title: "Mediterranean Extreme Events"
-    excerpt: ""
-    url: /research/hpe
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row_left1" type="left" %}
-{% include feature_row id="feature_row_left2" type="left" %}
-{% include feature_row id="feature_row_left3" type="left" %}
+<style type="text/css">
+#wrap {
+   width:100%;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:30%;
+}
+#right_col {
+   float:right;
+   width:70%;
+}
+</style>
+
+  <div id="wrap">
+    <div id="left_col">
+          <center>
+              <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:100%; width:100%">
+          </center>
+    </div>
+    <div id="right_col">
+      <h3> <a href="https://cesarsauvage.github.io/hpe"> Mediterranean Heavy Precipitation Event </a> </h3>
+<p>The western Mediterranean region is regularly affected by heavy precipitation events that are characterized by a large amount of rainfall over a small area in a very short time; these events can lead to flash flooding, causing severe damage and, in some cases, casualties. Mediterranean HPEs are known to be violent events and are quite often associated with strong wind conditions and, thus, a very rough sea state. We investigated the role of the representation of the sea state during the HPE that occurred between the 12 and 14 October 2016 south of France. It led to large amounts of rainfall (up to 300 mm in 24 h) over the Hérault region (southern France). The study case was characterized by a very strong (>20 m s−1) easterly to south-easterly wind at low level that generated very rough seas (significant wave height of up to 6 m) along the French Riviera and the Gulf of Lion. </p>
+    </div>
+</div>
+<br>
+<br>
+
+  <div id="wrap">
+    <div id="left_col">
+          <center>
+              <img src="/assets/images/swell_atomic.png" style="height:100%; width:100%">
+          </center>
+    </div>
+    <div id="right_col">
+      <h3> <a href="https://cesarsauvage.github.io/flux"> Mixed Sea conditions in the Northwestern Tropical Atlantic </a> </h3>
+<p>In winter, the Northwest Tropical Atlantic Ocean can be characterized by various wave age-based interactions among ocean current, surface wind and surface waves, which are critical for accurately describing surface wind stress. In this work, coupled wave-ocean-atmosphere model simulations are conducted using two different wave roughness parameterizations within COARE3.5, including one that relies solely on wind speed and another that uses wave age and wave slope as inputs.  </p>
+    </div>
+</div>
+<br>
+<br>
