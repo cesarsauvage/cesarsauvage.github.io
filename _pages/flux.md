@@ -12,7 +12,7 @@ header:
 
 
  <center>
-<img src="/assets/images/fig_atomic_paper.png" style="height:100%; width:100%">
+<img src="/assets/images/fig_atomic_paper.png" style="height:50%; width:50%">
 <figcaption>(a) Scatter plot of inverse peak wave age (u∗/cp) vs. U10N (ms−1) for CLIMODE
 data (gray) and RHB data (a, blue). Bin-averages with the 1 standard deviation error bars are
 overlaid, at 1 ms−1 interval, along with the 3rd order fit (line) for CLIMODE (black) and RHB
