@@ -56,7 +56,9 @@ header:
 
   <div class="row">
     <div class="left_col">
-              ...
+              <br>
+              <br>
+              <img src="/assets/videos/diff_wind_z_offshore_mari_gif.gif" >
     </div>
     <div class="right_col">
       <h3> <a href="https://cesarsauvage.github.io/research/offshore_wind_mari/"> Improving high resolution offshore wind resource assessment in the MA/RI lease areas </a> </h3>
