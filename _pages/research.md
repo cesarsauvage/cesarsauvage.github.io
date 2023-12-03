@@ -65,8 +65,7 @@ header:
 <p align="justify">We propose a comprehensive observational and modeling study of the coupled atmospheric and oceanic boundary layers that will dramatically improve offshore wind resource measurement and modeling science. Focusing on physical processes relevant to all U.S. offshore wind energy areas via observations of the Northeast U.S. outer continental shelf, this effort will increase our understanding of the coupled atmosphere-ocean system in wind energy areas as well as improve our ability to reliably predict boundary layer winds and properties critical for industry-specific resource assessment, load analyses, and design criteria. </p>
     </div>
 </div>
-<br>
-<br>
+
 
   <div class="row">
     <div class="left_col">
@@ -77,8 +76,7 @@ header:
 <p align="justify">Atmospheric cold fronts have elongated along-frontal scales of many 1000s km, but much shorter cross-frontal scales of only 10-100s km. They are accompanied by gale-force surface winds (15-30 m/s) and mark abrupt shifts in the direction between the pre-frontal and post-frontal winds. At the sea surface, the strong winds generate short-length scale coupled wind-waves of 0.1-10s cm, while the veering of the wind leads to a large area of growing wind-waves that become misaligned with local winds due to the rapid translation of the fronts. </p>
     </div>
 </div>
-<br>
-<br>
+
 
   <div class="row">
     <div class="left_col">
@@ -89,8 +87,7 @@ header:
 <p align="justify">This project will develop a better understanding of the physical processes governing the structure and evolution of the marine atmospheric boundary layer (MABL) in the Northeastern US and the New England shelf regions. Capitalizing on the detailed in situ and remotely sensed observations of coupled boundary layer variables and air-sea fluxes uniquely available in the region, this project will validate and improve the MABL processes in the NASA’s Unified WRF (NU-WRF) modeling system to better represent and forecast extreme coastal storms. By including the full coupling of the regional ocean modeling system (ROMS) and the WaveWatchIII (WW3) to the NU-WRF to exploit the critical wave-ocean coupling effect on the atmosphere, the project will also enable, for the first time, NU-WRF-based coupled hindcast and forecast capabilities of extreme weather events with reduced uncertainty. </p>
     </div>
 </div>
-<br>
-<br>
+
 
   <div class="row">
     <div class="left_col">
@@ -103,8 +100,7 @@ header:
 <p align="justify">In winter, the Northwest Tropical Atlantic Ocean can be characterized by various wave age-based interactions among ocean current, surface wind and surface waves, which are critical for accurately describing surface wind stress. In this work, coupled wave-ocean-atmosphere model simulations are conducted using two different wave roughness parameterizations within COARE3.5, including one that relies solely on wind speed and another that uses wave age and wave slope as inputs.  </p>
     </div>
 </div>
-<br>
-<br>
+
 
   <div class="row">
     <div class="left_col">
@@ -118,7 +114,6 @@ header:
 <p align="justify">The western Mediterranean region is regularly affected by heavy precipitation events that are characterized by a large amount of rainfall over a small area in a very short time; these events can lead to flash flooding, causing severe damage and, in some cases, casualties. Mediterranean HPEs are known to be violent events and are quite often associated with strong wind conditions and, thus, a very rough sea state. The studied event is characterized by a very strong (>20 m s−1) easterly to south-easterly wind at low level that generated very rough seas (significant wave height of up to 6 m) along the French Riviera and the Gulf of Lion. </p>
     </div>
 </div>
-<br>
-<br>
+
 
 
