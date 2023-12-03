@@ -59,7 +59,7 @@ header:
               ...
     </div>
     <div class="right_col">
-      <h3> Improving high resolution offshore wind resource assessment in the MA/RI lease areas </h3>
+      <h3> <a href="https://cesarsauvage.github.io/research/offshore_wind_mari/"> Improving high resolution offshore wind resource assessment in the MA/RI lease areas </a> </h3>
 <p align="justify">We propose a comprehensive observational and modeling study of the coupled atmospheric and oceanic boundary layers that will dramatically improve offshore wind resource measurement and modeling science. Focusing on physical processes relevant to all U.S. offshore wind energy areas via observations of the Northeast U.S. outer continental shelf, this effort will increase our understanding of the coupled atmosphere-ocean system in wind energy areas as well as improve our ability to reliably predict boundary layer winds and properties critical for industry-specific resource assessment, load analyses, and design criteria. </p>
     </div>
 </div>
