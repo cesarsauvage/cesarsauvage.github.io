@@ -44,13 +44,6 @@ header:
  max-width: 100%;  
  height: auto;  
  }  
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
 </style>
 
   <div id="row">
