@@ -9,13 +9,13 @@ main:
   - title: "CV"
     url: /CV/
 
-research:
-  - title: "Wave Climate"
-    url: /research/wave_climate
-  - title: "Mediterranean Events"
-    url: /research/hpe
-  - title: "Swell Dominated Region"
-    url: /research/flux
+#research:
+#  - title: "Wave Climate"
+#    url: /research/wave_climate
+#  - title: "Mediterranean Events"
+#    url: /research/hpe
+#  - title: "Swell Dominated Region"
+#    url: /research/flux
 
 #    children:
 #      - title: "Extreme Events"

@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "César Sauvage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "César Sauvage"
-description              : "An amazing website."
+name                     : ""
+#description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -61,7 +61,7 @@ atom_feed:
   hide                   : # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : "google" # lunr (default), algolia, google
+search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
@@ -73,7 +73,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "jI7yNFG3eKF2CyWe32JsROMA0G0m38nSc3GlGkvlibU"
+google_site_verification : #"jI7yNFG3eKF2CyWe32JsROMA0G0m38nSc3GlGkvlibU"
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -103,8 +103,9 @@ analytics:
 
 
 # Site Author
+# name             : "César Sauvage"
+# avatar           : "/assets/images/Cesar_S.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 author:
-  name             : "César Sauvage"
   avatar           : "/assets/images/Cesar_S.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Associate III <br>Physical Oceanography Dpt. <br>Woods Hole Oceanographic Inst."
   location         : "Woods Hole, MA"

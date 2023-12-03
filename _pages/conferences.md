@@ -7,18 +7,51 @@ permalink : /conferences/
 header:
   overlay_image: /assets/images/Untitled_2.png
 ---
+<style type="text/css">
+#wrap {
+   width:100%;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:70%;
+}
+#right_col {
+   float:right;
+   width:30%;
+}
+</style>
+
 
 ** Invited Talk
 
 <strong>To come: ~ </strong>
 <ul>
- 
+   <li><strong>Ocean Science Meeting 2024</strong>,  New Orleans, LA, USA, Feb. 2024.<br> 
+<u>Sauvage C.</u>, H. Seo, J. B. Edson and C-A. Clayson: On the misaligned wind waves behind the atmospheric cold fronts. Talk.</li>
 </ul>
 
 <strong>Past: </strong> <br> 
 
 <strong>2023</strong>
 <ul>
+  <div id="wrap">
+    <div id="left_col">
+          <li><strong>The North American Wind Energy Academy (NAWEA)/WindTech 2023 Conference</strong>,  Denver, CO, USA, Oct. 2023.<br> 
+          <u>Sauvage C.</u>, H. Seo, J. B. Edson and C-A. Clayson: On the misaligned wind waves behind the atmospheric cold fronts. Poster.</li>
+    </div>
+    <div id="right_col">
+          <center>
+              <img src="/assets/images/nawea_102023.jpg" style="height:100%; width:100%">
+              <figcaption>NAWEA/WindTech 2023 Conference. </figcaption>
+          </center>
+    </div>
+</div>
+<br>
+<br>
+  <li><strong> Workshop on "Atmosphere-ocean coupling at (sub)mesoscales"</strong>,  Leiden, the Netherlands, Sept. 2023.<br> 
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas. Poster.</li>
+  
   	<li><strong>**ODYSEA: winds and currents seminar series</strong>, Virtual, May 2023.<br> 
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
   
