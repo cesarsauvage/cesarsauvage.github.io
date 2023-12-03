@@ -68,6 +68,8 @@ header:
 
   <div class="row">
     <div class="left_col">
+              <br>
+              <br>
               <img src="/assets/images/swell_atomic.png" >
     </div>
     <div class="right_col">
@@ -80,6 +82,9 @@ header:
 
   <div class="row">
     <div class="left_col">
+              <br>
+              <br>
+              <br>
               <img src="/assets/images/med_hpe_ducrocq2016.png" >
     </div>
     <div class="right_col">
