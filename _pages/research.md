@@ -44,6 +44,14 @@ header:
  max-width: 100%;  
  height: auto;  
  }  
+
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+  
 </style>
 
   <div class="row">
@@ -60,7 +68,7 @@ header:
 
   <div class="row">
     <div class="left_col">
-              <img src="/assets/images/swell_atomic.png" style="height:30%; width:30%">
+              <img src="/assets/images/swell_atomic.png" >
     </div>
     <div class="right_col">
       <h3> <a href="https://cesarsauvage.github.io/research/flux/"> Mixed Sea conditions in the Northwestern Tropical Atlantic </a> </h3>
@@ -72,7 +80,7 @@ header:
 
   <div class="row">
     <div class="left_col">
-              <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:30%; width:30%">
+              <img src="/assets/images/med_hpe_ducrocq2016.png" >
     </div>
     <div class="right_col">
       <h3> <a href="https://cesarsauvage.github.io/research/hpe/"> Mediterranean Heavy Precipitation Event </a> </h3>
