@@ -15,6 +15,7 @@ header:
 
 /* Create two equal columns that floats next to each other */
 .left_col {
+  float: left;
   width: 40%;
   padding: 2px;
 }
@@ -88,7 +89,9 @@ padding: 0px 50px 0px 0px;
     <div class="left_col">
               <br>
               <br>
+              <center>
               <img src="/assets/videos/map_scoar_norus_storm_jan2018_59_gif_v2.gif" style="height:70%; width:70%" class="padding" >
+              </center>
     </div>
     <div class="right_col">
       <h3> Improving coupled Ocean-Atmosphere processes during extratropical cyclones in the northeastern U.S.  </h3>
