@@ -15,7 +15,6 @@ header:
 
 /* Create two equal columns that floats next to each other */
 .left_col {
-  float: left;
   width: 40%;
   padding: 2px;
 }
@@ -74,7 +73,9 @@ padding: 0px 50px 0px 0px;
 
   <div class="row">
     <div class="left_col">
-              ...
+              <br>
+              <br>
+              <img src="/assets/videos/front_cd_diff_dec_2017_gif.gif" >
     </div>
     <div class="right_col">
       <h3>  Wind-waves coupling response during atmospheric cold fronts  </h3>
