@@ -90,7 +90,7 @@ padding: 0px 50px 0px 0px;
               <br>
               <br>
               <center>
-              <img src="/assets/videos/map_scoar_norus_storm_jan2018_59_gif_v2.gif" style="height:80%; width:80%" class="padding" >
+              <img src="/assets/videos/map_scoar_norus_storm_jan2018_59_gif_v2.gif" style="height:80%; width:80%" >
               </center>
     </div>
     <div class="right_col">
@@ -103,7 +103,6 @@ padding: 0px 50px 0px 0px;
   <div class="row">
     <div class="left_col">
               <br>
-              <br>
               <img src="/assets/images/swell_atomic.png" >
     </div>
     <div class="right_col">
@@ -115,7 +114,6 @@ padding: 0px 50px 0px 0px;
 
   <div class="row">
     <div class="left_col">
-              <br>
               <br>
               <br>
               <img src="/assets/images/med_hpe_ducrocq2016.png" >
