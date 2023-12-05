@@ -80,6 +80,8 @@ header:
 
   <div class="row">
     <div class="left_col">
+              <br>
+              <br>
               <img src="/assets/videos/map_scoar_norus_storm_jan2018_gif.gif" >
     </div>
     <div class="right_col">
