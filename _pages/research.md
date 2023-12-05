@@ -54,7 +54,7 @@ header:
 
   .padding
 {
-padding: 10px 0px 0px 0px;
+padding: 0px 0px 0px -20px;
 }
   
 </style>
