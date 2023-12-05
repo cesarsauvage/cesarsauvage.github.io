@@ -82,7 +82,7 @@ header:
     <div class="left_col">
               <br>
               <br>
-              <img src="/assets/videos/map_scoar_norus_storm_jan2018_59_gif_v2.gif" style="height:50%; width:50%" >
+              <img src="/assets/videos/map_scoar_norus_storm_jan2018_59_gif_v2.gif" style="height:70%; width:70%" >
     </div>
     <div class="right_col">
       <h3> Improving coupled Ocean-Atmosphere processes during extratropical cyclones in the northeastern U.S.  </h3>
