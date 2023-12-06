@@ -11,6 +11,7 @@ header:
 
 <center>
 <img src="/assets/videos/wind_waves_v2.gif" alt="" style="height:70%; width:70%">
+  <figcaption>Wind and waves evolution during Winter 2020 from ECMWF Reanalysis v5 (ERA5).</figcaption>
 </center>
 
 <h3 style="text-align: left;">Current Projects <a href="https://cesarsauvage.github.io/CV/">(see also past projects)</a> </h3>
