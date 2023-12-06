@@ -4,6 +4,8 @@ layout: single
 classes : wide
 permalink: /
 header:
+  <br>
+  <br>
   overlay_image: /assets/images/wave1_v2.png
 ---
 <h3 style="text-align: left;">Research Interests</h3>
