@@ -5,7 +5,7 @@ classes : wide
 author_profile : false
 permalink: /research/
 header:
-  overlay_image: /assets/images/Untitled_2.png
+  overlay_image: /assets/images/wave_2.png
 ---
 
 <style>
