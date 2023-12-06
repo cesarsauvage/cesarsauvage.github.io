@@ -8,10 +8,67 @@ header:
   overlay_image: /assets/images/wave_2.png
 ---
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.left_col {
+  float: left;
+  width: 40%;
+  padding: 2px;
+}
+.right_col {
+  float: right;
+  width: 60%;
+  padding: 2px;
+}
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+  }
+  .text {
+  font-size: 20px;
+  padding-left: 20px;
+  }  
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ img {  
+ max-width: 100%;  
+ height: auto;  
+ }  
+
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+  
+</style>
+
+  <div class="row">
+    <div class="left_col">
 <center>
 <img src="/assets/images/med_hpe_ducrocq2016.png" style="height:70%; width:70%">
-<figcaption>from: Ducrocq et al. 2016</figcaption>
+<figcaption>Schematic of the main low-level mechanisms responsible for a sample case of HPE in the western Mediterranean region together with geographical locations. (from Ducrocq et al. 2016)</figcaption>
 </center>
+    </div>
+    <div class="right_col">
+<center>
+<img src="/assets/images/hpe.png" style="height:70%; width:70%">
+<figcaption>Schematic of the main low-level mechanisms occuring during the HPE that happened between the 12 and 14 October 2016 south of France.</figcaption>
+</center>
+    </div>
+</div>
+
 <p align="justify">The western Mediterranean region is regularly affected by heavy precipitation events that are characterized by a large amount of rainfall over a small area in a very short time; these events can lead to flash flooding, causing severe damage and, in some cases, casualties. Mediterranean HPEs are known to be violent events and are quite often associated with strong wind conditions and, thus, a very rough sea state. We investigated the role of the representation of the sea state during the HPE that occurred between the 12 and 14 October 2016 south of France. It led to large amounts of rainfall (up to 300 mm in 24 h) over the Hérault region (southern France). The study case was characterized by a very strong (>20 m s−1) easterly to south-easterly wind at low level that generated very rough seas (significant wave height of up to 6 m) along the French Riviera and the Gulf of Lion </p>
 
 <center>
