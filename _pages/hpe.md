@@ -57,7 +57,7 @@ header:
   <div class="row">
     <div class="left_col">
 <center>
-<img src="/assets/images/med_hpe_ducrocq2016.png" style="height:70%; width:70%">
+<img src="/assets/images/med_hpe_ducrocq2016.png" style="height:90%; width:90%">
 <figcaption>Schematic of the main low-level mechanisms responsible for a sample case of HPE in the western Mediterranean region together with geographical locations. (from Ducrocq et al. 2016)</figcaption>
 </center>
     </div>
@@ -72,7 +72,8 @@ header:
 <p align="justify">The western Mediterranean region is regularly affected by heavy precipitation events that are characterized by a large amount of rainfall over a small area in a very short time; these events can lead to flash flooding, causing severe damage and, in some cases, casualties. Mediterranean HPEs are known to be violent events and are quite often associated with strong wind conditions and, thus, a very rough sea state. We investigated the role of the representation of the sea state during the HPE that occurred between the 12 and 14 October 2016 south of France. It led to large amounts of rainfall (up to 300 mm in 24 h) over the Hérault region (southern France). The study case was characterized by a very strong (>20 m s−1) easterly to south-easterly wind at low level that generated very rough seas (significant wave height of up to 6 m) along the French Riviera and the Gulf of Lion </p>
 
 <center>
-<img src="/assets/images/hpe.png" style="height:70%; width:70%" >
+<img src="/assets/images/fig_z0_wind_hpe.png" style="height:80%; width:80%" >
+  <figcaption>The sea surface roughness is increased above short waves (left panel) which directly increase the surface stress and decrease the surface wind above (right panel).  </figcaption>
 </center>
 
 <p align="justify">In conclusion, the results obtained in this study, even if they only concern one case, mark a new step in our understanding of the sea state impact on Mediterranean HPEs, after the studies of Thévenot et al. (2016) and Bouin et al. (2017), and confirm the following:<p>
