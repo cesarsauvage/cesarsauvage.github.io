@@ -57,7 +57,7 @@ header:
   <div class="row">
     <div class="left_col">
 <center>
-<img src="/assets/images/noaa_weather_map_20171206.gif" style="height:100%; width:100%">
+<img src="/assets/images/noaa_weather_map_20171206.gif" style="height:80%; width:80%">
 <figcaption></figcaption>
 </center>
     </div>
