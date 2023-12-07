@@ -3,7 +3,7 @@ title: <div align="center">Mediterranean Heavy Precipitation Events (HPE)</div>
 layout: splash 
 classes : wide
 author_profile : false
-permalink: /research/hpe/
+permalink: /research/misaligned_wave_front/
 header:
   overlay_image: /assets/images/wave_2.png
 ---
@@ -63,7 +63,7 @@ header:
     </div>
     <div class="right_col">
 <center>
-<img src="/assets/images/satellite_image_front_dec2017_v2.png" style="height:70%; width:70%">
+<img src="/assets/images/satellite_image_front_dec2017_v2.png" style="height:100%; width:100%">
 <figcaption></figcaption>
 </center>
     </div>
@@ -76,7 +76,7 @@ At the sea surface, the strong winds generate short-length scale coupled wind-wa
 These misaligned wind waves behind the cold fronts have yet to be characterized by in situ observations, and the aggregated impacts of the associated sea state on the surface drag and the air-sea momentum fluxes have not been evaluated by numerical models. </p>
 
 <center>
-<img src="/assets/images/front_ooi_wbf_dec2017.png" style="height:100%; width:100%">
+<img src="/assets/images/front_ooi_wbf_dec2017.png" style="height:70%; width:70%">
 <figcaption></figcaption>
 </center>
 <p align="justify">The analysis of the observed surface waves and momentum fluxes from the OOI Pioneer Array (Panel c) indicates the abrupt veering of wind direction as the front passes the mooring location, i.e., southerly prior to the front followed by the northerly after the front.
