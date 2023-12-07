@@ -57,7 +57,7 @@ header:
   <div class="row">
     <div class="left_col">
 <center>
-<img src="/assets/images/med_hpe_ducrocq2016.png" style="height:90%; width:90%">
+<img src="/assets/images/med_hpe_ducrocq2016.png" style="height:100%; width:100%">
 <figcaption>Schematic of the main low-level mechanisms responsible for a sample case of HPE in the western Mediterranean region together with geographical locations. (from Ducrocq et al. 2016)</figcaption>
 </center>
     </div>
