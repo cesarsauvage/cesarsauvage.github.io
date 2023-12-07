@@ -57,13 +57,13 @@ header:
   <div class="row">
     <div class="left_col">
 <center>
-<img src="/assets/images/med_hpe_ducrocq2016.png" style="height:120%; width:120%">
+<img src="/assets/images/med_hpe_ducrocq2016.png" style="height:100%; width:100%">
 <figcaption>Schematic of the main low-level mechanisms responsible for a sample case of HPE in the western Mediterranean region together with geographical locations. (from Ducrocq et al. 2016)</figcaption>
 </center>
     </div>
     <div class="right_col">
 <center>
-<img src="/assets/images/hpe.png" style="height:70%; width:70%">
+<img src="/assets/images/hpe.png" style="height:90%; width:90%">
 <figcaption>Schematic of the main low-level mechanisms occuring during the HPE that happened between the 12 and 14 October 2016 south of France.</figcaption>
 </center>
     </div>
