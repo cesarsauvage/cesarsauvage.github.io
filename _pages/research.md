@@ -79,7 +79,7 @@ padding: 0px 50px 0px 0px;
               <img src="/assets/videos/front_cd_diff_dec_2017_gif.gif" >
     </div>
     <div class="right_col">
-      <h3>  Wind-waves coupling response during atmospheric cold fronts  </h3>
+      <h3> <a href="https://cesarsauvage.github.io/research/misaligned_wave_front/"> Wind-waves coupling response during atmospheric cold fronts </a></h3>
 <p align="justify">Atmospheric cold fronts have elongated along-frontal scales of many 1000s km, but much shorter cross-frontal scales of only 10-100s km. They are accompanied by gale-force surface winds (15-30 m/s) and mark abrupt shifts in the direction between the pre-frontal and post-frontal winds. At the sea surface, the strong winds generate short-length scale coupled wind-waves of 0.1-10s cm, while the veering of the wind leads to a large area of growing wind-waves that become misaligned with local winds due to the rapid translation of the fronts. </p>
     </div>
 </div>
