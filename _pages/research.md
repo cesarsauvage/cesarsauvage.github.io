@@ -67,7 +67,7 @@ padding: 0px 50px 0px 0px;
     </div>
     <div class="right_col">
       <h3> <a href="https://cesarsauvage.github.io/research/offshore_wind_mari/"> Improving high resolution offshore wind resource assessment in the MA/RI lease areas </a> </h3>
-<p align="justify">The 3rd  Wind Forecast Improvement Project (WFIP3), sponsored by the U.S. Department of Energy, seeks to improve our understanding of the physics of the atmosphere and ocean that dictate the structure and variability of the wind resource within the Marine Atmospheric Boundary Layer (MABL). Part of my contribution to this project will be on improving the physical understanding of mesoscale meteorological and oceanographic processes that directly affect wind resource characterization in the U.S. East Coast offshore environment. The research will provide state-of-the-art parameterizations of momentum, heat and mass exchange across the air-sea interface and flux-profile in the atmospheric and oceanic surface layers. These focus areas include the effect of surface waves, currents, SST, precipitation, and evaporation on the coupled surface layers. </p>
+<p align="justify">The 3rd  Wind Forecast Improvement Project (WFIP3), sponsored by the U.S. Department of Energy, seeks to improve our understanding of the physics of the atmosphere and ocean that dictate the structure and variability of the wind resource within the Marine Atmospheric Boundary Layer (MABL). Part of my contribution to this project will be on improving the physical understanding of mesoscale meteorological and oceanographic processes that directly affect wind resource characterization in the U.S. East Coast offshore environment.  </p>
     </div>
 </div>
 
