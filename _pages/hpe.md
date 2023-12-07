@@ -16,12 +16,12 @@ header:
 /* Create two equal columns that floats next to each other */
 .left_col {
   float: left;
-  width: 40%;
+  width: 50%;
   padding: 2px;
 }
 .right_col {
   float: right;
-  width: 60%;
+  width: 50%;
   padding: 2px;
 }
   .container {
