@@ -1,5 +1,5 @@
 ---
-title: <div align="center">Mediterranean Heavy Precipitation Events (HPE)</div>
+title: <div align="center">Wind-waves coupling response during atmospheric cold fronts</div>
 layout: splash 
 classes : wide
 author_profile : false
