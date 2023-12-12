@@ -66,3 +66,8 @@ Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmos
  	<li>Member of Physical Oceanography Department Website Committee at WHOI (2022-now)</li>
   
 </ul>
+
+ <center>
+<img src="/assets/images/benthouard_Animal.jpg" style="height:90%; width:90%">
+<figcaption> &copy; Ben Thouard - Ocean Photographer </figcaption>
+</center>
