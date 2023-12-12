@@ -78,13 +78,13 @@ These misaligned wind waves behind the cold fronts have yet to be characterized 
   <div class="row">
     <div class="left_col">
 <center>
-<img src="/assets/images/misaligned_wave_front/time_serie_OOI_WBF.png" style="height:80%; width:80%">
+<img src="/assets/images/misaligned_wave_front/time_serie_OOI_WBF.png" style="height:90%; width:90%">
 <figcaption> Fig1: Timeseries comparison between the Ocean Observatory Initiative (OOI) and the coupled simulation WBF_θ. </figcaption>
 </center>
     </div>
     <div class="right_col">
 <center>
-<img src="/assets/videos/wavspec_front_case_gif.gif" style="height:90%; width:90%">
+<img src="/assets/videos/wavspec_front_case_gif.gif" style="height:80%; width:80%">
 <figcaption>Fig2: Normalized energy density (m2/deg) simulated during the atmospheric cold front passage.</figcaption>
 </center>
     </div>
@@ -97,13 +97,13 @@ The simulations show that area of the misaligned waves is significant, commensur
   <div class="row">
     <div class="left_col">
 <center>
-<img src="/assets/images/misaligned_wave_front/map_wbftheta_wbf_angle_waveage.png" style="height:80%; width:80%">
+<img src="/assets/images/misaligned_wave_front/map_wbftheta_wbf_angle_waveage.png" style="height:100%; width:100%">
 <figcaption>Fig3: Angle between wind and waves (top) and wave wage (bottom) evolution during the atmospheric cold front passage.</figcaption>
 </center>
     </div>
     <div class="right_col">
 <center>
-<img src="/assets/images/misaligned_wave_front/map_wbftheta_wbf_TAU.png" style="height:80%; width:80%">
+<img src="/assets/images/misaligned_wave_front/map_wbftheta_wbf_TAU.png" style="height:100%; width:100%">
 <figcaption>Fig4: Momentum flux evolution (top) and differences between WBF_θ and WBF (bottom) during the atmospheric cold front passage.</figcaption>
 </center>
     </div>
