@@ -103,9 +103,8 @@ analytics:
 
 
 # Site Author
-# name             : "César Sauvage"
-# avatar           : "/assets/images/Cesar_S.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 author:
+  name             : "César Sauvage"
   avatar           : "/assets/images/Cesar_S.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Associate III <br>Physical Oceanography Dpt. <br>Woods Hole Oceanographic Inst."
   location         : "Woods Hole, MA"
