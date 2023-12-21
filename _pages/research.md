@@ -103,7 +103,7 @@ padding: 0px 50px 0px 0px;
   <div class="row">
     <div class="left_col">
               <br>
-              <img src="/assets/images/swell_atomic.png" >
+              <img src="/assets/images/synoptic_wave_jan8_06h_waveage.png" >
     </div>
     <div class="right_col">
       <h3> <a href="https://cesarsauvage.github.io/research/flux/"> Mixed Sea conditions in the Northwestern Tropical Atlantic </a> </h3>
