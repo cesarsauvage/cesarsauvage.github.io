@@ -90,7 +90,7 @@ padding: 0px 50px 0px 0px;
               <br>
               <br>
               <center>
-              <img src="/assets/videos/map_scoar_norus_storm_jan2018_gif_v2.gif" style="height:80%; width:80%" >
+              <img src="/assets/videos/map_scoar_norus_storm_jan2018_gif_v2.gif">
               </center>
     </div>
     <div class="right_col">
