@@ -75,7 +75,7 @@ header:
 <div class="row">
     <div class="left_col">
 <center>
-<img src="/assets/images/flux/scatter_atomic_wind10_znt_wave_nowave_8Jan2020_06h_angle.png" style="height:80%; width:80%">
+<img src="/assets/images/flux/scatter_atomic_wind10_znt_wave_nowave_8Jan2020_06h_angle.png" style="height:90%; width:90%">
 <figcaption>Fig3:Scatter plot of z0 (mm) versus U10N (m s−1) from wind-speed-dependent formulation in black and wave-based formulations color-coded to denote the corresponding angle between the wind and wave directions (°) on 8 January 2020 at 0600 UTC.</figcaption>
 </center>
     </div>
