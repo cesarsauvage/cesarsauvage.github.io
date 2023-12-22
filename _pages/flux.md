@@ -105,3 +105,6 @@ header:
 </center>
 </div>
 </div> 
+
+<br>
+<ul> <li><strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B., <em>Improving wave-based air-sea momentum flux parameterization in mixed seas.</em> Journal of Geophysical Research: Oceans, DOI: <span class="epub-section__item"><a class="epub-section__doi__text" href=" https://doi.org/10.1029/2022JC019277">10.1029/2022JC019277</a></span>, 2023</li></ul>
