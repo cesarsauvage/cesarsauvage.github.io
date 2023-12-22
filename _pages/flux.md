@@ -72,7 +72,7 @@ header:
 
  <p align="justify">Sauvage et al. (2023) investigate the impact of ocean surface waves on the momentum flux in the mixed sea state where locally-generated short wind-waves coexist with remotely-generated swell. The dominant wave direction in the mixed seas is not generally aligned with the local wind, whose effect on the surface drag is not currently considered in the COARE wave-based formulation for roughness length formulation, where wave stress is assumed to be a scalar quantity. Sensitivity experiments have been conducted using two different wave roughness parameterizations within COARE 3.5, including one that relies solely on wind speed (called wind-speed-dependent formulation, WSDF) and another that uses spatially varying wave age and wave slope (called wave-based formulation, WBF). Results show that, for sea states dominated by short wind waves under moderate to strong winds, the wave-based formulation increases the surface roughness length on average by 25 % compared to the wind-speed-based approach. On the other hand, for the missed sea states where the dominant wave characteristics are uncorrelated with local winds, the wave-based formulation predicts categorically lower roughness length and surface stress (~15 %). Through the surface layer-PBL coupling, the reduced stress over the mixed sea is also translated into the increased near-surface wind speed above the constant flux layer (~5 %). </p>
    
-    <div class="row">
+<div class="row">
     <div class="left_col">
 <center>
 <img src="/assets/images/flux/scatter_atomic_wind10_znt_wave_nowave_8Jan2020_06h_angle.png" style="height:80%; width:80%">
