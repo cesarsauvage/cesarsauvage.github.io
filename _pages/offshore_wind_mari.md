@@ -63,8 +63,8 @@ header:
     </div>
     <div class="right_col">
 <center>
-<video width="960" height="720" autoplay controls>
-  <source src="/assets/videos/wind_deficit_20180701_20180715.mp4" type="video/mp4">
+<video autoplay controls>
+  <source src="/assets/videos/wind_deficit_20180701_20180715.mp4" type="video/mp4" style="height:80%; width:80%">
 </video>
 </center>
     </div>
@@ -75,6 +75,6 @@ This 5-year effort, started in the fall of 2021 will carry out a multi-seasonal 
 This work will be carried out by a collaborative team of research institutions, led by the Woods Hole Oceanographic Institution (WHOI), working with the national labs of the Department of Energy (DOE) and the National Oceanic and Atmospheric Administration (NOAA).  The project team receives input from a User Advisory Board composed of a broad coalition of industry partners and ocean stakeholders.</p>
 
 <center>
-<img src="/assets/images/offshore_wind_mari/block_island_windfarm.png" style="height:100%; width:100%">
+<img src="/assets/images/offshore_wind_mari/block_island_windfarm.png" style="height:90%; width:90%">
 <figcaption>First U.S. offshore wind farm located in Block Island, RI.</figcaption>
 </center>
