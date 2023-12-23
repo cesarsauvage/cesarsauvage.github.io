@@ -70,7 +70,7 @@ header:
     </div>
 </div>
 
-<p align="justify">The 3rd  Wind Forecast Improvement Project (WFIP3), sponsored by the U.S. Department of Energy, seeks to improve our understanding of the physics of the atmosphere and ocean that dictate the structure and variability of the wind resource within the Marine Atmospheric Boundary Layer (MABL).<br>
+<p align="justify">The 3rd  <a href="https://www2.whoi.edu/site/wfip3/">Wind Forecast Improvement Project (WFIP3)</a>, sponsored by the U.S. Department of Energy, seeks to improve our understanding of the physics of the atmosphere and ocean that dictate the structure and variability of the wind resource within the Marine Atmospheric Boundary Layer (MABL).<br>
 This 5-year effort, started in the fall of 2021 will carry out a multi-seasonal offshore field measurement campaign in 2024-2025, linked to intensive numerical modeling development and validation efforts.<br>
 This work will be carried out by a collaborative team of research institutions, led by the Woods Hole Oceanographic Institution (WHOI), working with the national labs of the Department of Energy (DOE) and the National Oceanic and Atmospheric Administration (NOAA).  The project team receives input from a User Advisory Board composed of a broad coalition of industry partners and ocean stakeholders.</p>
 
