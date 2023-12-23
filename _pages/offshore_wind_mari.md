@@ -63,7 +63,7 @@ header:
     </div>
     <div class="right_col">
 <center>
-<video autoplay controls>
+<video width="640" height="480" autoplay controls>
   <source src="/assets/videos/wind_deficit_20180701_20180715.mp4" type="video/mp4" style="height:80%; width:80%">
 </video>
 </center>
