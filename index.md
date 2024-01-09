@@ -37,12 +37,15 @@ header:
  <h3 style="text-align: left;">Recent Publications:  <a href="https://cesarsauvage.github.io/publications/">(see full list)</a> </h3>
 <!--   <strong>Submitted</strong> -->
 
-<strong>Accepted</strong>  
-<ul>
- 	<li>Bouin M-N, C. Lebeaupin Brossier, S. Malardel, A. Voldoire, and <strong>C. Sauvage</strong>: The wave-age dependent stress parameterization (WASP) for momentum and heat  turbulent fluxes at sea in SURFEX v8.1.,Geoscientific Model Development, Accepted 2023</li>
-</ul>
+<!--    <strong>Accepted</strong>   -->
+
 
 <strong>Published (Peer-Reviewed)</strong>
+
+<strong>2024</strong>
+<ul>
+ 	<li>Bouin, M.-N., Lebeaupin Brossier, C., Malardel, S., Voldoire, A., and Sauvage, C.: The wave-age-dependent stress parameterisation (WASP) for momentum and heat turbulent fluxes at sea in SURFEX v8.1, Geosci. Model Dev., 17, 117–141, <a  href=" https://doi.org/10.5194/gmd-17-117-2024"> gmd-17-117-2024</a> , 2024.</li>
+</ul>
 
 <strong>2023</strong>
 <ul>
