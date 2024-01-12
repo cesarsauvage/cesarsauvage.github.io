@@ -59,6 +59,13 @@ padding: 0px 50px 0px 0px;
   
 </style>
 
+<h3>Modified COARE3.5 sea surface parameterization</h3>
+The modified version of the bulk fluxes parameterization COARE3.5 (Sauvage et al. 2023) is available on GitHub: <a href="https://github.com/cesarsauvage/COARE3.5_modified_Sauvage-et-al._2023">modified_COARE3.5.</a> <br>
+Based on the original COARE3.5 (Edson et al. 2013), this version includes additional wave-based formulations using the angle between wind and waves or mean sea state conditions instead of peak sea state conditions.   
+
+
+<h3> Research Topics</h3>
+
   <div class="row">
     <div class="left_col">
               <br>
