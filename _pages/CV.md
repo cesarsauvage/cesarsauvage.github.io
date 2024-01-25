@@ -57,6 +57,12 @@ Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmos
  	<li><strong>'Introduction to Ocean Surface Waves'</strong>, Guest lecture for the MIT/WHOI Joint Program, Nov. 2021.</li>
 </ul>
 &nbsp;
+<h3>Students</h3>
+<ul>
+  <li>Co-advised Yoo-Jun Kim (Tokyo University) during November 2023-March 2024; Yoo-Jun is working on coastal and estuary circulation around Japan, looking into LES-scale winds and circulation.</li>
+ 	<li>Co-advised Peisen Tan (University of Miami) during Summer 2023; Peisen is working on laboratory and numerical modeling of short wind waves and swell interactions.</li>
+</ul>
+&nbsp;
 <h3>Service</h3>
 <ul>
   <li>Session chair : <em>"Waves in the large-scale air-sea system"</em> at The 4th workshop on Waves and Wave-Coupled Processes, Uppsala, Sweden, February 2023</li>
