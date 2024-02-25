@@ -27,14 +27,26 @@ header:
 
 <strong>To come: ~ </strong>
 <ul>
-   <li><strong>Ocean Science Meeting 2024</strong>,  New Orleans, LA, USA, Feb. 2024.<br> 
-<u>Sauvage C.</u>, H. Seo, J. B. Edson and C-A. Clayson: On the misaligned wind waves behind the atmospheric cold fronts. Talk.</li>
+
 </ul>
 
 <strong>Past: </strong> <br> 
 
 <strong>2023</strong>
 <ul>
+  <div id="wrap">
+    <div id="left_col">
+      <li><strong>Ocean Science Meeting 2024</strong>,  New Orleans, LA, USA, Feb. 2024.<br> 
+        <u>Sauvage C.</u>, H. Seo, J. B. Edson and C-A. Clayson:Air-Sea Flux Impacts Over Misaligned Waves During Atmospheric Cold Fronts. Talk.</li>
+    </div>
+    <div id="right_col">
+      <center>
+        <img src="/assets/images/osm_2024.jpg" style="height:100%; width:100%">
+        <figcaption>Ocean Scicences Meeting 2024. </figcaption>
+      </center>
+    </div>
+</div>
+  <br>
   <div id="wrap">
     <div id="left_col">
           <li><strong>The North American Wind Energy Academy (NAWEA)/WindTech 2023 Conference</strong>,  Denver, CO, USA, Oct. 2023.<br> 
