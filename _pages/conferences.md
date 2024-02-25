@@ -20,6 +20,14 @@ header:
    float:right;
    width:30%;
 }
+#left_col1 {
+   float:left;
+   width:60%;
+}
+#right_col1 {
+   float:right;
+   width:40%;
+}
 </style>
 
 
@@ -35,17 +43,18 @@ header:
 <strong>2023</strong>
 <ul>
   <div id="wrap">
-    <div id="left_col">
+    <div id="left_col1">
       <li><strong>Ocean Science Meeting 2024</strong>,  New Orleans, LA, USA, Feb. 2024.<br> 
         <u>Sauvage C.</u>, H. Seo, J. B. Edson and C-A. Clayson:Air-Sea Flux Impacts Over Misaligned Waves During Atmospheric Cold Fronts. Talk.</li>
     </div>
-    <div id="right_col">
+    <div id="right_col1">
       <center>
         <img src="/assets/images/osm_2024.jpg" style="height:100%; width:100%">
         <figcaption>Ocean Scicences Meeting 2024. </figcaption>
       </center>
     </div>
-</div>
+  </div>
+  <br>
   <br>
   <div id="wrap">
     <div id="left_col">
