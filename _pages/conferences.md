@@ -58,9 +58,11 @@ header:
       </center>
     </div>
   </div>
-  <br>
-  <br>
-  <strong>2023</strong>
+</ul>
+<br>
+<br>
+<strong>2023</strong>
+<ul>
   <div id="wrap">
     <div id="left_col">
           <li><strong>The North American Wind Energy Academy (NAWEA)/WindTech 2023 Conference</strong>,  Denver, CO, USA, Oct. 2023.<br> 
