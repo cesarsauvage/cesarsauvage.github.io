@@ -24,18 +24,19 @@ header:
 
 <h3 style="text-align: left;">Recent Talks: <a href="https://cesarsauvage.github.io/conferences/">(see full list)</a> </h3>
 <ul>
-  <li><strong>The North American Wind Energy Academy (NAWEA)/WindTech 2023 Conference</strong>,  Denver, CO, USA, Oct. 2023.<br> 
-<u>Sauvage C.</u>, H. Seo, J. B. Edson and C-A. Clayson: On the misaligned wind waves behind the atmospheric cold fronts. Poster.</li>
-  
-  <li><strong> Workshop on "Atmosphere-ocean coupling at (sub)mesoscales"</strong>,  Leiden, the Netherlands, Sept. 2023.<br> 
-<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas. Poster.</li>
-  
-  	<li><strong>ODYSEA: winds and currents seminar series</strong>, Virtual, May 2023.<br> 
-<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Improving wave-based air-sea momentum flux parameterization in mixed seas.</li>
+    <li><strong>5th Workshop on Waves and Wave-Coupled Processes</strong>, Reading, UK, Apr. 2024.<br> 
+        <u>Sauvage C.</u>, H. Seo, B. Barr, J. B. Edson and C-A. Clayson: Misaligned Wind-Waves Behind Atmospheric Cold Fronts. Talk.
+  </li>
+  <li><strong>Ocean Science Meeting 2024</strong>,  New Orleans, LA, USA, Feb. 2024.<br> 
+        <u>Sauvage C.</u>, H. Seo, J. B. Edson and C-A. Clayson: Air-Sea Flux Impacts Over Misaligned Waves During Atmospheric Cold Fronts. Talk.
+  </li>
 </ul>
  
  <h3 style="text-align: left;">Recent Publications:  <a href="https://cesarsauvage.github.io/publications/">(see full list)</a> </h3>
-<!--   <strong>Submitted</strong> -->
+<strong>Submitted</strong>
+<ul>
+ 	<li><strong>Sauvage, C.</strong>, Seo, H., Benjamin W. Barr, Edson, J.B.and Clayson, C.A.: Misaligned Wind-Waves Behind Atmospheric Cold Fronts, JGR: Oceans, Submitted, 2024. <a href="https://essopenarchive.org/users/557312/articles/803465-misaligned-wind-waves-behind-atmospheric-cold-fronts"> Preprint</a>.</li>
+</ul>
 
 <!--    <strong>Accepted</strong>   -->
 
