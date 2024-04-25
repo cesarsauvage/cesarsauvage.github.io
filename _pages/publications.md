@@ -53,7 +53,10 @@ header:
 </style>
 
 <!-- -->
-<!-- <h2><strong>Submitted</strong> </h2>-->
+<h2><strong>Submitted</strong> </h2>
+<ul>
+ 	<li><strong>Sauvage, C.</strong>, Seo, H., Benjamin W. Barr, Edson, J.B.and Clayson, C.A.: Misaligned Wind-Waves Behind Atmospheric Cold Fronts, JGR: Oceans, Submitted, 2024. <a href="https://essopenarchive.org/users/557312/articles/803465-misaligned-wind-waves-behind-atmospheric-cold-fronts"> Preprint</a>.</li>
+</ul>
 
 <!-- <h2><strong>Accepted</strong>  </h2> -->
 
