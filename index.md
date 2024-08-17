@@ -33,9 +33,9 @@ header:
 </ul>
  
  <h3 style="text-align: left;">Recent Publications:  <a href="https://cesarsauvage.github.io/publications/">(see full list)</a> </h3>
-<strong>Submitted</strong>
+<strong>Accepted</strong>
 <ul>
- 	<li><strong>Sauvage, C.</strong>, Seo, H., Benjamin W. Barr, Edson, J.B.and Clayson, C.A.: Misaligned Wind-Waves Behind Atmospheric Cold Fronts, JGR: Oceans, Submitted, 2024. <a href="https://essopenarchive.org/users/557312/articles/803465-misaligned-wind-waves-behind-atmospheric-cold-fronts"> Preprint</a>.</li>
+ 	<li><strong>Sauvage, C.</strong>, Seo, H., Benjamin W. Barr, Edson, J.B.and Clayson, C.A.: Misaligned Wind-Waves Behind Atmospheric Cold Fronts, JGR: Oceans, Accepted, 2024. <a href="https://essopenarchive.org/users/557312/articles/803465-misaligned-wind-waves-behind-atmospheric-cold-fronts"> Preprint</a>.</li>
 </ul>
 
 <!--    <strong>Accepted</strong>   -->
