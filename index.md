@@ -33,18 +33,14 @@ header:
 </ul>
  
  <h3 style="text-align: left;">Recent Publications:  <a href="https://cesarsauvage.github.io/publications/">(see full list)</a> </h3>
-<strong>Accepted</strong>
-<ul>
- 	<li><strong>Sauvage, C.</strong>, Seo, H., Benjamin W. Barr, Edson, J.B.and Clayson, C.A.: Misaligned Wind-Waves Behind Atmospheric Cold Fronts, JGR: Oceans, Accepted, 2024. <a href="https://essopenarchive.org/users/557312/articles/803465-misaligned-wind-waves-behind-atmospheric-cold-fronts"> Preprint</a>.</li>
-</ul>
-
-<!--    <strong>Accepted</strong>   -->
+<!-- <strong>Accepted</strong> -->
 
 
 <strong>Published (Peer-Reviewed)</strong>
 
 <strong>2024</strong>
 <ul>
+  <li><strong> Sauvage, C.</strong>, Seo, H., Barr, B. W., Edson, J. B., & Clayson, C. A. (2024). Misaligned wind-waves behind atmospheric cold fronts. Journal of Geophysical Research: Oceans, 129, e2024JC021162. <a  href="https://doi.org/10.1029/2024JC021162"> doi.org/10.1029/2024JC021162 </a>.</li>
  	<li>Bouin, M.-N., Lebeaupin Brossier, C., Malardel, S., Voldoire, A., and <strong>Sauvage, C.</strong>: The wave-age-dependent stress parameterisation (WASP) for momentum and heat turbulent fluxes at sea in SURFEX v8.1, Geosci. Model Dev., 17, 117–141, <a  href=" https://doi.org/10.5194/gmd-17-117-2024"> gmd-17-117-2024</a> , 2024.</li>
 </ul>
 
