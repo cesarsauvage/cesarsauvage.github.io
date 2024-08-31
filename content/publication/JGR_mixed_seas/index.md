@@ -7,7 +7,7 @@ title: 'Improving Wave-Based Air-Sea Momentum Flux Parameterization in Mixed Sea
 authors:
   - admin
   - Hyodae Seo
-  - Carol Anne Calyson
+  - Carol Anne Clayson
   - James B. Edson
 
 # Author notes (optional)
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
