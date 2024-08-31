@@ -42,7 +42,6 @@ featured: true
  links:
  - name: Link
     url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019277
-
 url_pdf: ''
 url_code: ''
 url_dataset: ''
