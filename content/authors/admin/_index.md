@@ -47,30 +47,30 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Ocean-Atmosphere-Waves interactions
+  - Air-sea interactions
   - Ocean surface waves
   - Air-sea flux parameterization
   - Regional coupled modeling
 
 education:
   - area: Ph.D. in Oceanography-Meteorology
-    institution: CNRM (National Centre for Meteorological Research), Paul Sabatier University, France
+    institution: CNRM, Paul Sabatier University, France
     date_start: 2016-10-01
     date_end: 2019-12-31
     summary: 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Engineering university - Hydrology Major
+  - area: Engineering university - Hydrology 
     institution: Polytech’Nice-Sophia Antipolis, France
     date_start: 2012-09-01
     date_end: 2015-10-01
     summary: 
-  - area: Semester in South Korea
-    institution: Incheon National University
-    date_start: 2014-03-01
-    date_end: 2014-08-01
-    summary: 
+ # - area: Semester in South Korea
+ #   institution: Incheon National University
+ #   date_start: 2014-03-01
+ #   date_end: 2014-08-01
+ #   summary: 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
