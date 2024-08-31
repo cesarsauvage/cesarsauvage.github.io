@@ -14,8 +14,8 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "In Journal Of Geophysical Research: Oceans"
+publication_short: "In JGR: Oceans"
 
 abstract: <div style="text-align:justify"> Atmospheric fronts embedded in extratropical cyclones are high-impact weather phenomena, contributing significantly to mid-latitude winter precipitation. The three vital characteristics of the atmospheric fronts, high wind speeds, abrupt change in wind direction, and rapid translation, force the induced surface waves to be misaligned with winds exclusively behind the cold fronts. The effects of the misaligned waves under atmospheric cold fronts on air-sea fluxes remain undocumented. Using the multi-year in situ near-surface observations and direct covariance flux measurements from the Pioneer Array off the coast of New England, we find that the majority of the passing cold fronts generate misaligned waves behind the cold front. Once generated, the waves remain misaligned, on average, for about 8 hr. The parameterized effect of misaligned waves in a fully coupled model significantly increases the roughness length (185%), drag coefficient (19%), and air-sea momentum flux (11%). The increased surface drag reduces the wind speeds in the surface layer. The upward turbulent heat flux is weakly decreased by the misaligned waves because of the decrease in temperature and humidity scaling parameters being greater than the increase in friction velocity. The misaligned wave effect is not accurately represented in a commonly used wave-based bulk flux algorithm. Yet, considering this effect in the current formulation improves the overall accuracy of parameterized momentum flux estimates. The results imply that better representing a directional wind-wave coupling in the bulk formula of the numerical models may help improve the air-sea interaction simulations under the passing atmospheric fronts in the mid-latitudes. </div>
 
@@ -30,14 +30,14 @@ featured: true
 links:
 - name: Custom Link
   url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021162
-url_pdf: 
-#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_dataset: '#'
-#url_poster: '#'
-#url_project: ''
-#url_slides: ''
-#url_source: '#'
-#url_video: '#'
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
