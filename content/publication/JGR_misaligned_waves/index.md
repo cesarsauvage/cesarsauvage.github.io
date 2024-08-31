@@ -30,7 +30,7 @@ featured: true
 links:
 - name: Custom Link
   url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021162
-url_pdf: ''
+url_pdf: 
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
