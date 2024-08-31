@@ -30,7 +30,7 @@ abstract: '<div style="text-align:justify"> A widely applicable parameterisation
 summary: '<div style="text-align:justify"> A widely applicable parameterisation of turbulent heat and momentum fluxes at sea has been developed for the SURFEX v8.1 surface model. This wave-age-dependent stress parameterisation (WASP) combines a close fit to available in situ observations at sea up to wind speed of 60 m s−1 with the possibility of activating the impact of wave growth on the wind stress. It aims in particular at representing the effect of surface processes that depend on the surface wind according to the state of the art. It can be used with the different atmospheric models coupled with the surface model SURFEX, including the CNRM-CM climate model, the operational (numerical weather prediction) systems in use at Météo-France, and the research model Meso-NH. Designed to be used in coupled or forced mode with a wave model, it can also be used in an atmosphere-only configuration. It has been validated and tested in several case studies covering different surface conditions known to be sensitive to the representation of surface turbulent fluxes: (i) the impact of a sea surface temperature (SST) front on low-level flow by weak wind, (ii) the simulation of a Mediterranean heavy precipitating event where waves are known to influence the low-level wind and displace precipitation, (iii) several tropical cyclones, and (iv) a climate run over 35 years. It shows skills comparable to or better than the different parameterisations in use in SURFEX v8.1 so far. </div>'
 
 tags:
-- Source Themes
+- Wind Waves Coupling
 featured: true
 
 links:
