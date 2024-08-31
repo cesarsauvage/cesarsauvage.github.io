@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      I am currently a Research Associate III at Woods Hole Oceanographic Institution (WHOI) working with Dr. Hyodae Seo and Dr. Carol Anne Clayson, with an interest in contributing to a deeper understanding of the air-sea interactions and how the ocean can modulate the global and regional climate. In order to tackle these topics, I use coupled Earth system models (i.e. SCOAR Regional Coupled Model) involving interactions between the atmosphere, the ocean and the ocean surface waves. Along with numerical simulations, extensive use of available observation dataset made in the marine boundary layer is needed to assess the current modeling capability and how it can be improved. A better understanding and representation of the air-sea interaction in numerical models can have crucial implications in weather forecast but also in assessing offshore wind energy.
     design:
       columns: '1'
   - block: collection
