@@ -33,7 +33,7 @@ tags:
 - Source Themes
 featured: true
 
- links:
+links:
  - name: "Link"
    url: "https://gmd.copernicus.org/articles/17/117/2024/"
 url_pdf: ''
