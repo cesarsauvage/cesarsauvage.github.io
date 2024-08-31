@@ -64,7 +64,7 @@ image:
 
 
 <!--- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs. -->
-{{% callout note %}}
+<!---{{% callout note %}}-->
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {% /callout %}}
 
