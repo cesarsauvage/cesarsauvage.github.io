@@ -11,7 +11,7 @@ last_name: Sauvage
 
 # Status emoji
 status:
-  icon: :ocean:
+  icon: 🌊
 
 # Is this the primary user of the site?
 superuser: true
