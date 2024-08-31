@@ -39,9 +39,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
- links:
+links:
  - name: Link
-    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019277
+   url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019277
 url_pdf: ''
 url_code: ''
 url_dataset: ''
