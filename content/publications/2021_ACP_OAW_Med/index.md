@@ -32,7 +32,7 @@ Result analysis of this first case study with the AROME-NEMO-WaveWatchIII system
 tags:
 - Wind Waves Coupling
 
-featured: true
+featured: false
 
 links:
 - name: Link
