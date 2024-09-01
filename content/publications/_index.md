@@ -13,16 +13,16 @@ design:
 #   image: ''
 
 sections:
-  - block: collection
-    content:
-      title: Submitted/In Review
-      filters:
-        folders:
-          - publications
-        publication_type: manuscript
-        exclude_featured: false
-    design:
-      view: citation
+#  - block: collection
+#    content:
+#      title: Submitted/In Review
+#      filters:
+#        folders:
+#          - publications
+#        publication_type: manuscript
+#        exclude_featured: false
+#    design:
+#      view: citation
   - block: collection
     content:
       title: Journal Articles
