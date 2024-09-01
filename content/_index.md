@@ -63,8 +63,8 @@ sections:
 #        folders:
 #          - publication
 #        exclude_featured: false
-    design:
-      view: citation
+#    design:
+#      view: citation
   - block: collection
     id: talks
     content:
