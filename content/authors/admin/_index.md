@@ -171,4 +171,4 @@ awards:
 
 ## About Me
 
-I am currently a Research Associate III at Woods Hole Oceanographic Institution (WHOI) working with Dr. Hyodae Seo and Dr. Carol Anne Clayson, with an interest in contributing to a deeper understanding of the air-sea interactions and how the ocean can modulate the global and regional climate.
+<div style="text-align:justify"> I am currently a Research Associate III at Woods Hole Oceanographic Institution (WHOI) working with Dr. Hyodae Seo and Dr. Carol Anne Clayson, with an interest in contributing to a deeper understanding of the air-sea interactions and how the ocean can modulate the global and regional climate. </div>
