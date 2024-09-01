@@ -32,7 +32,7 @@ sections:
         publication_type: article-journal
         exclude_featured: false
     design:
-      view: compact
+      view: citation
 #  - block: collection
 #    content:
 #      title: Reports
