@@ -5,7 +5,7 @@ authors:
 - Cindy Lebeaupin Brossier
 - Marie-Noëlle Bouin
 
-date: "2024-08-28T00:00:00Z"
+date: "2021-08-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ Result analysis of this first case study with the AROME-NEMO-WaveWatchIII system
 tags:
 - Wind Waves Coupling
 
-featured: false
+featured: true
 
 links:
 - name: Link
