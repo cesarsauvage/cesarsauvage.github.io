@@ -45,12 +45,12 @@ sections:
         </center>
       columns: '1'
   - block: collection
-    id: publication
+    id: publications
     content:
       title: Recent Publications
       filters:
         folders:
-          - publication
+          - publications
         featured_only: true
     design:
       view: article-grid
