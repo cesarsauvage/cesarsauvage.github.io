@@ -18,7 +18,7 @@ sections:
       title: Submitted/In Review
       filters:
         folders:
-          - publication
+          - publications
         publication_type: manuscript
         exclude_featured: false
     design:
@@ -28,7 +28,7 @@ sections:
       title: Journal Articles
       filters:
         folders:
-          - publication
+          - publications
         publication_type: article-journal
         exclude_featured: false
     design:
@@ -50,7 +50,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publications
         publication_type: thesis
         exclude_featured: false
     design:
