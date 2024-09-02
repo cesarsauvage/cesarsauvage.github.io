@@ -46,6 +46,11 @@ header:
 </ul>
 
 <h3 style="text-align: left;">Recent Talks: <a href="https://cesarsauvage.github.io/conferences/">(see full list)</a> </h3>
+
+<center>
+<img src="/assets/images/wave_workshop_ECMWF_2024.jpeg" alt="" style="height:50%; width:50%">
+</center>
+
 <ul>
     <li><strong>5th Workshop on Waves and Wave-Coupled Processes</strong>, Reading, UK, Apr. 2024.<br> 
         <u>Sauvage C.</u>, H. Seo, B. Barr, J. B. Edson and C-A. Clayson: Misaligned Wind-Waves Behind Atmospheric Cold Fronts. Talk.
@@ -55,8 +60,9 @@ header:
   </li>
 </ul>
 
-
 <center>
 <img src="/assets/images/Untitled_2.png" alt="" style="height:100%; width:100%">
 </center>
+
+
 
