@@ -1,5 +1,5 @@
 ---
-title: <div align="center">Publications</div>
+title: <br>
 layout: splash 
 classes : wide
 author_profile : false
