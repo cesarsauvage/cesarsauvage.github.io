@@ -57,8 +57,9 @@ header:
 
 <!-- <h2><strong>Accepted</strong>  </h2> -->
 
-
+<center>
 <h2><strong>Published (Peer-Reviewed)</strong></h2>
+</center>
 
 <strong>2024</strong>
 
@@ -99,8 +100,13 @@ header:
 	</li>
  </ul>
 
+<center>
+<h2><strong>Dissertation:</strong></h2>
+</center>
+ 
+<center>
 <h2><strong>Conference paper:</strong></h2>
-
+</center>
 <ul>
 	<li>
  	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Bouin, M-N., and Ducrocq, V., Role of the sea state on the air-sea exchanges during a Mediterranean heavy precipitation event in a kilometer-scale forecast system, AMS 21st Conference on Air-Sea Interaction, <a href="https://hal.archives-ouvertes.fr/meteo-02401988">Link</a>
