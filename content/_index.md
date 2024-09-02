@@ -31,7 +31,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: HTML
     content:
       title: '📚 My Research'
       subtitle: ''
