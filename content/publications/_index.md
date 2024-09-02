@@ -31,6 +31,7 @@ sections:
           - publications
         publication_type: article-journal
         exclude_featured: false
+      count: 100
     design:
       view: citation
 #  - block: collection
