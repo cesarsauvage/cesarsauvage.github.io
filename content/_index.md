@@ -40,9 +40,10 @@ sections:
         A better understanding and representation of the air-sea interaction in numerical models can have crucial implications in weather forecast but also in assessing offshore wind energy. </div>
 
         <center>
-        <img src="/assets/media/wind_waves_v2.gif" alt="" style="height:70%; width:70%">
+        <img src="/assets/media/wind_waves_v2.gif" alt="" style="height:40%; width:40%">
         <figcaption>Wind and waves evolution during Winter 2020 from ECMWF Reanalysis v5 (ERA5).</figcaption>
         </center>
+
       columns: '1'
   - block: collection
     id: publications
