@@ -35,9 +35,9 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: <div style="text-align:justify"> I am currently a Research Associate III at Woods Hole Oceanographic Institution (WHOI) working with Dr. Hyodae Seo and Dr. Carol Anne Clayson, with an interest in contributing to a deeper understanding of the air-sea interactions and how the ocean can modulate the global and regional climate.<br /><br />
+      text: '<div style="text-align:justify"> I am currently a Research Associate III at Woods Hole Oceanographic Institution (WHOI) working with Dr. Hyodae Seo and Dr. Carol Anne Clayson, with an interest in contributing to a deeper understanding of the air-sea interactions and how the ocean can modulate the global and regional climate.<br /><br />
       In order to tackle these topics, I use coupled Earth system models (i.e. SCOAR Regional Coupled Model) involving interactions between the atmosphere, the ocean and the ocean surface waves. Along with numerical simulations, extensive use of available observation dataset made in the marine boundary layer is needed to assess the current modeling capability and how it can be improved.<br /><br />
-      A better understanding and representation of the air-sea interaction in numerical models can have crucial implications in weather forecast but also in assessing offshore wind energy. </div> 
+      A better understanding and representation of the air-sea interaction in numerical models can have crucial implications in weather forecast but also in assessing offshore wind energy. </div>'
       #<img src="/assets/media/wind_waves_v2.gif">
       #<figcaption>Wind and waves evolution during Winter 2020 from ECMWF Reanalysis v5 (ERA5).</figcaption>
       #alt="" style="height:40%; width:40%">
