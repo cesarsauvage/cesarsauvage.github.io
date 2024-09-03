@@ -27,16 +27,24 @@ ul.expe {
 	Woods Hole Oceanogrpahic Institution, Woods Hole, MA, USA <br>
 	June 2023 - Present </p>
 </ul>
- <ul class="expe"> 
-  <li><strong>2020 - 2023</strong>, Postodoctoral Investigator at WHOI; <em>Advisors : Hyodae Seo and Carol Anne Clayson</em></li>
-  
-  <li><strong>2016 - 2019</strong>, Ph.D. student, CNRM, Toulouse, France; <em>Advisors :</em><em> Cindy Lebeaupin Brossier, Marie-Noëlle Bouin and Véronique Ducrocq</em></li>
-  
-  <li><strong>2015</strong> (Apr. - Sept.), Guest Student, Mediterranean Institute of Oceanography, Toulon, France; <em>Advisors : Anne Molcard and Yann Ourmières.</em></li>
+<ul class="expe"> 
+  	<li><strong>Postodoctoral Investigator</strong>	</li>
+	<p style="font-size: 20px; color: gray;"> Advisor :  Dr. Hyodae Seo and Dr. Carol Anne Clayson <br> 
+	Woods Hole Oceanogrpahic Institution, Woods Hole, MA, USA <br>
+	February 2020 - June 2023 </p>
 </ul>
-&nbsp;
-
-
+<ul class="expe">
+  	<li><strong>Ph.D. student</strong>	</li>
+	<p style="font-size: 20px; color: gray;"> Advisor :  Dr. Cindy Lebeaupin Brossier, Dr. Marie-Noëlle Bouin and Dr. Véronique Ducrocq <br> 
+	CNRM, Toulouse, France <br>
+	October 2016 - December 2019 </p>
+</ul>
+<ul class="expe">  
+  	<li><strong>Guest Student</strong>	</li>
+	<p style="font-size: 20px; color: gray;"> Advisor :  Dr. Anne Molcard and Dr. Yann Ourmières <br> 
+	Mediterranean Institute of Oceanography, Toulon, France <br>
+	April 2015 - September 2015 </p>
+</ul>
 
 
 <center>
