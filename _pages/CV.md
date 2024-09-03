@@ -8,9 +8,8 @@ header:
   overlay_image: /assets/images/wave_2.png
 ---
 
-
 <center>
-<h3>Experience</h3>
+<h2>Experience</h2>
 </center>
 <ul>
   <li><strong>2023 - now</strong>, Research Associate III at WHOI; <em>Supervisor : Hyodae Seo</em></li> 
@@ -21,11 +20,12 @@ header:
 &nbsp;
 
 
-li:before { content: 'U+1F393'}
+
+
 <center>
-  <h3>Education</h3>
+  <h2>Education</h2>
 </center>
-<ul>
+<ul style="list-style-type:'U+1F393';">>
  	<li><strong>2019</strong>, Ph.D. at CNRM (National Centre for Meteorological Research), Paul Sabatier University,Toulouse, France.
 <ul>
  	<li>Dissertation : <span class=" aw5Odc"><a class="XqQF9c" href="https://hal-meteofrance.archives-ouvertes.fr/tel-02439736/" target="_blank" rel="noopener"><em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events : better modeling and impacts of river runoff and sea state.</em></a></span><em> (full text only available in French)</em></li>
