@@ -2,11 +2,11 @@
 main:
   - title: "<strong>Research</strong>"
     url: /research/
-  - title: "Publications"
+  - title: "<strong>Publications</strong>"
     url: /publications/
-  - title: "Conferences & Seminars"
+  - title: "<strong>Talks</strong>"
     url: /conferences/
-  - title: "CV"
+  - title: "<strong>Resume</strong>"
     url: /CV/
 
 #research:
