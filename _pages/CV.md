@@ -8,7 +8,10 @@ header:
   overlay_image: /assets/images/wave_2.png
 ---
 
-<h3>Positions held</h3>
+
+<center>
+<h3>Experience</h3>
+</center>
 <ul>
   <li><strong>2023 - now</strong>, Research Associate III at WHOI; <em>Supervisor : Hyodae Seo</em></li> 
  	<li><strong>2020 - 2023</strong>, Postodoctoral Investigator at WHOI; <em>Advisors : Hyodae Seo and Carol Anne Clayson</em></li>
@@ -17,7 +20,11 @@ header:
 </ul>
 &nbsp;
 
+
+li:before { content: 'U+1F393'}
+<center>
   <h3>Education</h3>
+</center>
 <ul>
  	<li><strong>2019</strong>, Ph.D. at CNRM (National Centre for Meteorological Research), Paul Sabatier University,Toulouse, France.
 <ul>
