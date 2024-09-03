@@ -435,8 +435,7 @@
       }
 
       &:hover {
-        text-decoration: underline;
-        color: LightSkyBlue;
+        text-decoration: none; /* underline */
       }
     }
   }
