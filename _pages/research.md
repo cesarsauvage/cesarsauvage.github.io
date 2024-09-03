@@ -1,5 +1,5 @@
 ---
-title: <div align="center">Understanding Wind and Waves Interactions</div>
+title: <br>
 layout: splash 
 classes : wide
 author_profile : false
