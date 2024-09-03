@@ -22,14 +22,12 @@ ul.expe {
 <h2>Experience</h2>
 </center>
 <ul class="expe">
-	<li><strong>Research Associate III</strong>
-		<ul style="list-style-type:none;"> 
-			<li> <p style="font-size: 20px; color: gray;"> Advisor : Dr. Hyodae Seo </p></li> 
-			<li> <p style="font-size: 20px; color: gray;"> Woods Hole Oceanogrpahic Institution, Woods Hole, MA, USA </p> </li>
-			<li> <p style="font-size: 20px; color: gray;"> June 2023 - Present </p></li>
-		</ul>
-	</li>
-  
+	<li><strong>Research Associate III</strong>	</li>
+	<p style="font-size: 20px; color: gray;"> Advisor : Dr. Hyodae Seo <br> 
+	Woods Hole Oceanogrpahic Institution, Woods Hole, MA, USA <br>
+	June 2023 - Present </p>
+</ul>
+ <ul class="expe"> 
   <li><strong>2020 - 2023</strong>, Postodoctoral Investigator at WHOI; <em>Advisors : Hyodae Seo and Carol Anne Clayson</em></li>
   
   <li><strong>2016 - 2019</strong>, Ph.D. student, CNRM, Toulouse, France; <em>Advisors :</em><em> Cindy Lebeaupin Brossier, Marie-Noëlle Bouin and Véronique Ducrocq</em></li>
