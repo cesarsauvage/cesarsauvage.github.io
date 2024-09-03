@@ -9,7 +9,7 @@ header:
 ---
 <style>
 ul.educ {
-  list-style-type: "\U+1F393";
+  list-style-type: "\1F431";
 }
 
 </style>
