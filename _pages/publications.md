@@ -63,7 +63,7 @@ header:
 
 <strong>2024</strong>
 
-<ol reversed start=5>
+<ol reversed start=6>
 	<li><strong> Sauvage, C.</strong>, Seo, H., Barr, B. W., Edson, J. B., & Clayson, C. A. (2024). Misaligned wind-waves behind atmospheric cold fronts. Journal of Geophysical Research: Oceans, 129, e2024JC021162. <a  href="https://doi.org/10.1029/2024JC021162"> doi.org/10.1029/2024JC021162 </a>.</li>
  	<li>Bouin, M.-N., Lebeaupin Brossier, C., Malardel, S., Voldoire, A., and <strong>Sauvage, C.</strong>: The wave-age-dependent stress parameterisation (WASP) for momentum and heat turbulent fluxes at sea in SURFEX v8.1, Geosci. Model Dev., 17, 117–141, <a href="https://doi.org/10.5194/gmd-17-117-2024">gmd-17-117-2024</a> , 2024.</li>
 </ol>
