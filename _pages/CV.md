@@ -9,16 +9,19 @@ header:
 ---
 <style>
 ul.educ {
-  list-style-type: "\1F431";
+  list-style-type: "\U+200D";
+}
+ul.expe {
+  list-style-type: "\U+1F9D1";
 }
 
 </style>
-
+<!-- U+1F9D1 U+200D U+1F393 -->
 
 <center>
 <h2>Experience</h2>
 </center>
-<ul>
+<ul.expe>
   <li><strong>2023 - now</strong>, Research Associate III at WHOI; <em>Supervisor : Hyodae Seo</em></li> 
  	<li><strong>2020 - 2023</strong>, Postodoctoral Investigator at WHOI; <em>Advisors : Hyodae Seo and Carol Anne Clayson</em></li>
  	<li><strong>2016 - 2019</strong>, Ph.D. student, CNRM, Toulouse, France; <em>Advisors :</em><em> Cindy Lebeaupin Brossier, Marie-Noëlle Bouin and Véronique Ducrocq</em></li>
