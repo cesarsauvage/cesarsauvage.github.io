@@ -24,9 +24,9 @@ ul.expe {
 <ul class="expe">
 	<li><strong>Research Associate III</strong>
 		<ul style="list-style-type:none;"> 
-			<li> <p style="font-size: 8px; color: gray;"> Advisor : Dr. Hyodae Seo </p></li> 
-			<li> <p style="font-size: 8px; color: gray;"> Woods Hole Oceanogrpahic Institution, Woods Hole, MA, USA </p> </li>
-			<li> <p style="font-size: 8px; color: gray;"> June 2023 - Present </p></li>
+			<li> <p style="font-size: 20px; color: gray;"> Advisor : Dr. Hyodae Seo </p></li> 
+			<li> <p style="font-size: 20px; color: gray;"> Woods Hole Oceanogrpahic Institution, Woods Hole, MA, USA </p> </li>
+			<li> <p style="font-size: 20px; color: gray;"> June 2023 - Present </p></li>
 		</ul>
 	</li>
   
