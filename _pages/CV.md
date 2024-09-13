@@ -69,7 +69,7 @@ ul.expe {
 
 
 
-<h3>Projects</h3>
+<h2>Projects</h2>
 Current:
 <ul>
  	<li><strong>NSF PO (2022-2026): </strong>Improving understanding of coupled impacts of oceans and waves on air-sea fluxes in the US Northeast Coast. PIs: Seo, <strong>Sauvage</strong>, Edson and Clayson.</li>
@@ -81,30 +81,31 @@ Past:
 <ul>
  	<li><strong>MISTRALS - HYMEX (2010-2020)</strong>, Hydrological Cycle in Mediterranean Experiments. Drobinski et al., 2014.</li>
 </ul>
-<h3>Award</h3>
+<h2>Award</h2>
 <ul>
    <li>Travel grant received to attend the <em>Workshop on "Atmosphere-ocean coupling at (sub)mesoscales"</em>, Leiden, the Netherlands, Sept. 2023.</li>
   <li>Travel grant received as a early career scientist to attend the <em>US CLIVAR Mesoscale and Frontal-Scale Air-Sea Interactions Workshop</em>, Boulder,CO, USA, Mar. 2023.</li>
 </ul>
-  <h3>Honor</h3>
+  <h2>Honor</h2>
 <ul>
  	<li><strong>Physical Oceanography Dissertation Symposium XI</strong>, Kaua'i, Hawai'i, USA, Oct. 2021.
 Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events: better modeling and impacts of river runoff and sea state</em>. Talk.</li>
 </ul>
-&nbsp;
-<h3>Teaching & Outreach</h3>
+
+
+<h2>Teaching & Outreach</h2>
 <ul>
   <li><strong>'Ocean-Atmosphere Interactions Impact on Global Climate'</strong>, Guest lecture in Earth and Science class at Glenville State University, Apr. 2023.</li>
  	<li><strong>'Introduction to Ocean Surface Waves'</strong>, Guest lecture for the MIT/WHOI Joint Program, Nov. 2021.</li>
 </ul>
-&nbsp;
-<h3>Students</h3>
+
+<h2>Students</h2>
 <ul>
   <li>Co-advised Yoo-Jun Kim (Tokyo University) during November 2023-March 2024; Yoo-Jun is working on coastal and estuary circulation around Japan, looking into LES-scale winds and circulation.</li>
  	<li>Co-advised Peisen Tan (University of Miami) during Summer 2023; Peisen is working on laboratory and numerical modeling of short wind waves and swell interactions.</li>
 </ul>
-&nbsp;
-<h3>Service</h3>
+
+<h2>Service</h2>
 <ul>
   <li>Session chair : <em>"Waves in the large-scale air-sea system"</em> at The 4th workshop on Waves and Wave-Coupled Processes, Uppsala, Sweden, February 2023.</li>
   <li>Session chair : <em>"Regional / Shelf Scale"</em> at the Physical Oceanography Dissertation Symposium XI, Kaua'i, Hawai'i, USA, Oct. 2021.</li>
