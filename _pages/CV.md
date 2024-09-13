@@ -62,7 +62,7 @@ ul.expe {
 	<li><strong>Engineering University - Hydrology Major</strong>	</li>
 	<p style="font-size: 20px; color: gray;">  Polytech’Nice-Sophia Antipolis, France. <br> 
 	2012-2015 <br>
-	&#x1F1F0 Semester in Incheon National University, South Korea, March - August 2014</p>
+	 Semester in Incheon National University, South Korea, March - August 2014</p>
 </ul>
 
 
