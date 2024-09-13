@@ -23,7 +23,7 @@ ul.expe {
 </center>
 <ul class="expe">
 	<li><strong>Research Associate III</strong>	</li>
-	<p style="font-size: 20px; color: gray;"> Advisor : Dr. Hyodae Seo <br> 
+	<p style="font-size: 20px; color: gray;"> Supervisor : Dr. Hyodae Seo <br> 
 	Woods Hole Oceanogrpahic Institution, Woods Hole, MA, USA <br>
 	June 2023 - Present </p>
 </ul>
@@ -51,15 +51,24 @@ ul.expe {
   <h2>Education</h2>
 </center>
 <ul class="educ">
- 	<li><strong>2019</strong>, Ph.D. at CNRM (National Centre for Meteorological Research), Paul Sabatier University,Toulouse, France.
+	<li><strong>Ph.D. at CNRM (National Centre for Meteorological Research)</strong>	</li>
+	<p style="font-size: 20px; color: gray;">  Paul Sabatier University,Toulouse, France. <br> 
+	2016-2019 <br> </p>
 <ul>
  	<li>Dissertation : <span class=" aw5Odc"><a class="XqQF9c" href="https://hal-meteofrance.archives-ouvertes.fr/tel-02439736/" target="_blank" rel="noopener"><em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events : better modeling and impacts of river runoff and sea state.</em></a></span><em> (full text only available in French)</em></li>
 </ul>
-</li>
- 	<li><strong>2012-2015</strong>, Engineering university - Water engineering, Polytech’Nice-Sophia Antipolis, France.</li>
- 	<li><strong>2014</strong>, Semester in South Korea, Incheon National University.</li>
 </ul>
-&nbsp;
+<ul class="educ">
+	<li><strong>Engineering University - Hydrology Major</strong>	</li>
+	<p style="font-size: 20px; color: gray;">  Polytech’Nice-Sophia Antipolis, France. <br> 
+	2012-2015 <br> </p>
+<ul>
+	<li>Semester in Incheon National University, South Korea, March - August 2014</li>
+</ul>
+</ul>
+
+
+
 <h3>Projects</h3>
 Current:
 <ul>
