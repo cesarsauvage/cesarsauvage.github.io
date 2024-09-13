@@ -61,15 +61,14 @@ ul.expe {
 <ul class="educ">
 	<li><strong>Engineering University - Hydrology Major</strong>	</li>
 	<p style="font-size: 20px; color: gray;">  Polytech’Nice-Sophia Antipolis, France. <br> 
-	2012-2015 <br> </p>
-<ul>
-	<li>Semester in Incheon National University, South Korea, March - August 2014</li>
-</ul>
+	2012-2015 <br>
+	:kr: Semester in Incheon National University, South Korea, March - August 2014</p>
 </ul>
 
 
-
-<h2>Projects</h2>
+<center>
+<h2>Projects</h2>\
+</center>
 Current:
 <ul>
  	<li><strong>NSF PO (2022-2026): </strong>Improving understanding of coupled impacts of oceans and waves on air-sea fluxes in the US Northeast Coast. PIs: Seo, <strong>Sauvage</strong>, Edson and Clayson.</li>
