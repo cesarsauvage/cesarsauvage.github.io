@@ -103,7 +103,12 @@ header:
 <center>
 <h2><strong>Dissertation:</strong></h2>
 </center>
- 
+
+<ul>
+ 	<li><a class="XqQF9c" href="https://hal-meteofrance.archives-ouvertes.fr/tel-02439736/" target="_blank" rel="noopener"><em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events : better modeling and impacts of river runoff and sea state.</em></a></span><em> (full text only available in French)</em></li>
+</ul>
+
+
 <center>
 <h2><strong>Conference paper:</strong></h2>
 </center>
