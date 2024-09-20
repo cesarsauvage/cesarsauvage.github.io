@@ -1,8 +1,8 @@
 ---
 title: <br>
 layout: collection
-permalink: /poster/
-collection: portfolio
+permalink: /posters/
+collection: posters
 entries_layout: grid
 classes: wide
 header:

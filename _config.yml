@@ -287,16 +287,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-defaults:
-  # _posters
-  - scope:
-      path: ""
-      type: posters
-    values:
-      layout: single
-      author_profile: false
-      share: true
-
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
@@ -325,3 +315,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _posters
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: single
+      author_profile: false
+      share: true
