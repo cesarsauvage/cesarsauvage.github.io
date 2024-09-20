@@ -20,3 +20,6 @@ gallery3:
 
 ---
 
+{% include gallery id="gallery1" caption="" %}
+{% include gallery id="gallery2" caption="" %}
+{% include gallery id="gallery3" caption="" %}
