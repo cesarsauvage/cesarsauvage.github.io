@@ -4,6 +4,8 @@ main:
     url: /research/
   - title: "<strong>Publications</strong>"
     url: /publications/
+  - title: "<strong>Poster</strong>"
+    url: /poster/
   - title: "<strong>Talks</strong>"
     url: /conferences/
   - title: "<strong>Resume</strong>"
