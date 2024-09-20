@@ -7,3 +7,4 @@ gallery:
   alt: "placeholder image 1"
 ---
 
+test poster
