@@ -101,6 +101,16 @@ header:
  </ol>
 
 <center>
+<h2><strong>White Paper:</strong></h2>
+</center>
+
+<ul>
+	<li>
+Nuijens, L., Wenegrat, J., Dekker, P., Pasquero, C., L.W. O’Neill, Ardhuin, F., Ayet, A., Bechtold, P., Bruch, W., Laurindo, L., Chen, X., Desbiolles, F., Foster, R., Frenger, I., George, G., Giesen, R., Hayden, E., Hell, M. C., Iyer, S., ...<strong>Sauvage, C.</strong>, ...Zippel, S. ,  The air-sea interaction (ASI) submesoscale: Physics and impact., DOI : <a href="https://doi.org/10.5065/78ac-qd31">10.5065/78ac-qd31</a>, 2024
+	</li>
+</ul>
+
+<center>
 <h2><strong>Dissertation:</strong></h2>
 </center>
 
