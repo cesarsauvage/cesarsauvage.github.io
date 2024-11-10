@@ -122,7 +122,7 @@ Sauvage C., C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmos
   <li> Ad hoc reviewer for the National Science Foundation (NSF). </li>
  	<li>Reviewer for Journal of Geophysical Research (JGR) Oceans; JGR Atmospheres; Atmospheric Chemistry and Physics (ACP); Geoscientific Model Development (GMD); Scientific Reports; Limnology;</li>
  	<li>Co-organizer of the Physical Oceanography Department Seminar at WHOI (2021-2022).</li>
- 	<li>Member of Physical Oceanography Department Website Committee at WHOI (2022-now).</li>
+ 	<li>Member of Physical Oceanography Department Website Committee at WHOI (2022-2024).</li>
   
 </ul>
 

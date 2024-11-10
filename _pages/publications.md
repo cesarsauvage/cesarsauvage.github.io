@@ -50,6 +50,7 @@ header:
     width: 100%;
   }
 }
+
 </style>
 
 <!-- -->
@@ -106,8 +107,9 @@ header:
 
 <ul>
 	<li>
-Nuijens, L., Wenegrat, J., Dekker, P., Pasquero, C., L.W. O’Neill, Ardhuin, F., Ayet, A., Bechtold, P., Bruch, W., Laurindo, L., Chen, X., Desbiolles, F., Foster, R., Frenger, I., George, G., Giesen, R., Hayden, E., Hell, M. C., Iyer, S., ...<strong>Sauvage, C.</strong>, ...Zippel, S. ,  The air-sea interaction (ASI) submesoscale: Physics and impact., DOI : <a href="https://doi.org/10.5065/78ac-qd31">10.5065/78ac-qd31</a>, 2024
+Nuijens, L., Wenegrat, J., Dekker, P., Pasquero, C., L.W. O’Neill, Ardhuin, F., Ayet, A., Bechtold, P., Bruch, W., Laurindo, L., Chen, X., Desbiolles, F., Foster, R., Frenger, I., George, G., Giesen, R., Hayden, E., Hell, M. C., Iyer, S., Kousal, J.,Laxague, N., Lenain, L., Pacheco, M., Meroni, A., Minobe, S., Muller, C., O’Driscoll, O., Oerder, V., Pizzo, N., Putrasahan, D., Redelsperger, J.-L., Renault, L., Rommen, B., <strong>Sauvage, C.</strong>, Schneider, N., Shao, M., Siebesma, P., Small, J., Stevens, B., Stoffelen, Ad., Strobach, E., Sullivan, P., Thompson, E. J., Thompson, L., Uchoa, I., Vandemark, D., Villas Boas, B., Yang, B., Zhang, D., Zippel, S., The air-sea interaction (ASI) submesoscale: Physics and impact., DOI : <a href="https://doi.org/10.5065/78ac-qd31">10.5065/78ac-qd31</a>, 2024
 	</li>
+  &#\1F393; link to pdf
 </ul>
 
 <center>
