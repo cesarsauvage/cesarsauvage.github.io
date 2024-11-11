@@ -66,9 +66,9 @@ header:
 
 <ol reversed start=6>
 	<li><strong> Sauvage, C.</strong>, Seo, H., Barr, B. W., Edson, J. B., & Clayson, C. A. (2024). Misaligned wind-waves behind atmospheric cold fronts. Journal of Geophysical Research: Oceans, 129, e2024JC021162. <a  href="https://doi.org/10.1029/2024JC021162"> doi.org/10.1029/2024JC021162 </a>.</li>
-  &#128196; <strong><a href="/assets/papers/Sauvage_2024_Misaligned_Wind‐Waves_Behind_Atmospheric_Cold_Fronts.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/Sauvage_2024_Misaligned_Wind‐Waves_Behind_Atmospheric_Cold_Fronts.bib" >CITE</a><strong>
+  &#128196; <strong><a href="/assets/papers/Sauvage_2024_Misaligned_Wind‐Waves_Behind_Atmospheric_Cold_Fronts.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/Sauvage_2024_Misaligned_Wind‐Waves_Behind_Atmospheric_Cold_Fronts.bib" >CITE</a></strong>
  	<li>Bouin, M.-N., Lebeaupin Brossier, C., Malardel, S., Voldoire, A., and <strong>Sauvage, C.</strong>: The wave-age-dependent stress parameterisation (WASP) for momentum and heat turbulent fluxes at sea in SURFEX v8.1, Geosci. Model Dev., 17, 117–141, <a href="https://doi.org/10.5194/gmd-17-117-2024">gmd-17-117-2024</a> , 2024.</li>
-  &#128196; <strong><a href="/assets/papers/Bouin_et_al_2024_The_wave-age-dependent_stress_parameterisation_(WASP)_for_momentum_and_heat.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/Bouin_et_al_2024_The_wave-age-dependent_stress_parameterisation_(WASP)_for_momentum_and_heat.bib" >CITE</a><strong>
+  &#128196; <strong><a href="/assets/papers/Bouin_et_al_2024_The_wave-age-dependent_stress_parameterisation_(WASP)_for_momentum_and_heat.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/Bouin_et_al_2024_The_wave-age-dependent_stress_parameterisation_(WASP)_for_momentum_and_heat.bib" >CITE</a></strong>
 </ol>
 
 <strong>2023</strong>
@@ -77,7 +77,7 @@ header:
 	<li>
     <strong>Sauvage, C.</strong>, Seo, H., Clayson, C.A. and Edson, J.B., Improving wave-based air-sea momentum flux parameterization in mixed seas, Journal of Geophysical Research: Oceans, DOI: <a href="https://doi.org/10.1029/2022JC019277">10.1029/2022JC019277</a>, 2023 
 	</li>
-  &#128196; <strong><a href="/assets/papers/Sauvage_2023_Improving_Wave‐Based_Air‐Sea_Momentum_Flux_Parameterization_in_Mixed_Seas.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/Sauvage_2023_Improving_Wave‐Based_Air‐Sea_Momentum_Flux_Parameterization_in_Mixed_Seas.bib" >CITE</a><strong>
+  &#128196; <strong><a href="/assets/papers/Sauvage_2023_Improving_Wave‐Based_Air‐Sea_Momentum_Flux_Parameterization_in_Mixed_Seas.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/Sauvage_2023_Improving_Wave‐Based_Air‐Sea_Momentum_Flux_Parameterization_in_Mixed_Seas.bib" >CITE</a></strong>
 </ol>
 
 <strong>2021</strong>
@@ -86,7 +86,7 @@ header:
 	<li>
  	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., and Bouin, M.-N., Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event, Atmos. Chem. Phys., DOI: <a href="https://acp.copernicus.org/articles/21/11857/2021/">10.5194/acp-21-11857-2021</a>, 2021
 	</li>
-  &#128196; <strong><a href="/assets/papers/sauvage_et_al_2021_acp-21-11857-2021.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/sauvage_et_al_2021_acp-21-11857-2021.bib" >CITE</a><strong>
+  &#128196; <strong><a href="/assets/papers/sauvage_et_al_2021_acp-21-11857-2021.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/sauvage_et_al_2021_acp-21-11857-2021.bib" >CITE</a></strong>
 </ol>
 
 <strong>2020</strong>
@@ -95,7 +95,7 @@ header:
 	<li>
  	<strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Bouin, M-N., and Ducrocq, V., Characterization of the air-sea exchanges during a Mediterranean heavy precipitation event using realistic sea state modelling, Atmos. Chem. Phys., DOI : <a href="https://www.atmos-chem-phys.net/20/1675/2020/">10.5194/acp-20-1675-2020</a>, 2020.
 	</li>
-  &#128196; <strong><a href="/assets/papers/sauvage_et_al_2020_acp-20-1675-2020.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/sauvage_et_al_2020_acp-20-1675-2020.bib" >CITE</a><strong>
+  &#128196; <strong><a href="/assets/papers/sauvage_et_al_2020_acp-20-1675-2020.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/sauvage_et_al_2020_acp-20-1675-2020.bib" >CITE</a></strong>
 </ol>
 
 <strong>2018</strong>
@@ -104,7 +104,7 @@ header:
 	<li>
  <strong>Sauvage, C.</strong>, Lebeaupin Brossier, C., Ducrocq, V., Bouin, M-N., Vincendon, B., Verdecchia, M., Taupier-Letage, I. and Orain, F., Impact of the representation of the freshwater river input in the Western Mediterranean Sea, Ocean Modelling, DOI : <a href="https://doi.org/10.1016/j.ocemod.2018.09.005">10.1016/j.ocemod.2018.09.005</a>, 2018
 	</li>
-  &#128196; <strong><a href="/assets/papers/Sauvage_et_al_2018_Impact_of_the_representation_of_the_freshwater_river_input_in_the_Western.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/Sauvage_et_al_2018_Impact_of_the_representation_of_the_freshwater_river_input_in_the_Western.bib" >CITE</a><strong>
+  &#128196; <strong><a href="/assets/papers/Sauvage_et_al_2018_Impact_of_the_representation_of_the_freshwater_river_input_in_the_Western.pdf" >PDF</a></strong> / &#128278; <strong><a href="/assets/citation/Sauvage_et_al_2018_Impact_of_the_representation_of_the_freshwater_river_input_in_the_Western.bib" >CITE</a></strong>
  </ol>
 
 <center>
