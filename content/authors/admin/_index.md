@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Engineering university - Hydrology 
+  - area: Engineering University - Hydrology 
     institution: Polytech’Nice-Sophia Antipolis, France
     date_start: 2012-09-01
     date_end: 2015-10-01
@@ -163,4 +163,4 @@ awards:
 
 ## About Me
 
-<div style="text-align:justify"> I am currently a Research Associate III at Woods Hole Oceanographic Institution (WHOI) working with Dr. Hyodae Seo and Dr. Carol Anne Clayson, with an interest in contributing to a deeper understanding of the air-sea interactions and how the ocean can modulate the global and regional climate. </div>
+<div style="text-align:justify"> I am currently a Oceanographic Researcher at the University of Hawaiʻi at Mānoa working in <a href="https://hyodae-seo.github.io"> Dr. Hyodae Seo Lab </a> on contributing to a deeper understanding of the air-sea interactions and how the ocean can modulate the global and regional climate. </div>
