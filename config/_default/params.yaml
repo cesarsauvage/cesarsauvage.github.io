@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: cyan #emerald
+  font_size: L
 
 # SEO
 marketing:
