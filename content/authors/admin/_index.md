@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Associate III
+role: Oceanographic Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Woods Hole Oceanographic Institution
-    url: https://whoi.edu
+  - name: University of Hawai'i at Manoa
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:csauvage@whoi.edu'
+    url: 'mailto:csauvage@hawaii.edu'
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
