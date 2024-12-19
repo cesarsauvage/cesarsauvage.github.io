@@ -24,7 +24,7 @@ role: Oceanographic Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Hawai'i at Manoa
+  - name: University of Hawaiʻi at Mānoa
     url: https://manoa.hawaii.edu/
 
 # Social network links
