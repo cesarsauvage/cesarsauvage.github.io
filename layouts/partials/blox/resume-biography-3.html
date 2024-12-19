@@ -39,11 +39,11 @@
   {{ end }}
   {{ end }}
 
-  <div id="profile" class="flex justify-content-center tems-center flex-col">
+  <div id="profile" class="flex justify-center tems-center flex-col">
     {{ if $avatar }}
 
-    <div class="avatar-wrapper {{ if $img }}-mt-[105px]{{else}}mt-15{{end}} gap-12">
-      {{ $avatar_image := $avatar.Fill "225x225 Center" }}
+    <div class="avatar-wrapper {{ if $img }}-mt-[105px]{{else}}mt-20{{end}}">
+      {{ $avatar_image := $avatar.Fill "225x225 justify-content-center" }}
       <img class="avatar rounded-3xl bg-white dark:bg-gray-800 p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
            width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}">
       {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
