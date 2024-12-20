@@ -40,7 +40,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publications
         publication_type: report
         exclude_featured: false
     design:
