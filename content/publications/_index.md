@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "20px"
+  spacing: "5px"
 
 # # Optional header image (relative to `static/media/` folder).
 # banner:
