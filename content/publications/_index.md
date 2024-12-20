@@ -34,17 +34,17 @@ sections:
       count: 100
     design:
       view: citation
-#  - block: collection
-#    content:
-#      title: Reports
-#      text: ""
-#      filters:
-#        folders:
-#          - publication
-#        publication_type: report
-#        exclude_featured: false
-#    design:
-#      view: citation
+  - block: collection
+    content:
+      title: White Paper
+      text: ""
+      filters:
+        folders:
+          - publication
+        publication_type: report
+        exclude_featured: false
+    design:
+      view: citation
   - block: collection
     content:
       title: Dissertation
