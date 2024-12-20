@@ -11,7 +11,7 @@ design:
 sections:
 #  - block: bio_custom
 #  - block: resume-biography-3
-  - block: about.avatar
+  - block: about.biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
