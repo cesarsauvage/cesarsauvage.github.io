@@ -7,6 +7,7 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
 #module perso
 # - path: github.com/cesarsauvage/bio_hugo_blox
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
