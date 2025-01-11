@@ -26,7 +26,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: jeremy-bishop-unsplash.jpg #stacked-peaks.svg
+          filename: daniel-olah-unsplash2.jpg #stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
