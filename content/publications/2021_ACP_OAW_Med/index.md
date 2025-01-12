@@ -2,8 +2,8 @@
 title: "Towards kilometer-scale ocean–atmosphere–wave coupled forecast: a case study on a Mediterranean heavy precipitation event"
 authors:
 - admin
-- Cindy Lebeaupin Brossier
-- Marie-Noëlle Bouin
+- Lebeaupin Brossier, C.
+- Bouin, M-B.
 
 date: "2021-08-09T00:00:00Z"
 doi: ""

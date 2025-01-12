@@ -1,9 +1,9 @@
 ---
 # Display name
-title: César Sauvage
+title: Sauvage, C.
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: César Sauvage
 
 # Full name (for SEO)
 first_name: César

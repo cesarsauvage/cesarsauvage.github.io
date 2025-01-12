@@ -2,10 +2,10 @@
 title: "Misaligned Wind-Waves Behind Atmospheric Cold Fronts"
 authors:
 - admin
-- Hyodae Seo
-- Benjamin W. Barr
-- Carol Anne Clayson
-- James B. Edson
+- Seo, H.
+- Barr, B.
+- Clayson, C-A.
+- Edson, J.
 date: "2024-08-28T00:00:00Z"
 doi: ""
 

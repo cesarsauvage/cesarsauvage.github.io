@@ -1,10 +1,10 @@
 ---
 title: "The wave-age-dependent stress parameterisation (WASP) for momentum and heat turbulent fluxes at sea in SURFEX v8.1"
 authors:
-- Marie-Noëlle Bouin
-- Cindy Lebeaupin Brossier
-- Sylvie Malardel
-- Aurore Voldoire
+- Bouin, M-B.
+- Lebeaupin Brossier, C.
+- Malardel, S.
+- Voldoire, A.
 - admin
 author_notes:
 - ""

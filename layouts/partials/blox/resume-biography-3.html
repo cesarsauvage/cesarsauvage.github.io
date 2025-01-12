@@ -54,10 +54,11 @@
 
       <div class="text-3xl font-bold mb-2 mt-6">
         {{- if $person.name_pronunciation -}}
-          <ruby>
-            <rb>{{ $person_page.Title }}</rb>
-            <rt>{{ $person.name_pronunciation }}</rt>
-          </ruby>
+          {{ $person.name_pronunciation }}
+          <!-- <ruby> -->
+            <!-- <rb>{{ $person_page.Title }}</rb> -->
+            <!-- <rt>{{ $person.name_pronunciation }}</rt> -->
+          <!-- </ruby> -->
         {{- else -}}
           {{- $person_page.Title -}}
         {{- end -}}

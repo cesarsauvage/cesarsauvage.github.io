@@ -2,9 +2,9 @@
 title: "Characterization of the air–sea exchange mechanisms during a Mediterranean heavy precipitation event using realistic sea state modelling"
 authors:
 - admin
-- Cindy Lebeaupin Brossier
-- Marie-Noëlle Bouin
-- Véronique Ducrocq
+- Lebeaupin Brossier, C.
+- Bouin, M-B.
+- Ducrocq, V.
 
 date: "2020-02-11T00:00:00Z"
 doi: ""

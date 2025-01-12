@@ -2,13 +2,13 @@
 title: "Impact of the representation of the freshwater river input in the Western Mediterranean Sea"
 authors:
 - admin
-- Cindy Lebeaupin Brossier
-- Véronique Ducrocq
-- Marie-Noëlle Bouin
-- Béatrice Vincendon
-- Marco Verdecchia
-- Isabelle Taupier-Letage
-- Françoise Orain
+- Lebeaupin Brossier, C.
+- Ducrocq, V.
+- Bouin, M-B.
+- Vincendon, B.
+- Verdecchia, M.
+- Taupier-Letage, I.
+- Orain, F.
 
 date: "2018-09-12T00:00:00Z"
 doi: ""

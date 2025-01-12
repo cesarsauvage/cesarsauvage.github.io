@@ -1,56 +1,56 @@
 ---
 title: "The Air-Sea Interaction (ASI) submesoscale: physics and impact"
 authors:
-    - Louise Nuijens
-    - JacobWenegrat
-    - Paco Lopez Dekker
-    - Claudia Pasquero
-    - LarryW. O’Neill
-    - Fabrice Ardhuin
-    - Alex Ayet
-    - Peter Bechtold
-    - William Bruch
-    - Lucas C. Laurindo
-    - Xuanyu Chen
-    - Fabien Desbiolles
-    - Ralph Foster
-    - Ivy Frenger
-    - Geet George
-    - Rianne Giesen
-    - Emily E. Hayden
-    - Momme Hell
-    - Suneil Iyer
-    - Josh Kousal
-    - Nathan Laxague
-    - Luc Lenain
-    - Mariana Maia Pacheco
-    - Agostino N. Meroni
-    - Shoshiro Minobe
-    - Caroline Muller
-    - Owen O’Driscoll
-    - Vera Oerder
-    - Nick Pizzo
-    - Dian Putrasahan
-    - Jean-Luc Redelsperger
-    - Lionel Renault
-    - Björn Rommen
+    - Nuijens, L.
+    - Wenegrat, J.
+    - Lopez Dekker, P.
+    - Pasquero, C.
+    - O’Neill, L.
+    - Ardhuin, F.
+    - Ayet, A.
+    - Bechtold, P.
+    - Bruch, W.
+    - Laurindo, L.
+    - Chen, X.
+    - Desbiolles, F.
+    - Foster, R.
+    - Frenger, I.
+    - George, G.
+    - Giesen, R.
+    - Hayden, E.
+    - Hell, M.
+    - Iyer, S.
+    - Kousal, J.
+    - Laxague, N.
+    - Lenain, L.
+    - Maia Pacheco, M.
+    - N. Meroni, A.
+    - Minobe, S.
+    - Muller, C.
+    - O’Driscoll, O.
+    - Oerder, V.
+    - Pizzo, N.
+    - Putrasahan, D.
+    - Redelsperger, J-L.
+    - Renault, L.
+    - Rommen, B.
     - admin
-    - Niklas Schneider
-    - Mingming Shao
-    - Pier Siebesma
-    - Justin Small
-    - Bjorn Stevens
-    - Ad Stoffelen
-    - Ehud Strobach
-    - Peter Sullivan
-    - Elizabeth J. Thompson
-    - LuAnne Thompson
-    - Igor Uchoa
-    - Doug Vandemark
-    - Bia Villas Boas
-    - Bowen Yang
-    - Dongxiao Zhang
-    - Seth Zippel
+    - Schneider, N.
+    - Shao, M.
+    - Siebesma, P.
+    - Small, J.
+    - Stevens, B.
+    - Stoffelen, A.
+    - Strobach, E.
+    - Sullivan, P.
+    - Thompson, E.
+    - Thompson, L.
+    - Uchoa, I.
+    - Vandemark, D.
+    - Villas Boas, B.
+    - Yang, B.
+    - Zhang, D.
+    - Zippel, S.
 date: "2024-11-08T00:00:00Z"
 doi: ""
 
