@@ -25,7 +25,7 @@ sections:
 #      view: citation
   - block: collection
     content:
-      title: Journal Articles
+      title: 
       filters:
         folders:
           - publications
@@ -34,26 +34,5 @@ sections:
       count: 100
     design:
       view: citation
-  - block: collection
-    content:
-      title: White Paper
-      text: ""
-      filters:
-        folders:
-          - publications
-        publication_type: report
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    content:
-      title: Dissertation
-      text: ""
-      filters:
-        folders:
-          - publications
-        publication_type: thesis
-        exclude_featured: false
-    design:
-      view: citation
+
 ---
