@@ -13,3 +13,7 @@
     max-height: 225px;
     object-fit: cover;
   }
+
+  .container {
+    max-width: 80%;
+}
