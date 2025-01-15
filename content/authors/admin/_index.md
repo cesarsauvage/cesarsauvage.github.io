@@ -143,11 +143,12 @@ work:
 #      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
 ---
-
-# About Me
+# |   -->  [We are Hiring](https://hyodaeseo.com/post/25-01-12_new_postdoc/)
 
 I am currently a Oceanographic Researcher at the University of Hawaiʻi at Mānoa working in [Dr. Hyodae Seo Lab](https://hyodae-seo.github.io). My research focuses on advancing our understanding of air-sea interactions and exploring how the ocean influences both regional weather and climate. 
 
 To address these complex issues, I utilize coupled Earth system models, such as the SCOAR Regional Coupled Mode, which simulate interactions between the atmosphere, ocean, and surface waves. In addition to numerical simulations, I extensively analyze observational datasets of the marine boundary layer to evaluate current modeling capabilities and identify areas for improvement.
         
 Improving the representation of air-sea interactions in these models is crucial, not only for enhancing weather forecasts but also for optimizing offshore wind energy assessments.
+
+
