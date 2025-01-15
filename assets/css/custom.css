@@ -17,6 +17,9 @@
   .container {
     max-width: 80%;
 }
+
+
+
 div.list {
   counter-reset: list-number 9; /* initializes counter to 0; use -1 for zero-based numbering */
 }
