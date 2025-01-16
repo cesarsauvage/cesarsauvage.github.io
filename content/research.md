@@ -11,13 +11,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Coming Soon...
+      title: #Coming Soon...
       text: 
       filters:
         folders:
           - project
     design:
       view: card
-      fill_image: true
+      fill_image: false
       columns: 1
 ---
