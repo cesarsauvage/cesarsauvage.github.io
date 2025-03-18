@@ -144,7 +144,7 @@ work:
 
 ---
 
-## About Me
+## About Me 
 
 I am currently a Oceanographic Researcher at the University of Hawaiʻi at Mānoa working in [Dr. Hyodae Seo Lab](https://hyodae-seo.github.io). My research focuses on advancing our understanding of air-sea interactions and exploring how the ocean influences both regional weather and climate. 
 
