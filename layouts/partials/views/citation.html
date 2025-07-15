@@ -9,7 +9,8 @@
     {{ partial "page_metadata_authors" $item }}
   </span>
   ({{- $item.Date.Format "2006" -}}).
-  <a href="{{ $item.RelPermalink }}" class="underline">{{ $item.Title }}</a>.
+  <!-- <a href="{{ $item.RelPermalink }}" class="underline">{{ $item.Title }}</a>. --> 
+  <u> {{ $item.Title }}. </u>
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}}.
   {{ else if $item.Params.publication }}
