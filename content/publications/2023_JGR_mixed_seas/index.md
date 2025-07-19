@@ -18,6 +18,8 @@ author_notes:
 date: '2023-03-07T00:00:00Z'
 doi: ''
 
+external_link: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019277
+
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
 

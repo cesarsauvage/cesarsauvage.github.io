@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Research'
+date: 2020-02-01
 type: landing
 
 design:
@@ -11,13 +11,12 @@ design:
 sections:
   - block: collection
     content:
-      title: #Coming Soon...
+      title: Research Topics 
       text: 
       filters:
         folders:
-          - project
+          - research
     design:
-      view: card
-      fill_image: false
-      columns: 1
+      view: article-grid
+      columns: 2
 ---

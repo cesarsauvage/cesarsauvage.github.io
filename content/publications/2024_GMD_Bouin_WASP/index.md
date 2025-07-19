@@ -12,6 +12,8 @@ author_notes:
 date: "2024-01-09T00:00:00Z"
 doi: ""
 
+external_link: https://gmd.copernicus.org/articles/17/117/2024/
+
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
 

@@ -54,3 +54,10 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+params:
+  home:
+    posts:
+      imagePreview: true
+  
+ 

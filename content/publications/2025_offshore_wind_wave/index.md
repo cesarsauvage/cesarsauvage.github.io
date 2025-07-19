@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In Prep."# for Journal Of Geophysical Research: Oceans"
-publication_short: "In Prep"# for JGR: Oceans"
+publication_short: "Submitted"# for JGR: Oceans"
 
 abstract: <div style="text-align:justify">  </div>
 

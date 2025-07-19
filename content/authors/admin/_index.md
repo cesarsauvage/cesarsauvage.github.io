@@ -146,7 +146,7 @@ work:
 
 ## About Me 
 
-I am currently a Oceanographic Researcher at the University of Hawaiʻi at Mānoa working in [Dr. Hyodae Seo Lab](https://hyodae-seo.github.io). My research focuses on advancing our understanding of air-sea interactions and exploring how the ocean influences both regional weather and climate. 
+I am currently a Oceanographic Researcher at the University of Hawaiʻi at Mānoa working in [Dr. Hyodae Seo Lab](https://hyodaeseo.com). My research focuses on advancing our understanding of air-sea interactions and exploring how the ocean influences both regional weather and climate. 
 
 To address these complex issues, I utilize coupled Earth system models, such as the SCOAR Regional Coupled Mode, which simulate interactions between the atmosphere, ocean, and surface waves. In addition to numerical simulations, I extensively analyze observational datasets of the marine boundary layer to evaluate current modeling capabilities and identify areas for improvement.
         

@@ -22,6 +22,20 @@
   text-align: left !important;
 }
 
+.content-research {
+  max-width: 2800px !important;  /* Increase or decrease as needed */
+}
+
+.my_list {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.my_list_nest {
+  list-style-type: circle;
+  padding-left: 1.5rem;
+}
 
 .article-container {
   max-width: 1800px !important;  /* Increase or decrease as needed */

@@ -1,7 +1,9 @@
 ---
-title: "Posters"
+title: Posters
 #summary: "A custom image gallery"
-date: 2025-07-15
+type: page
+layout: custom_layout
+date: 2020-01-02
 ---
 
 <!-- Here’s a custom image gallery layout: -->
@@ -18,8 +20,38 @@ date: 2025-07-15
   </div>
 </div> -->
 
+<br>
+<div class="grid grid-cols-2 gap-6">
+  <figure class="flex flex-col items-center">
+  <a href="2025_WISE_Offshore_Windfarm_waves.jpg" target="_blank">
+  <img src="2025_WISE_Offshore_Windfarm_waves.jpg" alt="Image 1" class="w-full object-contain"> 
+  </a>
+  </figure>
+  <figure class="flex flex-col">
+  <a href="sauvage_clivar_2023_misaligned_wave_th.jpg" target="_blank">
+  <img src="sauvage_clivar_2023_misaligned_wave_th.jpg" alt="Image 2" style="height:160%; width:100%" class="w-full object-contain">
+  </a>
+  </figure>
+</div>
+<br>
 
-<div class="row">
+<div class="grid grid-cols-2 gap-6 ">
+  <figure class="flex flex-col items-center h-full justify-end">
+  <a href="sauvage_clivar_2023_mixed_sea_th.jpg" target="_blank">
+  <img src="sauvage_clivar_2023_mixed_sea_th.jpg" alt="Image 1" class="w-full object-contain">
+  </a>
+  </figure>
+  <figure class="flex flex-col items-center h-full justify-end">
+  <a href="Sauvage_Cesar_Clivar_2022_th.jpg" target="_blank">
+  <img src="Sauvage_Cesar_Clivar_2022_th.jpg" alt="Image 2" class="w-full object-contain">
+  </a>
+  </figure>
+</div>
+<br>
+
+
+
+<!--  <div class="row">
   <div class="col-md-4">
     <a href="2025_WISE_Offshore_Windfarm_waves.jpg" target="_blank">
       <img src="2025_WISE_Offshore_Windfarm_waves.jpg"  style="max-width: 150%; height: auto;" class="img-fluid" >
@@ -44,7 +76,7 @@ date: 2025-07-15
     </a>
     <div class="mt-2">----------------------------------</div>
   </div>
-</div>
+</div> -->
 
 
 <!-- 
