@@ -31,7 +31,6 @@ date: 2020-01-03
 </div>
 <br>
 
-<br>
 ** Invited Talk
 <br>
 
@@ -68,7 +67,7 @@ date: 2020-01-03
 <ul class="my_list_nest">
 <li><u>Sauvage C.</u>,  H. Seo, S. Zippel:Surface wave response to offshore wind farms off the Coast of New England. Talk.
 </li>
-<li>Seo H., <u>C. Sauvage</u>u>, C. Renkl, J. Lundquist and A. Kirincich: Anomalous Sea Surface and Ocean Mixed Layer Warming Driven by Large-Scale Offshore Wind Farms. Talk.
+<li>Seo H., <u>C. Sauvage</u>, C. Renkl, J. Lundquist and A. Kirincich: Anomalous Sea Surface and Ocean Mixed Layer Warming Driven by Large-Scale Offshore Wind Farms. Talk.
 	</li>
 </ul>
 
