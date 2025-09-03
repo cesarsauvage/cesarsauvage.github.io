@@ -36,6 +36,52 @@ date: 2020-01-03
 <br>
 
 <div class="text-2xl">
+<strong>2025</strong>
+</div>
+
+<ul class="my_list">
+
+<li><strong>Mesoscale and Sub-mesoscale Ocean Dynamics and Air-Sea Interaction</strong>,Honolulu, HI, USA, Aug. 2025.<br>
+<u>Sauvage C.</u>, H. Seo, B. Barr, J. B. Edson and C-A. Clayson: Impacts of surface waves on air-sea flux and marine boundary layer processes. Talk. 
+</li>
+
+<li><strong>Waves in Sea Environments (WISE) meeting </strong>, WA, USA, May 2025.</li>
+<ul class="my_list_nest">
+<li><u>Sauvage C.</u>,  H. Seo, B. Barr, J. B. Edson and C-A. Clayson: Misaligned Wind-Waves Behind Atmospheric Cold Fronts. Talk.
+</li>
+<li><u>Sauvage C.</u>, H. Seo, S. Zippel: Surface wave response to offshore wind farms off the Coast of New England. Poster.
+</li>
+</ul>
+
+<li><strong>**International Climate AND Ocean sciences meeting (ICANDO) </strong>,  Virtual, Jan. 2025.<br> 
+<u>Sauvage C.</u>, H. Seo, B. Barr, C-A. Clayson and J. B. Edson: Ocean surface waves impact on air-sea momentum flux. Talk.
+</li>
+</ul>
+
+<div class="text-2xl">
+<strong>2024</strong>
+</div>
+
+<ul class="my_list">
+
+<li><strong>NAWEA/WindTech 2024 Conference </strong>, New Jersey, NJ, USA, Nov. 2024.</li>
+<ul class="my_list_nest">
+<li><u>Sauvage C.</u>,  H. Seo, S. Zippel:Surface wave response to offshore wind farms off the Coast of New England. Talk.
+</li>
+<li>Seo H., <u>C. Sauvage</u>u>, C. Renkl, J. Lundquist and A. Kirincich: Anomalous Sea Surface and Ocean Mixed Layer Warming Driven by Large-Scale Offshore Wind Farms. Talk.
+	</li>
+</ul>
+
+<li><strong>The 5th Workshop on Waves and Wave-Coupled Processes </strong>, Reading, UK, Apr. 2024.<br> 
+<u>Sauvage C.</u>, H. Seo, B. Barr, C-A. Clayson and J. B. Edson: Misaligned Wind-Waves Behind Atmospheric Cold Fronts. Talk.
+</li>
+
+<li><strong>Ocean Science Meeting 2024</strong>, New Orleans, LA, USA, Feb. 2024.<br>
+<u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Air-Sea Flux Impacts Over Misaligned Waves During Atmospheric Cold Fronts. Talk.
+</li>
+</ul>
+
+<div class="text-2xl">
 <strong>2023</strong>
 </div>
 
@@ -112,6 +158,10 @@ Seo H., <u> C. Sauvage</u>, J.B. Edson and C-A. Clayson: Surface wave impacts on
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J.B. Edson: Impacts of sea states on momentum flux in the Northwest Tropical Atlantic Ocean.</li>
  	<li><strong>The International Workshop for Mid-Latitude Air-Sea Interaction</strong>, Virtual, June 2021. <br> 
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J.B. Edson : Effects of sea state and small-scale currents on air-sea fluxes in the Northwest Tropical Atlantic Ocean.</li>
+
+<li><strong>Pohang University of Science and Technology (POSTECH) seminar</strong>, Virtual, Apr. 2021.<br>
+<u>Sauvage C.</u>, C. Lebeaupin Brossier, M-N. Bouin, H. Seo and C-A. Clayson: Modeling of ocean mesoscale variability and coupled ocean atmosphere interaction. Talk.
+</li>
  	<li><strong>EGU Annual Meeting</strong>, Virtual, April 2021. <br> 
 <u>Sauvage C.</u>, H. Seo, C-A. Clayson and J.B. Edson : Effects of sea state and small-scale currents on air-sea fluxes in the Northwest Tropical Atlantic Ocean.</li>
  	<li><strong>AMS 2021: 22nd Conference on Air-Sea Interaction</strong>, Virtual, January 2021. <br> 
