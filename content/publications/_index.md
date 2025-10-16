@@ -25,14 +25,28 @@ sections:
 #      view: citation
   - block: collection
     content:
-      title: 
+      title: Submitted/In Review
       filters:
         folders:
           - publications
-        publication_type: article-journal
+        tags: submitted
+        publication_type: submitted
         exclude_featured: false
       count: 100
     design:
       view: citation
+      
+  - block: collection
+    content:
+      title: Published
+      filters:
+        folders:
+          - publications
+        tags: published
+        publication_type: article-journal
+        exclude_featured: false
+      count: 100
+    design:
+      view: citation_pb
 
 ---

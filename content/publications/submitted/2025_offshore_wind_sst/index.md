@@ -15,11 +15,11 @@ doi: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["submitted"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Revision"# for Science Advances"
-publication_short: "Under Revision"# for Science Advances"
+publication: "Accepted in Science Advances"
+publication_short: "Accepted in Science Advances"
 
 abstract: <div style="text-align:justify">  </div>
 
@@ -27,7 +27,7 @@ abstract: <div style="text-align:justify">  </div>
 summary: <div style="text-align:justify">  </div>
 
 tags:
-- SST Ocean Coupling
+- submitted
 
 featured: false
 
