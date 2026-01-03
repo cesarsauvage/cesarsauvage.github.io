@@ -28,7 +28,7 @@ summary: <div style="text-align:justify">  </div>
 
 tags:
 
-featured: false
+featured: true
 
 links:
 - name: Link
