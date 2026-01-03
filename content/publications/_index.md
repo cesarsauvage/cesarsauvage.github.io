@@ -35,8 +35,7 @@ sections:
 #        exclude_featured: false
 #      count: 100
 #    design:
-#      view: citation
-      
+#      view: citation     
   - block: collection
     content:
       title: Published
