@@ -23,19 +23,18 @@ sections:
 #        exclude_featured: false
 #    design:
 #      view: citation
-#
-#  - block: collection
-#    content:
-#      title: Submitted/In Review
-#      filters:
-#        folders:
-#          - publications
-#        tags: submitted
-#        publication_type: submitted
-#        exclude_featured: false
-#      count: 100
-#    design:
-#      view: citation     
+  - block: collection
+    content:
+      title: Submitted/In Review
+      filters:
+        folders:
+          - publications
+        tags: submitted
+        publication_type: submitted
+        exclude_featured: false
+      count: 100
+    design:
+      view: citation     
   - block: collection
     content:
       title: Published
