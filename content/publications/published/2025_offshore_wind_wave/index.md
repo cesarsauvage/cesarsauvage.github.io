@@ -9,6 +9,8 @@ authors:
 date: "2025-12-23T00:00:00Z"
 doi: ""
 
+external_link: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023156
+
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
 

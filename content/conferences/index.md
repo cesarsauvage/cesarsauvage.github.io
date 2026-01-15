@@ -34,11 +34,21 @@ date: 2020-01-03
 ** Invited Talk
 <br>
 
+
 <div class="text-2xl">
 <strong>2025</strong>
 </div>
 
 <ul class="my_list">
+
+<li><strong>**AGU 2025 Fall meeting</strong>,New Orleans, LA, USA, Dec. 2025.<br>
+<u>Sauvage C.</u>, H. Seo, B. Barr, J. B. Edson and C-A. Clayson: Impacts of surface waves on air-sea flux and marine boundary layer processes. Talk. 
+</li>
+
+<li><strong>SA3NDBAR</strong>,Monterey, CA, USA, Dec. 2025.<br>
+<u>Sauvage C.</u>, H. Seo, B. Barr, C-A. Clayson and J. B. Edson: Misaligned Wind-Waves Behind Atmospheric Cold Fronts. Poster. 
+</li>
+
 
 <li><strong>Mesoscale and Sub-mesoscale Ocean Dynamics and Air-Sea Interaction</strong>,Honolulu, HI, USA, Aug. 2025.<br>
 <u>Sauvage C.</u>, H. Seo, B. Barr, J. B. Edson and C-A. Clayson: Impacts of surface waves on air-sea flux and marine boundary layer processes. Talk. 
@@ -133,7 +143,7 @@ date: 2020-01-03
 </div>
 
 <ul class="my_list">
- 	<li><strong>AGU 2022 </strong>, Chicago, IL, USA, Dec. 2022.</li>
+ 	<li><strong>AGU 2022 Fall Meeting </strong>, Chicago, IL, USA, Dec. 2022.</li>
 <ul class="my_list_nest"><li><u>Sauvage C.</u>, H. Seo, C-A. Clayson and J. B. Edson: Impacts of Waves and Sea States on Air-Sea Momentum Flux in the Northwest Tropical Atlantic Ocean: Parameterization and Wave Coupled Climate Modeling.</li>
  	<li>Edson J.B., D. C. Vandemark, H. Seo, M. Emond, <u>C. Sauvage</u> and C-A. Clayson: Improvements to the COARE Bulk Flux Algorithm using OOI Surface Flux Data. (Poster, co-author)</li>
  	<li>DeSilva A.M., K. L. Daly, G. Voulgaris, J. B. Edson, A. J. Plueddemann, <u>C. Sauvage</u>, A. Nath, K. G. Bemis, E. Biondi, A. S. Bower, M. Denolle, J. Fang and A. Z. Wang: Ocean Observatories Initiative Facility Board (OOIFB) Town Hall. (Lightening talk, co-author)</li></ul>
@@ -172,7 +182,7 @@ Seo H., <u> C. Sauvage</u>, J.B. Edson and C-A. Clayson: Surface wave impacts on
 </div>
 
 <ul class="my_list">
- 	<li><strong>AGU Fall Meeting</strong>, Virtual, December 2020. <br> 
+ 	<li><strong>AGU 2020 Fall Meeting</strong>, Virtual, December 2020. <br> 
 <u>Sauvage C.</u>, H. Seo and C-A. Clayson: <em>Modeling of ocean mesoscale variability and coupled ocean-atmosphere interaction in the Northwest Tropical Atlantic Ocean</em>.</li>
  	<li><strong> WHOI Physical Oceanography Seminar</strong>, Woods Hole, MA, USA, September 2020. <br> 
 <u>Sauvage C.</u>, C. Lebeaupin Brossier,  M-N. Bouin and V. Ducrocq : <em>Ocean-atmosphere coupling for prediction of Mediterranean heavy precipitation events: better modeling and impacts of river runoff and sea state</em>.</li>
