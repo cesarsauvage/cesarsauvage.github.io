@@ -3,7 +3,7 @@ title: "Improving the Understanding and Forecasting of Winds over the Northeast 
 authors:
 - Kirincich, A. and coauthors including
 - admin
-date: "2026-01-20T00:00:00Z"
+date: "2026-01-18T00:00:00Z"
 doi: ""
 
 #external_link: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023156
