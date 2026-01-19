@@ -44,7 +44,7 @@
 }
 
 div.list {
-  counter-reset: list-number 13; /* initializes counter to 0; use -1 for zero-based numbering */
+  counter-reset: list-number 14; /* initializes counter to 0; use -1 for zero-based numbering */
 }
 
 /** Note that we can use counter-increment in :before psuedo element **/
