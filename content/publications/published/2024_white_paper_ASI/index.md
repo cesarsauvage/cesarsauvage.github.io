@@ -1,56 +1,57 @@
 ---
 title: "The Air-Sea Interaction (ASI) submesoscale: physics and impact"
 authors:
-    - Nuijens, L.
-    - Wenegrat, J.
-    - Lopez Dekker, P.
-    - Pasquero, C.
-    - O’Neill, L.
-    - Ardhuin, F.
-    - Ayet, A.
-    - Bechtold, P.
-    - Bruch, W.
-    - Laurindo, L.
-    - Chen, X.
-    - Desbiolles, F.
-    - Foster, R.
-    - Frenger, I.
-    - George, G.
-    - Giesen, R.
-    - Hayden, E.
-    - Hell, M.
-    - Iyer, S.
-    - Kousal, J.
-    - Laxague, N.
-    - Lenain, L.
-    - Maia Pacheco, M.
-    - N. Meroni, A.
-    - Minobe, S.
-    - Muller, C.
-    - O’Driscoll, O.
-    - Oerder, V.
-    - Pizzo, N.
-    - Putrasahan, D.
-    - Redelsperger, J-L.
-    - Renault, L.
-    - Rommen, B.
+    - Nuijens, L. and coauthors including
     - admin
-    - Schneider, N.
-    - Shao, M.
-    - Siebesma, P.
-    - Small, J.
-    - Stevens, B.
-    - Stoffelen, A.
-    - Strobach, E.
-    - Sullivan, P.
-    - Thompson, E.
-    - Thompson, L.
-    - Uchoa, I.
-    - Vandemark, D.
-    - Villas Boas, B.
-    - Yang, B.
-    - Zhang, D.
-    - Zippel, S.
+#    - Wenegrat, J.
+#    - Lopez Dekker, P.
+#    - Pasquero, C.
+#    - O’Neill, L.
+#    - Ardhuin, F.
+#    - Ayet, A.
+#    - Bechtold, P.
+#    - Bruch, W.
+#    - Laurindo, L.
+#    - Chen, X.
+#    - Desbiolles, F.
+#    - Foster, R.
+#    - Frenger, I.
+#    - George, G.
+#    - Giesen, R.
+#    - Hayden, E.
+#    - Hell, M.
+#    - Iyer, S.
+#    - Kousal, J.
+#    - Laxague, N.
+#    - Lenain, L.
+#    - Maia Pacheco, M.
+#    - N. Meroni, A.
+#    - Minobe, S.
+#    - Muller, C.
+#    - O’Driscoll, O.
+#    - Oerder, V.
+#    - Pizzo, N.
+#    - Putrasahan, D.
+#    - Redelsperger, J-L.
+#    - Renault, L.
+#    - Rommen, B.
+#    - admin
+#    - Schneider, N.
+#    - Shao, M.
+#    - Siebesma, P.
+#    - Small, J.
+#    - Stevens, B.
+#    - Stoffelen, A.
+#    - Strobach, E.
+#    - Sullivan, P.
+#    - Thompson, E.
+#    - Thompson, L.
+#    - Uchoa, I.
+#    - Vandemark, D.
+#    - Villas Boas, B.
+#    - Yang, B.
+#    - Zhang, D.
+#    - Zippel, S.
 date: "2024-11-08T00:00:00Z"
 doi: ""
 
