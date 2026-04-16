@@ -36,6 +36,18 @@ date: 2020-01-03
 
 
 <div class="text-2xl">
+<strong>2026</strong>
+</div>
+
+<ul class="my_list">
+
+<li><strong>AMS 37th Conference on Hurricanes and Tropical Meteorology</strong>,San Diego, CA, USA, Apr. 2026.<br>
+<u>Sauvage C.</u>, H. Seo, B. Barr, W. Pauly, S. Kerhalkar, C. Reyes, S. Yoshida, T. Bhirawa, H. Wu, S. Mitarai and C-A. Clayson: Wave–Wind Misalignment and Drag Coefficient Rolloff in High-Wind Tropical Cyclones. Talk. 
+</li>
+
+</ul>
+
+<div class="text-2xl">
 <strong>2025</strong>
 </div>
 
