@@ -1,5 +1,5 @@
 ---
-title:  Conferences
+title:  Meetings & Seminars
 #summary: "A custom image gallery"
 #type: page
 #layout: custom_layout
@@ -40,6 +40,14 @@ date: 2020-01-03
 </div>
 
 <ul class="my_list">
+
+<li><strong> Department of Oceanography Seminar (University of Hawai'i at Manoa)</strong>, Honolulu, HI, USA, May 2026.<br>
+<u>Sauvage C.</u>, & Co-Authors: Ocean response to offshore wind farms off the Coast of New England. Talk. 
+</li>
+
+<li><strong>**CICESE CROCO Summer School: Ocean-Atmosphere-Wave Courses</strong>, Virtual, May 2026.<br>
+<u>Sauvage C.</u>, & Co-Authors: Ocean surface waves impact on air-sea momentum flux. Talk. 
+</li>
 
 <li><strong>AMS 37th Conference on Hurricanes and Tropical Meteorology</strong>,San Diego, CA, USA, Apr. 2026.<br>
 <u>Sauvage C.</u>, H. Seo, B. Barr, W. Pauly, S. Kerhalkar, C. Reyes, S. Yoshida, T. Bhirawa, H. Wu, S. Mitarai and C-A. Clayson: Wave–Wind Misalignment and Drag Coefficient Rolloff in High-Wind Tropical Cyclones. Talk. 
