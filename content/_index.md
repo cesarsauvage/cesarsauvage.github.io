@@ -44,17 +44,17 @@ sections:
 #        Applicants must apply [online](https://hr.rcuh.com/psc/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=225530&PostingSeq=1). 
 #        
 #        Please contact Dr. Hyodae Seo (hyodae@hawaii.edu) and Dr. Cesar Sauvage (csauvage@hawaii.edu) with any questions.
-  - block: collection
-    id: publications
-    content:
-      title: Recent Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+#  - block: collection
+#    id: publications
+#    content:
+#      title: Recent Publications
+#      filters:
+#        folders:
+#          - publications
+#        featured_only: true
+#    design:
+#      view: article-grid
+#      columns: 2
 #  - block: collection
 #    content:
 #      title: Publications
