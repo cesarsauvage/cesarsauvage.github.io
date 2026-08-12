@@ -6,13 +6,13 @@ authors:
 - Zippel, S.
 - Clayson, C-A.
 - Edson, J.
-date: "2025-12-23T00:00:00Z"
+date: "2025-12-23"
 doi: ""
 
 external_link: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023156
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-12-23"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

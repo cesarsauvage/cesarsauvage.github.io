@@ -18,7 +18,7 @@ publication_types: ["submitted"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In Prep."# for Journal Of Geophysical Research: Oceans"
-publication_short: "In Prep"
+publication_short: "Bull. Amer. Meteo. Soc., Revision Submitted"
 
 abstract: <div style="text-align:justify"> </div>
 
