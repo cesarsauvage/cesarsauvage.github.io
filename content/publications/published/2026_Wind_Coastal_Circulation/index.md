@@ -9,7 +9,7 @@ authors:
 - admin
 - Renkl, C.
 
-date: 2026-01-15T
+date: 2026-01-15
 doi: ""
 
 #external_link: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023156
