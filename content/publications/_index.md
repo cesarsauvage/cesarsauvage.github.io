@@ -62,7 +62,7 @@ type: blank
 
 ## 2026
 
-10 . Kim, Y-J., Tanaka, K., Seo, H., Komatsu, K., Matsumura, Y., **Sauvage, C.**, Renkl, C. (2026). **The Role of Time- and Spatially Varying Wind in Coastal Circulation Based on High-Resolution Oceanic and Atmospheric Simulations.** J. Geophys. Res. Oceans.,
+10 . Kim, Y-J., Tanaka, K., Seo, H., Komatsu, K., Matsumura, Y., **Sauvage, C.**, Renkl, C. (2026). [**The Role of Time- and Spatially Varying Wind in Coastal Circulation Based on High-Resolution Oceanic and Atmospheric Simulations.**](pdf_papers/2026_JGR_YooJun_Kim_Otsuchi.pdf) J. Geophys. Res. Oceans., 131, e2026JC024033. DOI: [10.1029/2026JC024033](https://doi.org/10.1029/2026JC024033)
 
 ## 2025
 
