@@ -57,10 +57,11 @@ type: blank
 
 ## In Preparation or Under Review
 
-- Kirincich, A. and Coauthors Including, **Sauvage, C.** (2026). **Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3).** Bull. Amer. Meteo. Soc., Revision Submitted.
 - Barr, B.W., Seo, H., **Sauvage, C.**, Edson, J.B., Clayson, C.A., Chen, S., Zippel, S.F., Kim, B-M., Thompson, E.J., Fairall, C.W. (2026). **Understanding Bulk and Sea Spray Heat Fluxes in High Winds Using Direct Covariance Air-Sea Heat Flux Observations.** In Prep. for J. Phys. Oceanogr.
 
 ## 2026
+
+11 . Kirincich, A. and Coauthors Including, **Sauvage, C.** (2026). [**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3).**](pdf_papers/2026_BAMS_Anthony_Kirincich_WFIP3.pdf) Bull. Amer. Meteor. Soc., BAMS-D-25-0201.1, DOI: [10.1175/BAMS-D-25-0201.1](https://doi.org/10.1175/BAMS-D-25-0201.1)
 
 10 . Kim, Y-J., Tanaka, K., Seo, H., Komatsu, K., Matsumura, Y., **Sauvage, C.**, Renkl, C. (2026). [**The Role of Time- and Spatially Varying Wind in Coastal Circulation Based on High-Resolution Oceanic and Atmospheric Simulations.**](pdf_papers/2026_JGR_YooJun_Kim_Otsuchi.pdf) J. Geophys. Res. Oceans., 131, e2026JC024033. DOI: [10.1029/2026JC024033](https://doi.org/10.1029/2026JC024033)
 
